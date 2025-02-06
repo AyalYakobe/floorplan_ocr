@@ -1,8 +1,16 @@
 {
-    "text": "P - 568C",
-    "font": "DIN Alternate Bold.ttf",
-    "rotation": 0,
-    "underlined": true,
+    "texts": [
+        {
+            "text": "6GBB0J5Q",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Narrow Italic.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000017.png",
     "white_background": false
 }

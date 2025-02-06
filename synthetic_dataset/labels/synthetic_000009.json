@@ -1,8 +1,16 @@
 {
-    "text": "E - 847A",
-    "font": "Brush Script.ttf",
+    "texts": [
+        {
+            "text": "J",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "BigCaslon.ttf",
     "rotation": 0,
-    "underlined": false,
     "image_path": "synthetic_000009.png",
     "white_background": false
 }

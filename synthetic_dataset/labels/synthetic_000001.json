@@ -1,8 +1,16 @@
 {
-    "text": "P - 774B",
+    "texts": [
+        {
+            "text": "UVNLH",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
     "font": "Krungthep.ttf",
-    "rotation": 90,
-    "underlined": false,
+    "rotation": 0,
     "image_path": "synthetic_000001.png",
     "white_background": false
 }

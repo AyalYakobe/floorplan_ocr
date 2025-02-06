@@ -22,21 +22,21 @@ def fill_transparent_space(image, fill_color):
     return background
 
 def add_bounding_shape(image, background_width, background_height):
-    """Adds a larger bounding rectangle or circle around the text."""
+    """Adds a larger bounding rectangle or circle around the text with proper padding."""
     if random.random() > BOUNDING_SHAPE_PROBABILITY:
         return image, None  # Skip adding a bounding shape
 
     bounding_shape = random.choice(["rectangle", "circle"])
     width, height = image.size
-    padding = EXTRA_PADDING  # More space around the text
+    padding = EXTRA_PADDING  # Use large padding to ensure the text is well-separated
     boundary_thickness = random.randint(MIN_BOUNDARY_THICKNESS, MAX_BOUNDARY_THICKNESS)
 
-    # Increase canvas size for the shape
-    new_size = (width + padding * 2, height + padding * 2)
-    shape_overlay = Image.new("RGBA", new_size, (0, 0, 0, 0))
+    # Create a new canvas with larger dimensions to accommodate the padding
+    new_size = (width + 2 * padding, height + 2 * padding)
+    shape_overlay = Image.new("RGBA", new_size, (0, 0, 0, 0))  # Transparent overlay
     draw = ImageDraw.Draw(shape_overlay)
 
-    # Adjusted positions for the shape
+    # Define the bounding box for the shape
     shape_bbox = (padding, padding, new_size[0] - padding, new_size[1] - padding)
 
     if bounding_shape == "rectangle":
@@ -44,10 +44,10 @@ def add_bounding_shape(image, background_width, background_height):
     elif bounding_shape == "circle":
         draw.ellipse(shape_bbox, outline="black", width=boundary_thickness)
 
-    # Paste text onto the larger canvas
+    # Paste the text image at the center of the padded area
     shape_overlay.paste(image, (padding, padding), image)
 
-    # Ensure the shape stays within the background image
+    # Resize if the new image with the shape exceeds the background size
     new_width, new_height = shape_overlay.size
     if new_width > background_width or new_height > background_height:
         scale_factor = min(background_width / new_width, background_height / new_height)
@@ -55,6 +55,7 @@ def add_bounding_shape(image, background_width, background_height):
         shape_overlay = shape_overlay.resize(new_size, Image.LANCZOS)
 
     return shape_overlay, bounding_shape
+
 
 def add_random_arrow_or_line(draw, canvas_size, shape_bbox):
     """Draws a line or arrow extending outward from the bounding shape."""
@@ -115,7 +116,7 @@ def apply_backgrounds_to_text_images():
         background_path = random.choice(background_images)
         background = Image.open(background_path).convert("RGBA")
 
-        scale_factor = random.uniform(0.2, 0.4)  # Smaller text to fit inside
+        scale_factor = random.uniform(0.4, 0.4)  # Smaller text to fit inside
         smaller_text_size = (int(text_image.width * scale_factor), int(text_image.height * scale_factor))
         text_image = text_image.resize(smaller_text_size, Image.LANCZOS)
 

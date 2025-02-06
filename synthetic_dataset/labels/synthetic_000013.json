@@ -1,8 +1,32 @@
 {
-    "text": "E - 909C",
-    "font": "Courier New Bold Italic.ttf",
+    "texts": [
+        {
+            "text": "J2B",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "M9PCVDXB",
+            "position": [
+                10,
+                76
+            ],
+            "underlined": false
+        },
+        {
+            "text": "R-91-CUGGN4",
+            "position": [
+                10,
+                142
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "AppleMyungjo.ttf",
     "rotation": 90,
-    "underlined": false,
     "image_path": "synthetic_000013.png",
     "white_background": false
 }

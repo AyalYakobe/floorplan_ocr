@@ -1,8 +1,16 @@
 {
-    "text": "M - 983A",
-    "font": "Bradley Hand Bold.ttf",
-    "rotation": 90,
-    "underlined": false,
+    "texts": [
+        {
+            "text": "EDAR-FNHC14",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Diwan Thuluth.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000007.png",
     "white_background": false
 }

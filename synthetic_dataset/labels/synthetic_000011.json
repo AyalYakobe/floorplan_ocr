@@ -1,8 +1,16 @@
 {
-    "text": "E - 426D",
-    "font": "Georgia.ttf",
+    "texts": [
+        {
+            "text": "59-MQ060-K",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Narrow.ttf",
     "rotation": 0,
-    "underlined": false,
     "image_path": "synthetic_000011.png",
     "white_background": false
 }

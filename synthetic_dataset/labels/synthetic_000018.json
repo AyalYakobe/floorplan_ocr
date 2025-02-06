@@ -1,8 +1,16 @@
 {
-    "text": "M - 996D",
-    "font": "Kokonor.ttf",
+    "texts": [
+        {
+            "text": "GJ0SO-H7",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Chalkduster.ttf",
     "rotation": 90,
-    "underlined": false,
     "image_path": "synthetic_000018.png",
     "white_background": true
 }

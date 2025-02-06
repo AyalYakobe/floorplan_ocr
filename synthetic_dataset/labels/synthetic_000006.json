@@ -1,8 +1,16 @@
 {
-    "text": "M - 139A",
-    "font": "Courier New Bold.ttf",
-    "rotation": 0,
-    "underlined": true,
+    "texts": [
+        {
+            "text": "SF",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "AppleGothic.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000006.png",
     "white_background": true
 }

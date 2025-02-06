@@ -1,8 +1,32 @@
 {
-    "text": "M - 964D",
-    "font": "Arial Bold Italic.ttf",
+    "texts": [
+        {
+            "text": "B8Q6W-KF",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "X3X-D",
+            "position": [
+                10,
+                92
+            ],
+            "underlined": false
+        },
+        {
+            "text": "CZQJ199D",
+            "position": [
+                10,
+                170
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Narrow Bold.ttf",
     "rotation": 90,
-    "underlined": true,
     "image_path": "synthetic_000008.png",
     "white_background": true
 }

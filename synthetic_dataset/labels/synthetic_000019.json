@@ -1,8 +1,16 @@
 {
-    "text": "P - 202B",
-    "font": "Kokonor.ttf",
+    "texts": [
+        {
+            "text": "QZTK9-V",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Bodoni 72 Smallcaps Book.ttf",
     "rotation": 0,
-    "underlined": false,
     "image_path": "synthetic_000019.png",
     "white_background": false
 }

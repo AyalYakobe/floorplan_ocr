@@ -1,8 +1,16 @@
 {
-    "text": "P - 783D",
-    "font": "Diwan Thuluth.ttf",
+    "texts": [
+        {
+            "text": "I7-23SX-A",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Comic Sans MS Bold.ttf",
     "rotation": 0,
-    "underlined": false,
     "image_path": "synthetic_000000.png",
     "white_background": true
 }

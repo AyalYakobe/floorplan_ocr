@@ -1,8 +1,16 @@
 {
-    "text": "M - 302A",
-    "font": "Arial.ttf",
+    "texts": [
+        {
+            "text": "FRX64CJNV",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "AppleGothic.ttf",
     "rotation": 90,
-    "underlined": true,
     "image_path": "synthetic_000015.png",
     "white_background": false
 }
