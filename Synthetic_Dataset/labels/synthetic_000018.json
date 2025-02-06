@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "V4IDW7I6JD",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Andale Mono.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000018.png",
+    "white_background": true
+}

@@ -1,0 +1,10 @@
+Andale Mono.ttf
+Arial.ttf
+Arial Bold.ttf
+Arial Narrow.ttf
+Courier New.ttf
+DIN Alternate Bold.ttf
+DIN Condensed Bold.ttf
+Futura.ttc
+Impact.ttf
+Microsoft Sans Serif.ttf

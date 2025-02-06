@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "20-N6VUQP",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "DIN Alternate Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000001.png",
+    "white_background": false
+}

@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "AI-6PK-UP",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial Narrow.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000014.png",
+    "white_background": true
+}

@@ -1,0 +1,24 @@
+{
+    "texts": [
+        {
+            "text": "KL-WWY",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "EU",
+            "position": [
+                10,
+                90
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Impact.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000005.png",
+    "white_background": false
+}

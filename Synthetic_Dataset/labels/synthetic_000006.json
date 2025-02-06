@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "BVVFJ-DHOWP",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "63",
+            "position": [
+                10,
+                96
+            ],
+            "underlined": true
+        },
+        {
+            "text": "CD-7-Y",
+            "position": [
+                10,
+                182
+            ],
+            "underlined": false
+        },
+        {
+            "text": "S-FO-6",
+            "position": [
+                10,
+                268
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Impact.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000006.png",
+    "white_background": true
+}
