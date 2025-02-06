@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "5W98W1BD14",
+            "text": "1O-L-Q",
             "position": [
                 10,
                 10
@@ -9,7 +9,7 @@
             "underlined": false
         }
     ],
-    "font": "Arial Bold.ttf",
+    "font": "Courier New.ttf",
     "rotation": 0,
     "image_path": "synthetic_000017.png",
     "white_background": false

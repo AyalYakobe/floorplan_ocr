@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "1ARZ8AHLQ",
+            "text": "U-Y82UF",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
     "font": "Courier New.ttf",
-    "rotation": 0,
+    "rotation": 90,
     "image_path": "synthetic_000004.png",
     "white_background": true
 }

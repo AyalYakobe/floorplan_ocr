@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "DVJHH7QZ",
+            "text": "6KRBFNF",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Arial Bold.ttf",
-    "rotation": 0,
+    "font": "Courier New.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000015.png",
     "white_background": false
 }

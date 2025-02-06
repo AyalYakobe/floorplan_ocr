@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "20-N6VUQP",
+            "text": "V-4-CU",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
         }
     ],
-    "font": "DIN Alternate Bold.ttf",
-    "rotation": 90,
+    "font": "Andale Mono.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000001.png",
     "white_background": false
 }

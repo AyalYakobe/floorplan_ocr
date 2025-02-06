@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "XRB",
+            "text": "CGMOYD57C",
             "position": [
                 10,
                 10
@@ -9,24 +9,24 @@
             "underlined": false
         },
         {
-            "text": "R-D-Z",
+            "text": "IMIB7JOE",
             "position": [
                 10,
-                84
+                71
             ],
             "underlined": true
         },
         {
-            "text": "6Y5D7RI",
+            "text": "AMRZ",
             "position": [
                 10,
-                158
+                132
             ],
             "underlined": true
         }
     ],
-    "font": "Impact.ttf",
-    "rotation": 0,
+    "font": "Courier New.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000019.png",
     "white_background": false
 }

@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "CTIPCZM",
+            "text": "LF-Z",
             "position": [
                 10,
                 10
@@ -9,7 +9,7 @@
             "underlined": true
         }
     ],
-    "font": "Andale Mono.ttf",
+    "font": "Arial Bold.ttf",
     "rotation": 0,
     "image_path": "synthetic_000003.png",
     "white_background": false

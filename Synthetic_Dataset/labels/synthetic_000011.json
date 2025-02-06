@@ -1,36 +1,12 @@
 {
     "texts": [
         {
-            "text": "L-6ZT0UF-C",
+            "text": "WDJ7V3",
             "position": [
                 10,
                 10
             ],
             "underlined": false
-        },
-        {
-            "text": "DH7-T",
-            "position": [
-                10,
-                82
-            ],
-            "underlined": false
-        },
-        {
-            "text": "W6CDT85O1",
-            "position": [
-                10,
-                153
-            ],
-            "underlined": false
-        },
-        {
-            "text": "QM",
-            "position": [
-                10,
-                225
-            ],
-            "underlined": true
         }
     ],
     "font": "Arial.ttf",

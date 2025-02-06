@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "YJ",
+            "text": "NVURL2KMB",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
         }
     ],
     "font": "Arial Narrow.ttf",
-    "rotation": 90,
+    "rotation": 0,
     "image_path": "synthetic_000016.png",
     "white_background": true
 }

@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "SRQ34TE",
+            "text": "VTLNJALS7",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
     "font": "Arial Narrow.ttf",
-    "rotation": 90,
+    "rotation": 0,
     "image_path": "synthetic_000012.png",
     "white_background": true
 }
