@@ -1,8 +1,8 @@
 {
-    "text": "P - 210A",
-    "font": "Georgia Bold Italic.ttf",
+    "text": "E - 426D",
+    "font": "Georgia.ttf",
     "rotation": 0,
-    "underlined": true,
+    "underlined": false,
     "image_path": "synthetic_000011.png",
     "white_background": false
 }

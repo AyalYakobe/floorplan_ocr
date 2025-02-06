@@ -1,8 +1,8 @@
 {
-    "text": "P - 246B",
-    "font": "Arial Unicode.ttf",
+    "text": "P - 774B",
+    "font": "Krungthep.ttf",
     "rotation": 90,
-    "underlined": true,
+    "underlined": false,
     "image_path": "synthetic_000001.png",
     "white_background": false
 }

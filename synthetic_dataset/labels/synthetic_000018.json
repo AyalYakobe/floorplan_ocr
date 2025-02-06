@@ -1,8 +1,8 @@
 {
-    "text": "P - 463D",
-    "font": "Diwan Thuluth.ttf",
-    "rotation": 0,
-    "underlined": true,
+    "text": "M - 996D",
+    "font": "Kokonor.ttf",
+    "rotation": 90,
+    "underlined": false,
     "image_path": "synthetic_000018.png",
     "white_background": true
 }

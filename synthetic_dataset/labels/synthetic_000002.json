@@ -1,8 +1,8 @@
 {
-    "text": "M - 752D",
-    "font": "Courier New.ttf",
+    "text": "P - 665B",
+    "font": "Arial Rounded Bold.ttf",
     "rotation": 0,
-    "underlined": true,
+    "underlined": false,
     "image_path": "synthetic_000002.png",
     "white_background": true
 }

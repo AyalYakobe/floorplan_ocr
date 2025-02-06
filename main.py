@@ -6,7 +6,7 @@ from scripts.text_generation import generate_text
 if __name__ == '__main__':
 
     # ------ Step .1 -------
-    # generate_text(num_samples=20)
+    generate_text(num_samples=20)
 
     # ------ Step .2 ------- Unecessary in the future
     # slice_and_save_image("t1.png", "Clippings/Sliced", grid_size=2)

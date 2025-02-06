@@ -1,8 +1,8 @@
 {
-    "text": "P - 312C",
-    "font": "Herculanum.ttf",
+    "text": "E - 909C",
+    "font": "Courier New Bold Italic.ttf",
     "rotation": 90,
-    "underlined": true,
+    "underlined": false,
     "image_path": "synthetic_000013.png",
     "white_background": false
 }

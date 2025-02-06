@@ -1,6 +1,8 @@
 import os
 import random
 import json
+import string
+
 from PIL import Image, ImageDraw, ImageFont
 
 FONT_DIR = "/System/Library/Fonts/Supplemental/"
@@ -24,13 +26,24 @@ if not available_fonts:
 
 print(f"Loaded {len(available_fonts)} fonts from {ACCEPTABLE_FONTS_FILE}.")
 
+
 def generate_random_text():
-    return f"{random.choice('PME')} - {random.randint(100, 999)}{random.choice('ABCD')}"
+    length = random.randint(1, 10)  # Random length between 1 and 10
+    chars = string.ascii_uppercase + string.digits  # Alphanumeric characters
+    text = ''.join(random.choices(chars, k=length))  # Generate random alphanumeric string
+
+    # Decide if we add hyphens (max 2)
+    if length > 2 and random.choice([True, False]):
+        hyphen_positions = sorted(random.sample(range(1, length), k=random.randint(1, 2)))
+        for pos in reversed(hyphen_positions):
+            text = text[:pos] + '-' + text[pos:]
+
+    return text
 
 def generate_text(num_samples=100):
     for i in range(num_samples):
         text = generate_random_text()
-        font_size = random.randint(20, 80)
+        font_size = random.randint(60, 80)
         font_path = random.choice(available_fonts)
 
         try:

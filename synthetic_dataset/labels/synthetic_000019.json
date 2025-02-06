@@ -1,8 +1,8 @@
 {
-    "text": "M - 228D",
-    "font": "Arial Narrow Bold.ttf",
-    "rotation": 90,
-    "underlined": true,
+    "text": "P - 202B",
+    "font": "Kokonor.ttf",
+    "rotation": 0,
+    "underlined": false,
     "image_path": "synthetic_000019.png",
     "white_background": false
 }

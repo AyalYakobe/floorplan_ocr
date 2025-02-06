@@ -1,8 +1,8 @@
 {
-    "text": "M - 414C",
-    "font": "Apple Chancery.ttf",
+    "text": "E - 976C",
+    "font": "Herculanum.ttf",
     "rotation": 90,
-    "underlined": true,
+    "underlined": false,
     "image_path": "synthetic_000014.png",
     "white_background": true
 }
