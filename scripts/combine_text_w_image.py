@@ -8,16 +8,6 @@ OUTPUT_DIR = "synthetic_dataset/final_images"
 
 GREY_COLOR = (128, 128, 128, 255)  # Grey color for filling transparent areas
 
-def randomize_background(background):
-    rotation_angle = random.choice([0, 90, 180, 270])
-    return background.rotate(rotation_angle, expand=False), rotation_angle
-
-def trim_canvas(image):
-    bbox = ImageChops.invert(image.convert("RGBA").getchannel("A")).getbbox()
-    if bbox:
-        return image.crop(bbox)
-    return image
-
 def fill_transparent_space(image, fill_color):
     background = Image.new("RGBA", image.size, fill_color)
     background.paste(image, (0, 0), image)
@@ -39,8 +29,6 @@ def apply_backgrounds_to_text_images():
         background_path = random.choice(background_images)
         background = Image.open(background_path).convert("RGBA")
 
-        background, rotation_angle = randomize_background(background)
-
         scale_factor = random.uniform(0.2, 0.4)  # Smaller text to fit inside
         smaller_text_size = (int(text_image.width * scale_factor), int(text_image.height * scale_factor))
         text_image = text_image.resize(smaller_text_size, Image.LANCZOS)
@@ -60,4 +48,4 @@ def apply_backgrounds_to_text_images():
         output_path = os.path.join(OUTPUT_DIR, os.path.basename(text_image_path))
         final_image.save(output_path)
 
-        print(f"Created: {output_path} | Background: {os.path.basename(background_path)} | Rotated: {rotation_angle}° | Text Scale: {scale_factor:.2f} | Position: ({random_x}, {random_y})")
+        print(f"Created: {output_path} | Background: {os.path.basename(background_path)} | Text Scale: {scale_factor:.2f} | Position: ({random_x}, {random_y})")
