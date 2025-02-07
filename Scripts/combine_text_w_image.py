@@ -95,7 +95,6 @@ class TextImageProcessor:
 
             return shape_overlay, bounding_shape
         else:
-            # If no shape is added, return the original image and None
             return image, None
 
     def apply_backgrounds_to_text_images(self):
@@ -114,13 +113,9 @@ class TextImageProcessor:
             background_path = random.choice(background_images)
             background = Image.open(background_path).convert("RGBA")
 
-            # Get the dimensions of the background
+            # Fit dimensions and shapes
             bg_width, bg_height = background.size
-
-            # Resize the text image
             text_image = self.resize_text_image_to_background(text_image, bg_width, bg_height)
-
-            # Apply bounding shape
             text_image, bounding_shape = self.add_bounding_shape(text_image, bg_width, bg_height)
 
             # Center the text and shape on the background
@@ -131,8 +126,6 @@ class TextImageProcessor:
 
             final_image = background.copy()
             final_image.paste(text_image, (random_x, random_y), text_image)
-
-            # Fill any remaining transparent areas with grey
             final_image = self.fill_transparent_space(final_image)
 
             output_path = os.path.join(self.output_dir, os.path.basename(text_image_path))

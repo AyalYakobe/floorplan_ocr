@@ -1,15 +1,31 @@
 {
     "texts": [
         {
-            "text": "CRR6-2N0V",
+            "text": "OU",
             "position": [
                 10,
                 10
             ],
             "underlined": false
+        },
+        {
+            "text": "CE676EQZQ",
+            "position": [
+                10,
+                95
+            ],
+            "underlined": true
+        },
+        {
+            "text": "K",
+            "position": [
+                10,
+                186
+            ],
+            "underlined": true
         }
     ],
-    "font": "Arial Narrow.ttf",
+    "font": "Impact.ttf",
     "rotation": 0,
     "image_path": "synthetic_000005.png",
     "white_background": false

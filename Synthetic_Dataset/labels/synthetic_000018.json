@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "ZW",
+            "text": "I",
             "position": [
                 10,
                 10
@@ -9,31 +9,31 @@
             "underlined": true
         },
         {
-            "text": "029DZ0",
+            "text": "EONHXDA",
             "position": [
                 10,
-                75
+                81
             ],
-            "underlined": true
+            "underlined": false
         },
         {
-            "text": "M-J970X4EV0",
+            "text": "C2U9OXJKD",
             "position": [
                 10,
-                140
+                152
             ],
-            "underlined": true
+            "underlined": false
         },
         {
-            "text": "YMCC4AP2R",
+            "text": "RNA",
             "position": [
                 10,
-                205
+                223
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "DIN Condensed Bold.ttf",
+    "font": "DIN Alternate Bold.ttf",
     "rotation": 90,
     "image_path": "synthetic_000018.png",
     "white_background": true

@@ -1,16 +1,24 @@
 {
     "texts": [
         {
-            "text": "J-AB6W1W",
+            "text": "VED1XCC",
             "position": [
                 10,
                 10
             ],
+            "underlined": true
+        },
+        {
+            "text": "A0YY-AWMEMO",
+            "position": [
+                10,
+                90
+            ],
             "underlined": false
         }
     ],
-    "font": "Impact.ttf",
-    "rotation": 0,
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000007.png",
     "white_background": false
 }

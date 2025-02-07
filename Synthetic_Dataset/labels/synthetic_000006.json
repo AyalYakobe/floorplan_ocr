@@ -1,15 +1,23 @@
 {
     "texts": [
         {
-            "text": "0C-UA-1PM",
+            "text": "QP-71D7",
             "position": [
                 10,
                 10
             ],
+            "underlined": true
+        },
+        {
+            "text": "TTQ4GLG37",
+            "position": [
+                10,
+                72
+            ],
             "underlined": false
         }
     ],
-    "font": "Arial.ttf",
+    "font": "DIN Condensed Bold.ttf",
     "rotation": 0,
     "image_path": "synthetic_000006.png",
     "white_background": true

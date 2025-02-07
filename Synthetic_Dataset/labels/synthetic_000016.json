@@ -1,24 +1,16 @@
 {
     "texts": [
         {
-            "text": "ZS0MNG",
+            "text": "HLXE",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
-        },
-        {
-            "text": "UM-P",
-            "position": [
-                10,
-                76
-            ],
             "underlined": false
         }
     ],
-    "font": "Andale Mono.ttf",
-    "rotation": 0,
+    "font": "DIN Alternate Bold.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000016.png",
     "white_background": true
 }

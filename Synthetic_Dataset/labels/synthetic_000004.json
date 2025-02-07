@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "43",
+            "text": "MO5UCL",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Arial Bold.ttf",
-    "rotation": 90,
+    "font": "Andale Mono.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000004.png",
     "white_background": true
 }

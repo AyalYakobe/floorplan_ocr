@@ -1,16 +1,32 @@
 {
     "texts": [
         {
-            "text": "0R7R52AY",
+            "text": "O6FG-FW",
             "position": [
                 10,
                 10
             ],
+            "underlined": false
+        },
+        {
+            "text": "93LCHK-6",
+            "position": [
+                10,
+                93
+            ],
             "underlined": true
+        },
+        {
+            "text": "KZ-XMOQ",
+            "position": [
+                10,
+                176
+            ],
+            "underlined": false
         }
     ],
-    "font": "Arial Narrow.ttf",
-    "rotation": 0,
+    "font": "Impact.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000001.png",
     "white_background": false
 }

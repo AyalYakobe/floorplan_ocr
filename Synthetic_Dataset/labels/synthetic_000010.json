@@ -1,15 +1,15 @@
 {
     "texts": [
         {
-            "text": "8-9CO",
+            "text": "5MKRNBKTH7",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Microsoft Sans Serif.ttf",
+    "font": "Courier New.ttf",
     "rotation": 90,
     "image_path": "synthetic_000010.png",
     "white_background": true

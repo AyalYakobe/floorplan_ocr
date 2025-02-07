@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "6017",
+            "text": "ZJPR",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Arial Bold.ttf",
-    "rotation": 90,
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000017.png",
     "white_background": false
 }
