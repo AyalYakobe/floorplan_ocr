@@ -1,24 +1,40 @@
 {
     "texts": [
         {
-            "text": "J4G",
+            "text": "W8",
             "position": [
                 10,
                 10
             ],
+            "underlined": true
+        },
+        {
+            "text": "HH-SX53RQ7",
+            "position": [
+                10,
+                72
+            ],
+            "underlined": true
+        },
+        {
+            "text": "BS8W-P-Q",
+            "position": [
+                10,
+                135
+            ],
             "underlined": false
         },
         {
-            "text": "K69MYR7",
+            "text": "0VVN-4T",
             "position": [
                 10,
-                91
+                198
             ],
             "underlined": false
         }
     ],
-    "font": "Arial.ttf",
-    "rotation": 0,
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000014.png",
     "white_background": true
 }

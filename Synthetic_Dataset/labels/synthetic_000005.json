@@ -1,20 +1,12 @@
 {
     "texts": [
         {
-            "text": "RMY1-QWGU4",
+            "text": "0225",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
-        },
-        {
-            "text": "7X",
-            "position": [
-                10,
-                83
-            ],
-            "underlined": false
+            "underlined": true
         }
     ],
     "font": "Courier New.ttf",

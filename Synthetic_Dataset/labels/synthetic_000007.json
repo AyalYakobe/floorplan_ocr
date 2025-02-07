@@ -1,31 +1,15 @@
 {
     "texts": [
         {
-            "text": "50",
+            "text": "OU452SF6M",
             "position": [
                 10,
                 10
             ],
             "underlined": false
-        },
-        {
-            "text": "O-IA01QQ2RE",
-            "position": [
-                10,
-                82
-            ],
-            "underlined": false
-        },
-        {
-            "text": "GR",
-            "position": [
-                10,
-                157
-            ],
-            "underlined": false
         }
     ],
-    "font": "Microsoft Sans Serif.ttf",
+    "font": "Impact.ttf",
     "rotation": 90,
     "image_path": "synthetic_000007.png",
     "white_background": false

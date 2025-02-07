@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "2-G-5VAK3",
+            "text": "1SA24-PD",
             "position": [
                 10,
                 10
@@ -9,8 +9,8 @@
             "underlined": false
         }
     ],
-    "font": "Arial.ttf",
-    "rotation": 90,
+    "font": "Courier New.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000006.png",
     "white_background": true
 }

@@ -1,16 +1,40 @@
 {
     "texts": [
         {
-            "text": "4Z-535Z",
+            "text": "W5",
             "position": [
                 10,
                 10
             ],
             "underlined": false
+        },
+        {
+            "text": "YFA1BMIA0N",
+            "position": [
+                10,
+                81
+            ],
+            "underlined": false
+        },
+        {
+            "text": "T6RI-P-J",
+            "position": [
+                10,
+                152
+            ],
+            "underlined": false
+        },
+        {
+            "text": "9E",
+            "position": [
+                10,
+                224
+            ],
+            "underlined": true
         }
     ],
     "font": "DIN Alternate Bold.ttf",
-    "rotation": 90,
+    "rotation": 0,
     "image_path": "synthetic_000015.png",
     "white_background": false
 }

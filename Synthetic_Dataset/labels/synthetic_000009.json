@@ -1,15 +1,15 @@
 {
     "texts": [
         {
-            "text": "Y-5V-1GL",
+            "text": "BD",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Arial.ttf",
+    "font": "DIN Condensed Bold.ttf",
     "rotation": 0,
     "image_path": "synthetic_000009.png",
     "white_background": false

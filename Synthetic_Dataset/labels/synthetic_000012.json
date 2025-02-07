@@ -1,16 +1,32 @@
 {
     "texts": [
         {
-            "text": "PZPG0-GY4",
+            "text": "228N3OVU1",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
+        },
+        {
+            "text": "Z8PF",
+            "position": [
+                10,
+                83
+            ],
+            "underlined": false
+        },
+        {
+            "text": "4",
+            "position": [
+                10,
+                156
+            ],
+            "underlined": false
         }
     ],
     "font": "Arial Narrow.ttf",
-    "rotation": 0,
+    "rotation": 90,
     "image_path": "synthetic_000012.png",
     "white_background": true
 }

@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "P-9UM-0",
+            "text": "NFZL-P-GK",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Microsoft Sans Serif.ttf",
-    "rotation": 0,
+    "font": "Arial Narrow.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000017.png",
     "white_background": false
 }

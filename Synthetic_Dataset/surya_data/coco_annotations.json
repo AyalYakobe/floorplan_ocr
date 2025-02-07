@@ -623,7 +623,7 @@
                 50,
                 20
             ],
-            "text": "U",
+            "text": "HTDV-K",
             "category_id": 1
         },
         {
@@ -635,11 +635,47 @@
                 50,
                 20
             ],
-            "text": "SEM-TBR-S",
+            "text": "AAX325ZCST",
             "category_id": 1
         },
         {
             "id": 4,
+            "image_id": 3,
+            "bbox": [
+                10,
+                92,
+                50,
+                20
+            ],
+            "text": "7OEJ-8QJTT",
+            "category_id": 1
+        },
+        {
+            "id": 5,
+            "image_id": 3,
+            "bbox": [
+                10,
+                177,
+                50,
+                20
+            ],
+            "text": "0",
+            "category_id": 1
+        },
+        {
+            "id": 6,
+            "image_id": 3,
+            "bbox": [
+                10,
+                259,
+                50,
+                20
+            ],
+            "text": "H",
+            "category_id": 1
+        },
+        {
+            "id": 7,
             "image_id": 4,
             "bbox": [
                 10,
@@ -651,7 +687,7 @@
             "category_id": 1
         },
         {
-            "id": 5,
+            "id": 8,
             "image_id": 4,
             "bbox": [
                 10,
@@ -663,7 +699,7 @@
             "category_id": 1
         },
         {
-            "id": 6,
+            "id": 9,
             "image_id": 4,
             "bbox": [
                 10,
@@ -675,7 +711,7 @@
             "category_id": 1
         },
         {
-            "id": 7,
+            "id": 10,
             "image_id": 4,
             "bbox": [
                 10,
@@ -687,7 +723,7 @@
             "category_id": 1
         },
         {
-            "id": 8,
+            "id": 11,
             "image_id": 5,
             "bbox": [
                 10,
@@ -699,7 +735,7 @@
             "category_id": 1
         },
         {
-            "id": 9,
+            "id": 12,
             "image_id": 6,
             "bbox": [
                 10,
@@ -711,7 +747,7 @@
             "category_id": 1
         },
         {
-            "id": 10,
+            "id": 13,
             "image_id": 6,
             "bbox": [
                 10,
@@ -723,7 +759,7 @@
             "category_id": 1
         },
         {
-            "id": 11,
+            "id": 14,
             "image_id": 7,
             "bbox": [
                 10,
@@ -735,7 +771,7 @@
             "category_id": 1
         },
         {
-            "id": 12,
+            "id": 15,
             "image_id": 8,
             "bbox": [
                 10,
@@ -747,7 +783,7 @@
             "category_id": 1
         },
         {
-            "id": 13,
+            "id": 16,
             "image_id": 9,
             "bbox": [
                 10,
@@ -759,7 +795,7 @@
             "category_id": 1
         },
         {
-            "id": 14,
+            "id": 17,
             "image_id": 10,
             "bbox": [
                 10,
@@ -771,7 +807,7 @@
             "category_id": 1
         },
         {
-            "id": 15,
+            "id": 18,
             "image_id": 10,
             "bbox": [
                 10,
@@ -783,7 +819,7 @@
             "category_id": 1
         },
         {
-            "id": 16,
+            "id": 19,
             "image_id": 11,
             "bbox": [
                 10,
@@ -795,7 +831,7 @@
             "category_id": 1
         },
         {
-            "id": 17,
+            "id": 20,
             "image_id": 12,
             "bbox": [
                 10,
@@ -807,7 +843,7 @@
             "category_id": 1
         },
         {
-            "id": 18,
+            "id": 21,
             "image_id": 12,
             "bbox": [
                 10,
@@ -819,7 +855,7 @@
             "category_id": 1
         },
         {
-            "id": 19,
+            "id": 22,
             "image_id": 12,
             "bbox": [
                 10,
@@ -831,7 +867,7 @@
             "category_id": 1
         },
         {
-            "id": 20,
+            "id": 23,
             "image_id": 13,
             "bbox": [
                 10,
@@ -843,7 +879,7 @@
             "category_id": 1
         },
         {
-            "id": 21,
+            "id": 24,
             "image_id": 14,
             "bbox": [
                 10,
@@ -855,7 +891,7 @@
             "category_id": 1
         },
         {
-            "id": 22,
+            "id": 25,
             "image_id": 15,
             "bbox": [
                 10,
@@ -867,7 +903,7 @@
             "category_id": 1
         },
         {
-            "id": 23,
+            "id": 26,
             "image_id": 16,
             "bbox": [
                 10,
@@ -879,7 +915,7 @@
             "category_id": 1
         },
         {
-            "id": 24,
+            "id": 27,
             "image_id": 17,
             "bbox": [
                 10,
@@ -891,7 +927,7 @@
             "category_id": 1
         },
         {
-            "id": 25,
+            "id": 28,
             "image_id": 18,
             "bbox": [
                 10,
@@ -903,7 +939,7 @@
             "category_id": 1
         },
         {
-            "id": 26,
+            "id": 29,
             "image_id": 18,
             "bbox": [
                 10,
@@ -915,7 +951,7 @@
             "category_id": 1
         },
         {
-            "id": 27,
+            "id": 30,
             "image_id": 18,
             "bbox": [
                 10,
@@ -927,7 +963,7 @@
             "category_id": 1
         },
         {
-            "id": 28,
+            "id": 31,
             "image_id": 19,
             "bbox": [
                 10,
@@ -939,7 +975,7 @@
             "category_id": 1
         },
         {
-            "id": 29,
+            "id": 32,
             "image_id": 19,
             "bbox": [
                 10,
@@ -951,7 +987,7 @@
             "category_id": 1
         },
         {
-            "id": 30,
+            "id": 33,
             "image_id": 20,
             "bbox": [
                 10,
@@ -959,11 +995,11 @@
                 50,
                 20
             ],
-            "text": "P-9UM-0",
+            "text": "NFZL-P-GK",
             "category_id": 1
         },
         {
-            "id": 31,
+            "id": 34,
             "image_id": 21,
             "bbox": [
                 10,
@@ -971,11 +1007,23 @@
                 50,
                 20
             ],
-            "text": "MYQI3-TP-0X",
+            "text": "3IP-FUU-02RD",
             "category_id": 1
         },
         {
-            "id": 32,
+            "id": 35,
+            "image_id": 21,
+            "bbox": [
+                10,
+                76,
+                50,
+                20
+            ],
+            "text": "SJ",
+            "category_id": 1
+        },
+        {
+            "id": 36,
             "image_id": 22,
             "bbox": [
                 10,
@@ -987,7 +1035,7 @@
             "category_id": 1
         },
         {
-            "id": 33,
+            "id": 37,
             "image_id": 22,
             "bbox": [
                 10,
@@ -999,7 +1047,7 @@
             "category_id": 1
         },
         {
-            "id": 34,
+            "id": 38,
             "image_id": 23,
             "bbox": [
                 10,
@@ -1011,7 +1059,7 @@
             "category_id": 1
         },
         {
-            "id": 35,
+            "id": 39,
             "image_id": 24,
             "bbox": [
                 10,
@@ -1023,7 +1071,7 @@
             "category_id": 1
         },
         {
-            "id": 36,
+            "id": 40,
             "image_id": 25,
             "bbox": [
                 10,
@@ -1035,7 +1083,7 @@
             "category_id": 1
         },
         {
-            "id": 37,
+            "id": 41,
             "image_id": 25,
             "bbox": [
                 10,
@@ -1047,7 +1095,7 @@
             "category_id": 1
         },
         {
-            "id": 38,
+            "id": 42,
             "image_id": 25,
             "bbox": [
                 10,
@@ -1059,7 +1107,7 @@
             "category_id": 1
         },
         {
-            "id": 39,
+            "id": 43,
             "image_id": 25,
             "bbox": [
                 10,
@@ -1071,7 +1119,7 @@
             "category_id": 1
         },
         {
-            "id": 40,
+            "id": 44,
             "image_id": 26,
             "bbox": [
                 10,
@@ -1083,7 +1131,7 @@
             "category_id": 1
         },
         {
-            "id": 41,
+            "id": 45,
             "image_id": 27,
             "bbox": [
                 10,
@@ -1095,7 +1143,7 @@
             "category_id": 1
         },
         {
-            "id": 42,
+            "id": 46,
             "image_id": 27,
             "bbox": [
                 10,
@@ -1107,7 +1155,7 @@
             "category_id": 1
         },
         {
-            "id": 43,
+            "id": 47,
             "image_id": 27,
             "bbox": [
                 10,
@@ -1119,7 +1167,7 @@
             "category_id": 1
         },
         {
-            "id": 44,
+            "id": 48,
             "image_id": 28,
             "bbox": [
                 10,
@@ -1131,7 +1179,7 @@
             "category_id": 1
         },
         {
-            "id": 45,
+            "id": 49,
             "image_id": 29,
             "bbox": [
                 10,
@@ -1139,11 +1187,11 @@
                 50,
                 20
             ],
-            "text": "2-G-5VAK3",
+            "text": "1SA24-PD",
             "category_id": 1
         },
         {
-            "id": 46,
+            "id": 50,
             "image_id": 30,
             "bbox": [
                 10,
@@ -1151,35 +1199,11 @@
                 50,
                 20
             ],
-            "text": "ZCTSJ4CZ2",
+            "text": "96X-2G-X",
             "category_id": 1
         },
         {
-            "id": 47,
-            "image_id": 30,
-            "bbox": [
-                10,
-                87,
-                50,
-                20
-            ],
-            "text": "Y3L4SZ-MF",
-            "category_id": 1
-        },
-        {
-            "id": 48,
-            "image_id": 30,
-            "bbox": [
-                10,
-                164,
-                50,
-                20
-            ],
-            "text": "RS-NDVL",
-            "category_id": 1
-        },
-        {
-            "id": 49,
+            "id": 51,
             "image_id": 31,
             "bbox": [
                 10,
@@ -1191,7 +1215,7 @@
             "category_id": 1
         },
         {
-            "id": 50,
+            "id": 52,
             "image_id": 32,
             "bbox": [
                 10,
@@ -1203,7 +1227,7 @@
             "category_id": 1
         },
         {
-            "id": 51,
+            "id": 53,
             "image_id": 33,
             "bbox": [
                 10,
@@ -1215,7 +1239,7 @@
             "category_id": 1
         },
         {
-            "id": 52,
+            "id": 54,
             "image_id": 34,
             "bbox": [
                 10,
@@ -1227,7 +1251,7 @@
             "category_id": 1
         },
         {
-            "id": 53,
+            "id": 55,
             "image_id": 35,
             "bbox": [
                 10,
@@ -1239,7 +1263,7 @@
             "category_id": 1
         },
         {
-            "id": 54,
+            "id": 56,
             "image_id": 36,
             "bbox": [
                 10,
@@ -1251,91 +1275,31 @@
             "category_id": 1
         },
         {
-            "id": 55,
-            "image_id": 37,
-            "bbox": [
-                10,
-                10,
-                50,
-                20
-            ],
-            "text": "22",
-            "category_id": 1
-        },
-        {
-            "id": 56,
-            "image_id": 37,
-            "bbox": [
-                10,
-                92,
-                50,
-                20
-            ],
-            "text": "R-D-K",
-            "category_id": 1
-        },
-        {
             "id": 57,
             "image_id": 37,
             "bbox": [
                 10,
-                174,
+                10,
                 50,
                 20
             ],
-            "text": "HU",
+            "text": "KO",
             "category_id": 1
         },
         {
             "id": 58,
-            "image_id": 37,
+            "image_id": 38,
             "bbox": [
                 10,
-                257,
+                10,
                 50,
                 20
             ],
-            "text": "TKVV",
+            "text": "OU452SF6M",
             "category_id": 1
         },
         {
             "id": 59,
-            "image_id": 38,
-            "bbox": [
-                10,
-                10,
-                50,
-                20
-            ],
-            "text": "50",
-            "category_id": 1
-        },
-        {
-            "id": 60,
-            "image_id": 38,
-            "bbox": [
-                10,
-                82,
-                50,
-                20
-            ],
-            "text": "O-IA01QQ2RE",
-            "category_id": 1
-        },
-        {
-            "id": 61,
-            "image_id": 38,
-            "bbox": [
-                10,
-                157,
-                50,
-                20
-            ],
-            "text": "GR",
-            "category_id": 1
-        },
-        {
-            "id": 62,
             "image_id": 39,
             "bbox": [
                 10,
@@ -1347,7 +1311,7 @@
             "category_id": 1
         },
         {
-            "id": 63,
+            "id": 60,
             "image_id": 40,
             "bbox": [
                 10,
@@ -1359,7 +1323,7 @@
             "category_id": 1
         },
         {
-            "id": 64,
+            "id": 61,
             "image_id": 40,
             "bbox": [
                 10,
@@ -1371,7 +1335,7 @@
             "category_id": 1
         },
         {
-            "id": 65,
+            "id": 62,
             "image_id": 40,
             "bbox": [
                 10,
@@ -1383,7 +1347,7 @@
             "category_id": 1
         },
         {
-            "id": 66,
+            "id": 63,
             "image_id": 41,
             "bbox": [
                 10,
@@ -1395,7 +1359,7 @@
             "category_id": 1
         },
         {
-            "id": 67,
+            "id": 64,
             "image_id": 41,
             "bbox": [
                 10,
@@ -1407,7 +1371,7 @@
             "category_id": 1
         },
         {
-            "id": 68,
+            "id": 65,
             "image_id": 41,
             "bbox": [
                 10,
@@ -1419,7 +1383,7 @@
             "category_id": 1
         },
         {
-            "id": 69,
+            "id": 66,
             "image_id": 42,
             "bbox": [
                 10,
@@ -1431,7 +1395,7 @@
             "category_id": 1
         },
         {
-            "id": 70,
+            "id": 67,
             "image_id": 43,
             "bbox": [
                 10,
@@ -1443,7 +1407,7 @@
             "category_id": 1
         },
         {
-            "id": 71,
+            "id": 68,
             "image_id": 44,
             "bbox": [
                 10,
@@ -1455,7 +1419,7 @@
             "category_id": 1
         },
         {
-            "id": 72,
+            "id": 69,
             "image_id": 45,
             "bbox": [
                 10,
@@ -1467,7 +1431,7 @@
             "category_id": 1
         },
         {
-            "id": 73,
+            "id": 70,
             "image_id": 46,
             "bbox": [
                 10,
@@ -1479,7 +1443,7 @@
             "category_id": 1
         },
         {
-            "id": 74,
+            "id": 71,
             "image_id": 47,
             "bbox": [
                 10,
@@ -1491,7 +1455,7 @@
             "category_id": 1
         },
         {
-            "id": 75,
+            "id": 72,
             "image_id": 48,
             "bbox": [
                 10,
@@ -1503,7 +1467,7 @@
             "category_id": 1
         },
         {
-            "id": 76,
+            "id": 73,
             "image_id": 49,
             "bbox": [
                 10,
@@ -1515,7 +1479,7 @@
             "category_id": 1
         },
         {
-            "id": 77,
+            "id": 74,
             "image_id": 49,
             "bbox": [
                 10,
@@ -1527,7 +1491,7 @@
             "category_id": 1
         },
         {
-            "id": 78,
+            "id": 75,
             "image_id": 49,
             "bbox": [
                 10,
@@ -1539,7 +1503,7 @@
             "category_id": 1
         },
         {
-            "id": 79,
+            "id": 76,
             "image_id": 50,
             "bbox": [
                 10,
@@ -1547,11 +1511,11 @@
                 50,
                 20
             ],
-            "text": "M02V542-W",
+            "text": "RLDABI",
             "category_id": 1
         },
         {
-            "id": 80,
+            "id": 77,
             "image_id": 51,
             "bbox": [
                 10,
@@ -1563,7 +1527,7 @@
             "category_id": 1
         },
         {
-            "id": 81,
+            "id": 78,
             "image_id": 52,
             "bbox": [
                 10,
@@ -1575,7 +1539,7 @@
             "category_id": 1
         },
         {
-            "id": 82,
+            "id": 79,
             "image_id": 53,
             "bbox": [
                 10,
@@ -1587,7 +1551,7 @@
             "category_id": 1
         },
         {
-            "id": 83,
+            "id": 80,
             "image_id": 54,
             "bbox": [
                 10,
@@ -1599,7 +1563,7 @@
             "category_id": 1
         },
         {
-            "id": 84,
+            "id": 81,
             "image_id": 55,
             "bbox": [
                 10,
@@ -1611,7 +1575,7 @@
             "category_id": 1
         },
         {
-            "id": 85,
+            "id": 82,
             "image_id": 56,
             "bbox": [
                 10,
@@ -1619,11 +1583,35 @@
                 50,
                 20
             ],
-            "text": "PZPG0-GY4",
+            "text": "228N3OVU1",
             "category_id": 1
         },
         {
-            "id": 86,
+            "id": 83,
+            "image_id": 56,
+            "bbox": [
+                10,
+                83,
+                50,
+                20
+            ],
+            "text": "Z8PF",
+            "category_id": 1
+        },
+        {
+            "id": 84,
+            "image_id": 56,
+            "bbox": [
+                10,
+                156,
+                50,
+                20
+            ],
+            "text": "4",
+            "category_id": 1
+        },
+        {
+            "id": 85,
             "image_id": 57,
             "bbox": [
                 10,
@@ -1631,11 +1619,11 @@
                 50,
                 20
             ],
-            "text": "O",
+            "text": "57720-E",
             "category_id": 1
         },
         {
-            "id": 87,
+            "id": 86,
             "image_id": 58,
             "bbox": [
                 10,
@@ -1647,7 +1635,7 @@
             "category_id": 1
         },
         {
-            "id": 88,
+            "id": 87,
             "image_id": 59,
             "bbox": [
                 10,
@@ -1659,7 +1647,7 @@
             "category_id": 1
         },
         {
-            "id": 89,
+            "id": 88,
             "image_id": 60,
             "bbox": [
                 10,
@@ -1667,47 +1655,23 @@
                 50,
                 20
             ],
-            "text": "RMY1-QWGU4",
+            "text": "0225",
+            "category_id": 1
+        },
+        {
+            "id": 89,
+            "image_id": 61,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "PT",
             "category_id": 1
         },
         {
             "id": 90,
-            "image_id": 60,
-            "bbox": [
-                10,
-                83,
-                50,
-                20
-            ],
-            "text": "7X",
-            "category_id": 1
-        },
-        {
-            "id": 91,
-            "image_id": 61,
-            "bbox": [
-                10,
-                10,
-                50,
-                20
-            ],
-            "text": "OT",
-            "category_id": 1
-        },
-        {
-            "id": 92,
-            "image_id": 61,
-            "bbox": [
-                10,
-                88,
-                50,
-                20
-            ],
-            "text": "XM",
-            "category_id": 1
-        },
-        {
-            "id": 93,
             "image_id": 62,
             "bbox": [
                 10,
@@ -1719,7 +1683,7 @@
             "category_id": 1
         },
         {
-            "id": 94,
+            "id": 91,
             "image_id": 62,
             "bbox": [
                 10,
@@ -1731,7 +1695,7 @@
             "category_id": 1
         },
         {
-            "id": 95,
+            "id": 92,
             "image_id": 62,
             "bbox": [
                 10,
@@ -1743,7 +1707,7 @@
             "category_id": 1
         },
         {
-            "id": 96,
+            "id": 93,
             "image_id": 63,
             "bbox": [
                 10,
@@ -1755,7 +1719,7 @@
             "category_id": 1
         },
         {
-            "id": 97,
+            "id": 94,
             "image_id": 64,
             "bbox": [
                 10,
@@ -1767,7 +1731,7 @@
             "category_id": 1
         },
         {
-            "id": 98,
+            "id": 95,
             "image_id": 64,
             "bbox": [
                 10,
@@ -1779,7 +1743,7 @@
             "category_id": 1
         },
         {
-            "id": 99,
+            "id": 96,
             "image_id": 64,
             "bbox": [
                 10,
@@ -1791,7 +1755,7 @@
             "category_id": 1
         },
         {
-            "id": 100,
+            "id": 97,
             "image_id": 65,
             "bbox": [
                 10,
@@ -1803,7 +1767,7 @@
             "category_id": 1
         },
         {
-            "id": 101,
+            "id": 98,
             "image_id": 66,
             "bbox": [
                 10,
@@ -1815,7 +1779,7 @@
             "category_id": 1
         },
         {
-            "id": 102,
+            "id": 99,
             "image_id": 67,
             "bbox": [
                 10,
@@ -1823,11 +1787,11 @@
                 50,
                 20
             ],
-            "text": "Y-5V-1GL",
+            "text": "BD",
             "category_id": 1
         },
         {
-            "id": 103,
+            "id": 100,
             "image_id": 68,
             "bbox": [
                 10,
@@ -1839,7 +1803,7 @@
             "category_id": 1
         },
         {
-            "id": 104,
+            "id": 101,
             "image_id": 69,
             "bbox": [
                 10,
@@ -1851,7 +1815,7 @@
             "category_id": 1
         },
         {
-            "id": 105,
+            "id": 102,
             "image_id": 70,
             "bbox": [
                 10,
@@ -1863,7 +1827,7 @@
             "category_id": 1
         },
         {
-            "id": 106,
+            "id": 103,
             "image_id": 71,
             "bbox": [
                 10,
@@ -1875,7 +1839,7 @@
             "category_id": 1
         },
         {
-            "id": 107,
+            "id": 104,
             "image_id": 72,
             "bbox": [
                 10,
@@ -1887,7 +1851,7 @@
             "category_id": 1
         },
         {
-            "id": 108,
+            "id": 105,
             "image_id": 73,
             "bbox": [
                 10,
@@ -1899,7 +1863,7 @@
             "category_id": 1
         },
         {
-            "id": 109,
+            "id": 106,
             "image_id": 74,
             "bbox": [
                 10,
@@ -1911,7 +1875,7 @@
             "category_id": 1
         },
         {
-            "id": 110,
+            "id": 107,
             "image_id": 75,
             "bbox": [
                 10,
@@ -1923,7 +1887,7 @@
             "category_id": 1
         },
         {
-            "id": 111,
+            "id": 108,
             "image_id": 76,
             "bbox": [
                 10,
@@ -1935,7 +1899,7 @@
             "category_id": 1
         },
         {
-            "id": 112,
+            "id": 109,
             "image_id": 77,
             "bbox": [
                 10,
@@ -1947,7 +1911,7 @@
             "category_id": 1
         },
         {
-            "id": 113,
+            "id": 110,
             "image_id": 77,
             "bbox": [
                 10,
@@ -1959,7 +1923,7 @@
             "category_id": 1
         },
         {
-            "id": 114,
+            "id": 111,
             "image_id": 77,
             "bbox": [
                 10,
@@ -1971,31 +1935,55 @@
             "category_id": 1
         },
         {
+            "id": 112,
+            "image_id": 78,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "W8",
+            "category_id": 1
+        },
+        {
+            "id": 113,
+            "image_id": 78,
+            "bbox": [
+                10,
+                72,
+                50,
+                20
+            ],
+            "text": "HH-SX53RQ7",
+            "category_id": 1
+        },
+        {
+            "id": 114,
+            "image_id": 78,
+            "bbox": [
+                10,
+                135,
+                50,
+                20
+            ],
+            "text": "BS8W-P-Q",
+            "category_id": 1
+        },
+        {
             "id": 115,
             "image_id": 78,
             "bbox": [
                 10,
-                10,
+                198,
                 50,
                 20
             ],
-            "text": "J4G",
+            "text": "0VVN-4T",
             "category_id": 1
         },
         {
             "id": 116,
-            "image_id": 78,
-            "bbox": [
-                10,
-                91,
-                50,
-                20
-            ],
-            "text": "K69MYR7",
-            "category_id": 1
-        },
-        {
-            "id": 117,
             "image_id": 79,
             "bbox": [
                 10,
@@ -2003,11 +1991,11 @@
                 50,
                 20
             ],
-            "text": "S-W-L",
+            "text": "EPGNTJ-M2PQ",
             "category_id": 1
         },
         {
-            "id": 118,
+            "id": 117,
             "image_id": 80,
             "bbox": [
                 10,
@@ -2019,7 +2007,7 @@
             "category_id": 1
         },
         {
-            "id": 119,
+            "id": 118,
             "image_id": 80,
             "bbox": [
                 10,
@@ -2031,7 +2019,7 @@
             "category_id": 1
         },
         {
-            "id": 120,
+            "id": 119,
             "image_id": 80,
             "bbox": [
                 10,
@@ -2043,7 +2031,7 @@
             "category_id": 1
         },
         {
-            "id": 121,
+            "id": 120,
             "image_id": 80,
             "bbox": [
                 10,
@@ -2055,7 +2043,7 @@
             "category_id": 1
         },
         {
-            "id": 122,
+            "id": 121,
             "image_id": 81,
             "bbox": [
                 10,
@@ -2067,7 +2055,7 @@
             "category_id": 1
         },
         {
-            "id": 123,
+            "id": 122,
             "image_id": 81,
             "bbox": [
                 10,
@@ -2079,7 +2067,7 @@
             "category_id": 1
         },
         {
-            "id": 124,
+            "id": 123,
             "image_id": 81,
             "bbox": [
                 10,
@@ -2091,7 +2079,7 @@
             "category_id": 1
         },
         {
-            "id": 125,
+            "id": 124,
             "image_id": 82,
             "bbox": [
                 10,
@@ -2103,7 +2091,7 @@
             "category_id": 1
         },
         {
-            "id": 126,
+            "id": 125,
             "image_id": 83,
             "bbox": [
                 10,
@@ -2115,7 +2103,7 @@
             "category_id": 1
         },
         {
-            "id": 127,
+            "id": 126,
             "image_id": 84,
             "bbox": [
                 10,
@@ -2127,7 +2115,7 @@
             "category_id": 1
         },
         {
-            "id": 128,
+            "id": 127,
             "image_id": 85,
             "bbox": [
                 10,
@@ -2135,11 +2123,11 @@
                 50,
                 20
             ],
-            "text": "B6-V2Q1YF-HF",
+            "text": "LH6YDS6",
             "category_id": 1
         },
         {
-            "id": 129,
+            "id": 128,
             "image_id": 86,
             "bbox": [
                 10,
@@ -2151,7 +2139,7 @@
             "category_id": 1
         },
         {
-            "id": 130,
+            "id": 129,
             "image_id": 87,
             "bbox": [
                 10,
@@ -2163,7 +2151,7 @@
             "category_id": 1
         },
         {
-            "id": 131,
+            "id": 130,
             "image_id": 88,
             "bbox": [
                 10,
@@ -2171,11 +2159,11 @@
                 50,
                 20
             ],
-            "text": "1QFQN5N5",
+            "text": "6PEWVG5",
             "category_id": 1
         },
         {
-            "id": 132,
+            "id": 131,
             "image_id": 89,
             "bbox": [
                 10,
@@ -2187,7 +2175,7 @@
             "category_id": 1
         },
         {
-            "id": 133,
+            "id": 132,
             "image_id": 90,
             "bbox": [
                 10,
@@ -2199,7 +2187,7 @@
             "category_id": 1
         },
         {
-            "id": 134,
+            "id": 133,
             "image_id": 90,
             "bbox": [
                 10,
@@ -2211,7 +2199,7 @@
             "category_id": 1
         },
         {
-            "id": 135,
+            "id": 134,
             "image_id": 90,
             "bbox": [
                 10,
@@ -2223,7 +2211,7 @@
             "category_id": 1
         },
         {
-            "id": 136,
+            "id": 135,
             "image_id": 91,
             "bbox": [
                 10,
@@ -2235,7 +2223,7 @@
             "category_id": 1
         },
         {
-            "id": 137,
+            "id": 136,
             "image_id": 92,
             "bbox": [
                 10,
@@ -2247,7 +2235,7 @@
             "category_id": 1
         },
         {
-            "id": 138,
+            "id": 137,
             "image_id": 93,
             "bbox": [
                 10,
@@ -2259,31 +2247,19 @@
             "category_id": 1
         },
         {
+            "id": 138,
+            "image_id": 94,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "X5W4Z-XM",
+            "category_id": 1
+        },
+        {
             "id": 139,
-            "image_id": 94,
-            "bbox": [
-                10,
-                10,
-                50,
-                20
-            ],
-            "text": "CYTGHR4",
-            "category_id": 1
-        },
-        {
-            "id": 140,
-            "image_id": 94,
-            "bbox": [
-                10,
-                65,
-                50,
-                20
-            ],
-            "text": "JXV3JS8-2I",
-            "category_id": 1
-        },
-        {
-            "id": 141,
             "image_id": 95,
             "bbox": [
                 10,
@@ -2291,11 +2267,47 @@
                 50,
                 20
             ],
-            "text": "4Z-535Z",
+            "text": "W5",
+            "category_id": 1
+        },
+        {
+            "id": 140,
+            "image_id": 95,
+            "bbox": [
+                10,
+                81,
+                50,
+                20
+            ],
+            "text": "YFA1BMIA0N",
+            "category_id": 1
+        },
+        {
+            "id": 141,
+            "image_id": 95,
+            "bbox": [
+                10,
+                152,
+                50,
+                20
+            ],
+            "text": "T6RI-P-J",
             "category_id": 1
         },
         {
             "id": 142,
+            "image_id": 95,
+            "bbox": [
+                10,
+                224,
+                50,
+                20
+            ],
+            "text": "9E",
+            "category_id": 1
+        },
+        {
+            "id": 143,
             "image_id": 96,
             "bbox": [
                 10,
@@ -2307,7 +2319,7 @@
             "category_id": 1
         },
         {
-            "id": 143,
+            "id": 144,
             "image_id": 97,
             "bbox": [
                 10,
@@ -2319,7 +2331,7 @@
             "category_id": 1
         },
         {
-            "id": 144,
+            "id": 145,
             "image_id": 98,
             "bbox": [
                 10,
@@ -2331,7 +2343,7 @@
             "category_id": 1
         },
         {
-            "id": 145,
+            "id": 146,
             "image_id": 99,
             "bbox": [
                 10,
@@ -2343,7 +2355,7 @@
             "category_id": 1
         },
         {
-            "id": 146,
+            "id": 147,
             "image_id": 99,
             "bbox": [
                 10,
@@ -2355,7 +2367,7 @@
             "category_id": 1
         },
         {
-            "id": 147,
+            "id": 148,
             "image_id": 99,
             "bbox": [
                 10,
@@ -2367,7 +2379,7 @@
             "category_id": 1
         },
         {
-            "id": 148,
+            "id": 149,
             "image_id": 99,
             "bbox": [
                 10,
@@ -2379,7 +2391,7 @@
             "category_id": 1
         },
         {
-            "id": 149,
+            "id": 150,
             "image_id": 100,
             "bbox": [
                 10,
@@ -2391,7 +2403,7 @@
             "category_id": 1
         },
         {
-            "id": 150,
+            "id": 151,
             "image_id": 100,
             "bbox": [
                 10,
@@ -2403,7 +2415,7 @@
             "category_id": 1
         },
         {
-            "id": 151,
+            "id": 152,
             "image_id": 100,
             "bbox": [
                 10,
@@ -2415,7 +2427,7 @@
             "category_id": 1
         },
         {
-            "id": 152,
+            "id": 153,
             "image_id": 100,
             "bbox": [
                 10,

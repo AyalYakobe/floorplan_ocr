@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "1QFQN5N5",
+            "text": "6PEWVG5",
             "position": [
                 10,
                 10
@@ -10,7 +10,7 @@
         }
     ],
     "font": "Andale Mono.ttf",
-    "rotation": 0,
+    "rotation": 90,
     "image_path": "synthetic_000019.png",
     "white_background": false
 }

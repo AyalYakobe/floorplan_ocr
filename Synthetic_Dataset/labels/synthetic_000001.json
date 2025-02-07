@@ -1,15 +1,23 @@
 {
     "texts": [
         {
-            "text": "MYQI3-TP-0X",
+            "text": "3IP-FUU-02RD",
             "position": [
                 10,
                 10
             ],
+            "underlined": false
+        },
+        {
+            "text": "SJ",
+            "position": [
+                10,
+                76
+            ],
             "underlined": true
         }
     ],
-    "font": "Impact.ttf",
+    "font": "DIN Condensed Bold.ttf",
     "rotation": 0,
     "image_path": "synthetic_000001.png",
     "white_background": false
