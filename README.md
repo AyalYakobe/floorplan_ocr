@@ -1,4 +1,4 @@
-# Project Name
+# Floorplan OCR Testing Generator
 
 ## Overview
 This project is a comprehensive system for processing images, generating text, and evaluating outputs. It consists of several modules that work together to handle image processing, text generation, and evaluation of generated content. 
