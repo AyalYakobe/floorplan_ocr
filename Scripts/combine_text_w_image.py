@@ -19,52 +19,44 @@ class TextImageProcessor:
         self.EXTRA_PADDING = 250  # Extra padding for the bounding shape
 
     def fill_transparent_space(self, image):
-        """Fills any transparent areas in the image with the specified fill color."""
+        """Fills transparent areas with a grey color."""
         background = Image.new("RGBA", image.size, self.GREY_COLOR)
         background.paste(image, (0, 0), image)
         return background
 
     def resize_text_image_to_background(self, text_image, bg_width, bg_height):
-        """Resize text image to ensure it occupies between 20% and 80% of the smaller background dimension."""
+        """Resizes the text image to occupy 35% - 80% of the smaller background dimension."""
         smaller_bg_dimension = min(bg_width, bg_height)
-
-        # Define minimum and maximum text dimensions
         min_text_size = smaller_bg_dimension * 0.35
         max_text_size = smaller_bg_dimension * 0.8
 
-        # Scale factors
         scale_factor_width = max_text_size / text_image.width
         scale_factor_height = max_text_size / text_image.height
         scale_factor_min_width = min_text_size / text_image.width
         scale_factor_min_height = min_text_size / text_image.height
 
-        # Final scale factor
         scale_factor = max(
-            min(scale_factor_width, scale_factor_height),  # Ensure it fits within max size
-            max(scale_factor_min_width, scale_factor_min_height)  # Ensure it exceeds min size
+            min(scale_factor_width, scale_factor_height),
+            max(scale_factor_min_width, scale_factor_min_height)
         )
 
-        # Resize the text image
         new_text_size = (int(text_image.width * scale_factor), int(text_image.height * scale_factor))
         return text_image.resize(new_text_size, Image.LANCZOS)
 
     def add_bounding_shape(self, image, background_width, background_height):
-        """Adds a significantly larger bounding rectangle or circle around the text."""
+        """Adds a bounding rectangle or circle around the text with padding."""
         if random.random() < self.BOUNDING_SHAPE_PROBABILITY:
             bounding_shape = random.choice(["rectangle", "circle"])
             width, height = image.size
 
-            # Generous padding
-            padding_x = max(width * 0.5, 450)  # At least 50% text width or 450 pixels
-            padding_y = max(height * 0.5, 450)  # At least 50% text height or 450 pixels
+            padding_x = max(width * 0.5, 450)
+            padding_y = max(height * 0.5, 450)
             boundary_thickness = random.randint(self.MIN_BOUNDARY_THICKNESS, self.MAX_BOUNDARY_THICKNESS)
 
-            # Create a larger canvas
             new_size = (int(width + 2 * padding_x), int(height + 2 * padding_y))
-            shape_overlay = Image.new("RGBA", new_size, (0, 0, 0, 0))  # Transparent background
+            shape_overlay = Image.new("RGBA", new_size, (0, 0, 0, 0))
             draw = ImageDraw.Draw(shape_overlay)
 
-            # Define the bounding box for the shape
             shape_bbox = (
                 int(padding_x),
                 int(padding_y),
@@ -72,18 +64,15 @@ class TextImageProcessor:
                 int(new_size[1] - padding_y),
             )
 
-            # Draw the bounding shape
             if bounding_shape == "rectangle":
                 draw.rectangle(shape_bbox, outline="black", width=boundary_thickness)
             elif bounding_shape == "circle":
                 draw.ellipse(shape_bbox, outline="black", width=boundary_thickness)
 
-            # Place the text image at the center
             text_x = int((new_size[0] - image.width) / 2)
             text_y = int((new_size[1] - image.height) / 2)
             shape_overlay.paste(image, (text_x, text_y), image)
 
-            # Ensure the new image fits the background
             scale_factor = min(
                 background_width / new_size[0],
                 background_height / new_size[1],
@@ -98,6 +87,7 @@ class TextImageProcessor:
             return image, None
 
     def apply_backgrounds_to_text_images(self):
+        """Applies random backgrounds to text images and saves the output."""
         os.makedirs(self.output_dir, exist_ok=True)
 
         text_images = [os.path.join(self.text_images_dir, f) for f in os.listdir(self.text_images_dir) if f.endswith(".png")]
@@ -113,12 +103,10 @@ class TextImageProcessor:
             background_path = random.choice(background_images)
             background = Image.open(background_path).convert("RGBA")
 
-            # Fit dimensions and shapes
             bg_width, bg_height = background.size
             text_image = self.resize_text_image_to_background(text_image, bg_width, bg_height)
             text_image, bounding_shape = self.add_bounding_shape(text_image, bg_width, bg_height)
 
-            # Center the text and shape on the background
             max_x = bg_width - text_image.width
             max_y = bg_height - text_image.height
             random_x = random.randint(0, max_x) if max_x > 0 else 0
@@ -132,6 +120,7 @@ class TextImageProcessor:
             final_image.save(output_path)
 
     def estimate_execution_time(self, num_samples):
+        """Estimates execution time based on a sample run and extrapolates for 500,000 samples."""
         start_time = time.time()
         self.apply_backgrounds_to_text_images()
         end_time = time.time()
@@ -141,5 +130,3 @@ class TextImageProcessor:
 
         estimated_time_500k = (elapsed_time_minutes / num_samples) * 500000
         print(f"Estimated Execution Time for 500,000 samples: {estimated_time_500k:.2f} minutes")
-
-

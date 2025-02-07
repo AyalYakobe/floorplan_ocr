@@ -11,6 +11,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 
 class SuryaEvaluator:
     def __init__(self, image_dir, label_dir, output_coco_path, baseline_results, fine_tuned_results):
+        """Initializes paths and result storage for OCR evaluation."""
         self.image_dir = image_dir
         self.label_dir = label_dir
         self.output_coco_path = output_coco_path
@@ -19,7 +20,7 @@ class SuryaEvaluator:
         self.fine_tuned_results = fine_tuned_results
 
     def convert_to_coco(self):
-        """Converts image annotations to COCO format."""
+        """Converts dataset annotations to COCO format."""
         coco = {"images": [], "annotations": [], "categories": [{"id": 1, "name": "text"}]}
         annotation_id = 1
 
@@ -57,13 +58,13 @@ class SuryaEvaluator:
             json.dump(coco, f, indent=4)
 
     def split_images(self):
-        """Splits dataset images into baseline and fine-tuned sets."""
+        """Splits dataset into baseline and fine-tuned sets."""
         images = [f for f in os.listdir(self.image_dir) if f.endswith((".png", ".jpg", ".jpeg"))]
         midpoint = len(images) // 2
         return images[:midpoint], images[midpoint:]
 
     def evaluate_images(self, model, images):
-        """Evaluates images using the given OCR model."""
+        """Runs OCR on images and stores extracted text."""
         detection_predictor = DetectionPredictor()
         results = []
 
@@ -71,38 +72,27 @@ class SuryaEvaluator:
             image_path = os.path.join(self.image_dir, image_name)
             image = Image.open(image_path)
 
-            # Recognition Predictor
             ocr_results = model([image], [None], detection_predictor)
 
-            # Extract text lines from results
-            for ocr_result in ocr_results:
-                text_lines = [{"text": line.text, "bbox": line.bbox, "confidence": line.confidence}
-                              for line in ocr_result.text_lines]
+            text_lines = [{"text": line.text, "bbox": line.bbox, "confidence": line.confidence}
+                          for ocr_result in ocr_results for line in ocr_result.text_lines]
 
-                results.append({"image": image_name, "text_lines": text_lines})
+            results.append({"image": image_name, "text_lines": text_lines})
 
         return results
 
     def load_ground_truth(self):
-        """Loads ground truth text from a COCO annotation file."""
+        """Loads ground truth annotations from COCO format."""
         with open(self.output_coco_path, "r") as f:
             coco_data = json.load(f)
 
-        ground_truth = {}
-
+        self.ground_truth = {img["file_name"]: [] for img in coco_data["images"]}
         for annotation in coco_data["annotations"]:
-            image_id = annotation["image_id"]
-            image_name = next((img["file_name"] for img in coco_data["images"] if img["id"] == image_id), None)
-
-            if image_name:
-                if image_name not in ground_truth:
-                    ground_truth[image_name] = []
-                ground_truth[image_name].append(annotation["text"])
-
-        self.ground_truth = ground_truth
+            image_name = next(img["file_name"] for img in coco_data["images"] if img["id"] == annotation["image_id"])
+            self.ground_truth[image_name].append(annotation["text"])
 
     def evaluate_results(self, results):
-        """Computes accuracy metrics between OCR results and ground truth."""
+        """Computes accuracy, precision, recall, and F1 score."""
         y_true, y_pred = [], []
 
         for result in results:
@@ -112,7 +102,6 @@ class SuryaEvaluator:
             if image_name in self.ground_truth:
                 gt_texts = self.ground_truth[image_name]
 
-                # Ensure lengths match by padding shorter lists
                 if len(gt_texts) > len(predicted_texts):
                     predicted_texts.extend([""] * (len(gt_texts) - len(predicted_texts)))
                 elif len(predicted_texts) > len(gt_texts):
@@ -121,7 +110,6 @@ class SuryaEvaluator:
                 y_true.extend(gt_texts)
                 y_pred.extend(predicted_texts)
 
-        # Compute metrics
         accuracy = accuracy_score(y_true, y_pred)
         precision = precision_score(y_true, y_pred, average="weighted", zero_division=1)
         recall = recall_score(y_true, y_pred, average="weighted", zero_division=1)
@@ -130,27 +118,23 @@ class SuryaEvaluator:
         return accuracy, precision, recall, f1
 
     def plot_comparison(self, baseline_metrics, fine_tuned_metrics):
-        """Plots a bar graph comparing baseline and fine-tuned OCR models."""
+        """Plots a bar graph comparing baseline and fine-tuned models."""
         metrics = ["Accuracy", "Precision", "Recall", "F1 Score"]
-        baseline_values = baseline_metrics
-        fine_tuned_values = fine_tuned_metrics
-
         x = np.arange(len(metrics))
         width = 0.35
 
         fig, ax = plt.subplots()
-        ax.bar(x - width / 2, baseline_values, width, label="Baseline")
-        ax.bar(x + width / 2, fine_tuned_values, width, label="Fine-Tuned")
-
+        ax.bar(x - width / 2, baseline_metrics, width, label="Baseline")
+        ax.bar(x + width / 2, fine_tuned_metrics, width, label="Fine-Tuned")
         ax.set_xlabel("Metrics")
-        ax.set_title("Comparison of Baseline and Fine-Tuned OCR Models")
+        ax.set_title("Baseline vs Fine-Tuned OCR Performance")
         ax.set_xticks(x)
         ax.set_xticklabels(metrics)
         ax.legend()
-
         plt.show()
 
     def run_surya_evaluation(self):
+        """Runs full evaluation process for OCR models."""
         start_time = time.time()
 
         self.convert_to_coco()

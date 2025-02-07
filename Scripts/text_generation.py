@@ -7,9 +7,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 class SyntheticTextGenerator:
     def __init__(self, font_dir, acceptable_fonts_file, output_dir, num_samples=100):
-        """
-        Initialize the text generator with font directory, accepted fonts file, and output paths.
-        """
+        """Initializes font directory, accepted fonts file, and output paths."""
         self.font_dir = font_dir
         self.acceptable_fonts_file = acceptable_fonts_file
         self.output_dir = output_dir
@@ -24,7 +22,7 @@ class SyntheticTextGenerator:
         self.available_fonts = self.load_fonts()
 
     def load_fonts(self):
-        """Loads acceptable fonts from the given file and verifies their existence."""
+        """Loads fonts from the accepted list and verifies their existence."""
         with open(self.acceptable_fonts_file, "r") as f:
             acceptable_fonts = {line.strip() for line in f.readlines()}
 
@@ -33,7 +31,7 @@ class SyntheticTextGenerator:
         ]
 
         if not available_fonts:
-            raise ValueError("No acceptable fonts found. Check your acceptable_fonts.txt file.")
+            raise ValueError("No acceptable fonts found. Check the fonts file.")
 
         return available_fonts
 
@@ -43,7 +41,6 @@ class SyntheticTextGenerator:
         chars = string.ascii_uppercase + string.digits
         text = ''.join(random.choices(chars, k=length))
 
-        # Add hyphens with a maximum of 2 in random positions
         if length > 2 and random.choice([True, False]):
             hyphen_positions = sorted(random.sample(range(1, length), k=random.randint(1, 2)))
             for pos in reversed(hyphen_positions):
@@ -52,9 +49,9 @@ class SyntheticTextGenerator:
         return text
 
     def generate_text_images(self):
-        """Generates synthetic text images and labels."""
+        """Generates synthetic text images and corresponding labels."""
         for i in tqdm(range(self.num_samples), desc="Generating Text Samples"):
-            stacked_text = random.random() < 0.30  # 30% chance of stacked text
+            stacked_text = random.random() < 0.30
             num_lines = random.randint(2, 4) if stacked_text else 1
 
             texts = [self.generate_random_text() for _ in range(num_lines)]
@@ -66,7 +63,6 @@ class SyntheticTextGenerator:
             except:
                 continue
 
-            # Use getbbox() instead of the deprecated getsize()
             text_sizes = [font.getbbox(text) for text in texts]
             text_sizes = [(x_max - x_min, y_max - y_min) for (x_min, y_min, x_max, y_max) in text_sizes]
 
@@ -91,7 +87,7 @@ class SyntheticTextGenerator:
             label_data = []
 
             for text in texts:
-                text_width, text_height = font.getbbox(text)[2:]  # Extract width and height
+                text_width, text_height = font.getbbox(text)[2:]
                 text_x = padding
                 draw.text((text_x, text_y), text, font=font, fill="black")
 
@@ -129,5 +125,3 @@ class SyntheticTextGenerator:
                 json.dump(final_label_data, label_file, indent=4)
 
         print("Text generation completed successfully.")
-
-
