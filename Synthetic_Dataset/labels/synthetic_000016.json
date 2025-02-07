@@ -1,15 +1,23 @@
 {
     "texts": [
         {
-            "text": "NVURL2KMB",
+            "text": "ZS0MNG",
             "position": [
                 10,
                 10
             ],
             "underlined": true
+        },
+        {
+            "text": "UM-P",
+            "position": [
+                10,
+                76
+            ],
+            "underlined": false
         }
     ],
-    "font": "Arial Narrow.ttf",
+    "font": "Andale Mono.ttf",
     "rotation": 0,
     "image_path": "synthetic_000016.png",
     "white_background": true

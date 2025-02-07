@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "LR",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Courier New.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000096.png",
+    "white_background": true
+}

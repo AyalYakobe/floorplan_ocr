@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "0LW7-A-EXD4F",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000037.png",
+    "white_background": false
+}

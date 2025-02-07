@@ -1,24 +1,16 @@
 {
     "texts": [
         {
-            "text": "UGI-IHK",
+            "text": "0C-UA-1PM",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
-        },
-        {
-            "text": "BH-2Y",
-            "position": [
-                10,
-                92
-            ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Arial Bold.ttf",
-    "rotation": 90,
+    "font": "Arial.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000006.png",
     "white_background": true
 }

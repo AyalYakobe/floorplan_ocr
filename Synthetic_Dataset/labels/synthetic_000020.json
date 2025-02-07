@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "6",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000020.png",
+    "white_background": true
+}

@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "WH5VVLO",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "0-L9V",
+            "position": [
+                10,
+                82
+            ],
+            "underlined": true
+        },
+        {
+            "text": "O-1SBI",
+            "position": [
+                10,
+                154
+            ],
+            "underlined": false
+        },
+        {
+            "text": "Q3",
+            "position": [
+                10,
+                226
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "DIN Alternate Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000097.png",
+    "white_background": false
+}

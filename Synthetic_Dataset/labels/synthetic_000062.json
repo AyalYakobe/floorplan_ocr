@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "GAYNOQU",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "KW2-U",
+            "position": [
+                10,
+                93
+            ],
+            "underlined": true
+        },
+        {
+            "text": "K8RL",
+            "position": [
+                10,
+                172
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000062.png",
+    "white_background": true
+}

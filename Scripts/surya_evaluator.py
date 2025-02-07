@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 import Scripts.surya_evaluator as evaluator
 
-print(dir(evaluator))
+# print(dir(evaluator))
 
 
 def convert_to_coco(image_dir, label_dir, output_path):

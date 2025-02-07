@@ -1,0 +1,24 @@
+{
+    "texts": [
+        {
+            "text": "ZJER5YOPFV",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "D02A6MI",
+            "position": [
+                10,
+                98
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Impact.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000040.png",
+    "white_background": true
+}

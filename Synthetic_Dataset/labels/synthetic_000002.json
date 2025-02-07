@@ -1,40 +1,16 @@
 {
     "texts": [
         {
-            "text": "5-TK8-31LP",
+            "text": "O99-W2-Z",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
-        },
-        {
-            "text": "LKMM77K",
-            "position": [
-                10,
-                94
-            ],
-            "underlined": true
-        },
-        {
-            "text": "1-VQL",
-            "position": [
-                10,
-                177
-            ],
-            "underlined": false
-        },
-        {
-            "text": "GL1M5WCU-E0",
-            "position": [
-                10,
-                264
-            ],
             "underlined": false
         }
     ],
-    "font": "Arial Narrow.ttf",
-    "rotation": 90,
+    "font": "Impact.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000002.png",
     "white_background": true
 }

@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "2R6YYIFLG",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "Z-1W-Z",
+            "position": [
+                10,
+                79
+            ],
+            "underlined": false
+        },
+        {
+            "text": "K-AJ4P1J",
+            "position": [
+                10,
+                147
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000044.png",
+    "white_background": true
+}

@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "F-YM6RX6-WWP",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000023.png",
+    "white_background": false
+}

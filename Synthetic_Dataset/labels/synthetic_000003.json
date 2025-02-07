@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "LF-Z",
+            "text": "GNEW",
             "position": [
                 10,
                 10
@@ -9,8 +9,8 @@
             "underlined": true
         }
     ],
-    "font": "Arial Bold.ttf",
-    "rotation": 0,
+    "font": "Courier New.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000003.png",
     "white_background": false
 }

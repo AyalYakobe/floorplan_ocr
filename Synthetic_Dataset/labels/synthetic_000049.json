@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "3QK2M",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "GE1X3NY-RH-L",
+            "position": [
+                10,
+                84
+            ],
+            "underlined": false
+        },
+        {
+            "text": "11R49",
+            "position": [
+                10,
+                155
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000049.png",
+    "white_background": false
+}

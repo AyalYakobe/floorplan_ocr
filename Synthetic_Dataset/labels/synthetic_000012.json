@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "VTLNJALS7",
+            "text": "0ZYUPQOOV2",
             "position": [
                 10,
                 10
@@ -9,7 +9,7 @@
             "underlined": false
         }
     ],
-    "font": "Arial Narrow.ttf",
+    "font": "DIN Alternate Bold.ttf",
     "rotation": 0,
     "image_path": "synthetic_000012.png",
     "white_background": true

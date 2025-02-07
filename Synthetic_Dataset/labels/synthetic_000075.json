@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "2Z89",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Courier New.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000075.png",
+    "white_background": false
+}

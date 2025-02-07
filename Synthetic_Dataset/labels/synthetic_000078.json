@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "I",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "QNGNPPE4U",
+            "position": [
+                10,
+                84
+            ],
+            "underlined": true
+        },
+        {
+            "text": "76B",
+            "position": [
+                10,
+                167
+            ],
+            "underlined": true
+        },
+        {
+            "text": "OYJFHD",
+            "position": [
+                10,
+                242
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Courier New.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000078.png",
+    "white_background": true
+}

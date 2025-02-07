@@ -1,15 +1,39 @@
 {
     "texts": [
         {
-            "text": "WDJ7V3",
+            "text": "9Z",
             "position": [
                 10,
                 10
             ],
             "underlined": false
+        },
+        {
+            "text": "2P1MLVVI",
+            "position": [
+                10,
+                81
+            ],
+            "underlined": true
+        },
+        {
+            "text": "SHR4FG1",
+            "position": [
+                10,
+                152
+            ],
+            "underlined": false
+        },
+        {
+            "text": "QCNS-G2",
+            "position": [
+                10,
+                223
+            ],
+            "underlined": false
         }
     ],
-    "font": "Arial.ttf",
+    "font": "DIN Alternate Bold.ttf",
     "rotation": 0,
     "image_path": "synthetic_000011.png",
     "white_background": false

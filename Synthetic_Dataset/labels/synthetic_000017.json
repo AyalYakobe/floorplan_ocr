@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "1O-L-Q",
+            "text": "6017",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
         }
     ],
-    "font": "Courier New.ttf",
-    "rotation": 0,
+    "font": "Arial Bold.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000017.png",
     "white_background": false
 }

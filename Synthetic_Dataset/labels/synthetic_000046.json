@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "P2LEIH4-7",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000046.png",
+    "white_background": true
+}

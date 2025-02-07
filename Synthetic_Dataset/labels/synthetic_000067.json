@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "K",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "N-D-B",
+            "position": [
+                10,
+                86
+            ],
+            "underlined": true
+        },
+        {
+            "text": "OB7IYBJC06",
+            "position": [
+                10,
+                162
+            ],
+            "underlined": true
+        },
+        {
+            "text": "R",
+            "position": [
+                10,
+                239
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000067.png",
+    "white_background": false
+}

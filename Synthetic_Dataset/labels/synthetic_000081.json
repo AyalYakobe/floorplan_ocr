@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "LRF5LZ-H30I",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000081.png",
+    "white_background": false
+}

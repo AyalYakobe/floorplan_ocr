@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "ON",
+            "text": "KSNKYKK",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
         }
     ],
-    "font": "Andale Mono.ttf",
-    "rotation": 0,
+    "font": "Arial.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000014.png",
     "white_background": true
 }

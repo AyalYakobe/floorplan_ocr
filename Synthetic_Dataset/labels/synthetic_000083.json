@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "O",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "PJXPV5",
+            "position": [
+                10,
+                78
+            ],
+            "underlined": true
+        },
+        {
+            "text": "G-DKAW-UZ",
+            "position": [
+                10,
+                146
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000083.png",
+    "white_background": false
+}

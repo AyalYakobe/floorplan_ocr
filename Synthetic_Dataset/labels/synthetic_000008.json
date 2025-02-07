@@ -1,15 +1,39 @@
 {
     "texts": [
         {
-            "text": "F-SN-X",
+            "text": "C",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
+        },
+        {
+            "text": "6MBH",
+            "position": [
+                10,
+                78
+            ],
+            "underlined": false
+        },
+        {
+            "text": "BR0",
+            "position": [
+                10,
+                147
+            ],
+            "underlined": false
+        },
+        {
+            "text": "YFNN-ZH-NH",
+            "position": [
+                10,
+                216
+            ],
+            "underlined": false
         }
     ],
-    "font": "Impact.ttf",
+    "font": "Arial Bold.ttf",
     "rotation": 90,
     "image_path": "synthetic_000008.png",
     "white_background": true

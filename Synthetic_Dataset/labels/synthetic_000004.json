@@ -1,15 +1,15 @@
 {
     "texts": [
         {
-            "text": "U-Y82UF",
+            "text": "43",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
         }
     ],
-    "font": "Courier New.ttf",
+    "font": "Arial Bold.ttf",
     "rotation": 90,
     "image_path": "synthetic_000004.png",
     "white_background": true

@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "ISSVYG",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "M-HM",
+            "position": [
+                10,
+                86
+            ],
+            "underlined": true
+        },
+        {
+            "text": "RB5QR-Q5",
+            "position": [
+                10,
+                161
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000087.png",
+    "white_background": false
+}

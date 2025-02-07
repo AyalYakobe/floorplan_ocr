@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "Q",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "9WSXZVB-V-KD",
+            "position": [
+                10,
+                88
+            ],
+            "underlined": true
+        },
+        {
+            "text": "ZS9A-0O",
+            "position": [
+                10,
+                165
+            ],
+            "underlined": false
+        },
+        {
+            "text": "Q4-8-P2C84",
+            "position": [
+                10,
+                242
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "DIN Alternate Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000041.png",
+    "white_background": false
+}

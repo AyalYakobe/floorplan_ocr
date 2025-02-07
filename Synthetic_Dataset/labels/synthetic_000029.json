@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "ZQP-B",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Andale Mono.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000029.png",
+    "white_background": false
+}

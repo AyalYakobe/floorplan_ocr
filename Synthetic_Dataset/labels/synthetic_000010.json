@@ -1,39 +1,15 @@
 {
     "texts": [
         {
-            "text": "7HJQYJ",
+            "text": "8-9CO",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
-        },
-        {
-            "text": "P-E3",
-            "position": [
-                10,
-                88
-            ],
-            "underlined": false
-        },
-        {
-            "text": "9W19",
-            "position": [
-                10,
-                163
-            ],
-            "underlined": false
-        },
-        {
-            "text": "I2-S7X-JOZ",
-            "position": [
-                10,
-                238
-            ],
             "underlined": true
         }
     ],
-    "font": "Arial Narrow.ttf",
+    "font": "Microsoft Sans Serif.ttf",
     "rotation": 90,
     "image_path": "synthetic_000010.png",
     "white_background": true

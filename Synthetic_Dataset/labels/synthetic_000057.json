@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "T-K9BT9RQY",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "DIN Alternate Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000057.png",
+    "white_background": false
+}

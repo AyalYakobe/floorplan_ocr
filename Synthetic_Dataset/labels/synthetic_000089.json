@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "BIGCDF-M",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000089.png",
+    "white_background": false
+}

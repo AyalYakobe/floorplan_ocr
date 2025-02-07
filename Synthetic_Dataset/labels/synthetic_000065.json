@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "AAM9HTPS",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "DIN Alternate Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000065.png",
+    "white_background": false
+}

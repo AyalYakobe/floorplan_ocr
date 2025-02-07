@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "DJU",
+            "text": "L8EI1V4ED3",
             "position": [
                 10,
                 10
@@ -9,8 +9,8 @@
             "underlined": true
         }
     ],
-    "font": "Impact.ttf",
-    "rotation": 0,
+    "font": "Arial Narrow.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000013.png",
     "white_background": false
 }

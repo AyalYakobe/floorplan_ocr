@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "BQ-LRW68WA",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "5R6V-T6HH",
+            "position": [
+                10,
+                93
+            ],
+            "underlined": true
+        },
+        {
+            "text": "H-8-FKTV9",
+            "position": [
+                10,
+                172
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000022.png",
+    "white_background": true
+}
