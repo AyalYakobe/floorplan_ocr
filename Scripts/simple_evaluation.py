@@ -74,7 +74,7 @@ def evaluate_ocr(images, ground_truths):
 
     return pd.DataFrame(results)
 
-def evaluator():
+def simple_evaluator():
     """ Main function to run OCR evaluation, save results, and visualize errors """
     images, ground_truths = load_synthetic_data(IMAGE_PATH, LABEL_PATH)
     if images and ground_truths:

@@ -1,0 +1,516 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "file_name": "synthetic_000000.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 2,
+            "file_name": "synthetic_000016.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 3,
+            "file_name": "synthetic_000017.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 4,
+            "file_name": "synthetic_000001.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 5,
+            "file_name": "synthetic_000006.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 6,
+            "file_name": "synthetic_000010.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 7,
+            "file_name": "synthetic_000011.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 8,
+            "file_name": "synthetic_000007.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 9,
+            "file_name": "synthetic_000008.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 10,
+            "file_name": "synthetic_000012.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 11,
+            "file_name": "synthetic_000004.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 12,
+            "file_name": "synthetic_000005.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 13,
+            "file_name": "synthetic_000013.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 14,
+            "file_name": "synthetic_000009.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 15,
+            "file_name": "synthetic_000014.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 16,
+            "file_name": "synthetic_000002.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 17,
+            "file_name": "synthetic_000018.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 18,
+            "file_name": "synthetic_000019.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 19,
+            "file_name": "synthetic_000003.png",
+            "width": 256,
+            "height": 256
+        },
+        {
+            "id": 20,
+            "file_name": "synthetic_000015.png",
+            "width": 256,
+            "height": 256
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "671IO2X5G",
+            "category_id": 1
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "NVURL2KMB",
+            "category_id": 1
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "1O-L-Q",
+            "category_id": 1
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "V-4-CU",
+            "category_id": 1
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "UGI-IHK",
+            "category_id": 1
+        },
+        {
+            "id": 6,
+            "image_id": 5,
+            "bbox": [
+                10,
+                92,
+                50,
+                20
+            ],
+            "text": "BH-2Y",
+            "category_id": 1
+        },
+        {
+            "id": 7,
+            "image_id": 6,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "7HJQYJ",
+            "category_id": 1
+        },
+        {
+            "id": 8,
+            "image_id": 6,
+            "bbox": [
+                10,
+                88,
+                50,
+                20
+            ],
+            "text": "P-E3",
+            "category_id": 1
+        },
+        {
+            "id": 9,
+            "image_id": 6,
+            "bbox": [
+                10,
+                163,
+                50,
+                20
+            ],
+            "text": "9W19",
+            "category_id": 1
+        },
+        {
+            "id": 10,
+            "image_id": 6,
+            "bbox": [
+                10,
+                238,
+                50,
+                20
+            ],
+            "text": "I2-S7X-JOZ",
+            "category_id": 1
+        },
+        {
+            "id": 11,
+            "image_id": 7,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "WDJ7V3",
+            "category_id": 1
+        },
+        {
+            "id": 12,
+            "image_id": 8,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "2ZR0G",
+            "category_id": 1
+        },
+        {
+            "id": 13,
+            "image_id": 9,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "F-SN-X",
+            "category_id": 1
+        },
+        {
+            "id": 14,
+            "image_id": 10,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "VTLNJALS7",
+            "category_id": 1
+        },
+        {
+            "id": 15,
+            "image_id": 11,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "U-Y82UF",
+            "category_id": 1
+        },
+        {
+            "id": 16,
+            "image_id": 12,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "39",
+            "category_id": 1
+        },
+        {
+            "id": 17,
+            "image_id": 13,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "DJU",
+            "category_id": 1
+        },
+        {
+            "id": 18,
+            "image_id": 14,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "279UW-5-FI",
+            "category_id": 1
+        },
+        {
+            "id": 19,
+            "image_id": 15,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "ON",
+            "category_id": 1
+        },
+        {
+            "id": 20,
+            "image_id": 16,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "5-TK8-31LP",
+            "category_id": 1
+        },
+        {
+            "id": 21,
+            "image_id": 16,
+            "bbox": [
+                10,
+                94,
+                50,
+                20
+            ],
+            "text": "LKMM77K",
+            "category_id": 1
+        },
+        {
+            "id": 22,
+            "image_id": 16,
+            "bbox": [
+                10,
+                177,
+                50,
+                20
+            ],
+            "text": "1-VQL",
+            "category_id": 1
+        },
+        {
+            "id": 23,
+            "image_id": 16,
+            "bbox": [
+                10,
+                264,
+                50,
+                20
+            ],
+            "text": "GL1M5WCU-E0",
+            "category_id": 1
+        },
+        {
+            "id": 24,
+            "image_id": 17,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "IJEBGWR-A-M5",
+            "category_id": 1
+        },
+        {
+            "id": 25,
+            "image_id": 17,
+            "bbox": [
+                10,
+                90,
+                50,
+                20
+            ],
+            "text": "M8",
+            "category_id": 1
+        },
+        {
+            "id": 26,
+            "image_id": 17,
+            "bbox": [
+                10,
+                170,
+                50,
+                20
+            ],
+            "text": "EL4LV-0YMX",
+            "category_id": 1
+        },
+        {
+            "id": 27,
+            "image_id": 17,
+            "bbox": [
+                10,
+                250,
+                50,
+                20
+            ],
+            "text": "980QFF04N",
+            "category_id": 1
+        },
+        {
+            "id": 28,
+            "image_id": 18,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "CGMOYD57C",
+            "category_id": 1
+        },
+        {
+            "id": 29,
+            "image_id": 18,
+            "bbox": [
+                10,
+                71,
+                50,
+                20
+            ],
+            "text": "IMIB7JOE",
+            "category_id": 1
+        },
+        {
+            "id": 30,
+            "image_id": 18,
+            "bbox": [
+                10,
+                132,
+                50,
+                20
+            ],
+            "text": "AMRZ",
+            "category_id": 1
+        },
+        {
+            "id": 31,
+            "image_id": 19,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "LF-Z",
+            "category_id": 1
+        },
+        {
+            "id": 32,
+            "image_id": 20,
+            "bbox": [
+                10,
+                10,
+                50,
+                20
+            ],
+            "text": "6KRBFNF",
+            "category_id": 1
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "text"
+        }
+    ]
+}
