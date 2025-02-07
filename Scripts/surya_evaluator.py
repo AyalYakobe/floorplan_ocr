@@ -1,14 +1,16 @@
 import json
 import os
 import time
-
 import numpy as np
 from PIL import Image
 from matplotlib import pyplot as plt
-from medmnist import evaluator
 from surya.recognition import RecognitionPredictor
 from surya.detection import DetectionPredictor
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+import Scripts.surya_evaluator as evaluator
+
+print(dir(evaluator))
 
 
 def convert_to_coco(image_dir, label_dir, output_path):
@@ -110,13 +112,6 @@ def load_ground_truth(coco_file):
 
     return ground_truth
 
-
-# Function to evaluate OCR results
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
-import itertools
-
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
-
 def evaluate_results(results, ground_truth):
     y_true = []
     y_pred = []
@@ -171,11 +166,17 @@ def plot_comparison(baseline_metrics, fine_tuned_metrics):
 
     plt.show()
 
-def evaluate_ocr(final_images_dir, coco_annotations_path):
+def evaluate_ocr_custom():
+
+    import Scripts.surya_evaluator as evaluator
+    print(dir(evaluator))
+
     start_time = time.time()  # Start time tracking
 
+    final_images_dir = "Synthetic_Dataset/final_images"
+
     # Load ground truth from COCO annotations
-    ground_truth = evaluator.load_ground_truth(coco_annotations_path)
+    ground_truth = evaluator.load_ground_truth("Synthetic_Dataset/coco_annotations.json")
 
     # Split images for baseline and fine-tuned evaluation
     baseline_images, fine_tuned_images = split_images(final_images_dir)
