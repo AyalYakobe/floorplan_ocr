@@ -1,39 +1,15 @@
 {
     "texts": [
         {
-            "text": "I",
+            "text": "B6-V2Q1YF-HF",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
-        },
-        {
-            "text": "EONHXDA",
-            "position": [
-                10,
-                81
-            ],
-            "underlined": false
-        },
-        {
-            "text": "C2U9OXJKD",
-            "position": [
-                10,
-                152
-            ],
-            "underlined": false
-        },
-        {
-            "text": "RNA",
-            "position": [
-                10,
-                223
-            ],
             "underlined": false
         }
     ],
-    "font": "DIN Alternate Bold.ttf",
+    "font": "DIN Condensed Bold.ttf",
     "rotation": 90,
     "image_path": "synthetic_000018.png",
     "white_background": true

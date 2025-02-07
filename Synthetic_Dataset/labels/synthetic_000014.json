@@ -1,16 +1,24 @@
 {
     "texts": [
         {
-            "text": "0TA96R",
+            "text": "J4G",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
+        },
+        {
+            "text": "K69MYR7",
+            "position": [
+                10,
+                91
+            ],
+            "underlined": false
         }
     ],
     "font": "Arial.ttf",
-    "rotation": 90,
+    "rotation": 0,
     "image_path": "synthetic_000014.png",
     "white_background": true
 }

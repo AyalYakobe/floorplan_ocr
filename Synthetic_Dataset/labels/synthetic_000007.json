@@ -1,18 +1,26 @@
 {
     "texts": [
         {
-            "text": "VED1XCC",
+            "text": "50",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         },
         {
-            "text": "A0YY-AWMEMO",
+            "text": "O-IA01QQ2RE",
             "position": [
                 10,
-                90
+                82
+            ],
+            "underlined": false
+        },
+        {
+            "text": "GR",
+            "position": [
+                10,
+                157
             ],
             "underlined": false
         }

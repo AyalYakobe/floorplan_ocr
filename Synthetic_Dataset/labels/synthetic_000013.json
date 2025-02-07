@@ -1,15 +1,23 @@
 {
     "texts": [
         {
-            "text": "LUK-21T1",
+            "text": "OT",
             "position": [
                 10,
                 10
             ],
+            "underlined": true
+        },
+        {
+            "text": "XM",
+            "position": [
+                10,
+                88
+            ],
             "underlined": false
         }
     ],
-    "font": "Arial Bold.ttf",
+    "font": "Microsoft Sans Serif.ttf",
     "rotation": 90,
     "image_path": "synthetic_000013.png",
     "white_background": false
