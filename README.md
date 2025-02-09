@@ -12,20 +12,19 @@ This project is a comprehensive system for processing images, generating text, a
 - **PDF Processing**: Extracts images from PDFs and performs OCR analysis.
 
 ## File Descriptions
-```
-- main.py: The central script that orchestrates different modules.
-- initial_image_processing.py: Handles image preprocessing and feature extraction.
-- text_generation.py: Implements text generation algorithms.
-- combine_text_w_image.py: Merges generated text with processed images.
-- simple_evaluation.py: Provides a basic evaluation mechanism for generated content.
-- surya_evaluator.py: Advanced evaluation mechanism for text and image alignment.
-- surya_pdf_processor.py: Extracts images from PDF files, performs OCR analysis, and saves annotations in JSON format.
-```
+- **main.py**: The central script that orchestrates different modules.
+- **initial_image_processing.py**: Handles image preprocessing and feature extraction.
+- **text_generation.py**: Implements text generation algorithms.
+- **combine_text_w_image.py**: Merges generated text with processed images.
+- **simple_evaluation.py**: Provides a basic evaluation mechanism for generated content.
+- **surya_evaluator.py**: Advanced evaluation mechanism for text and image alignment.
+- **surya_pdf_processor.py**: Extracts images from PDF files, performs OCR analysis, and saves annotations in JSON format.
 
 ## Requirements
 This project was developed using PyCharm.
 
 ## Usage
-```
+```bash
 python main.py
 ```
+
