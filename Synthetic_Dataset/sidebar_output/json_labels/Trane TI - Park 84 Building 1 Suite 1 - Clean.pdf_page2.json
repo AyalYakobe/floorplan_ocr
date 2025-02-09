@@ -1,0 +1,25 @@
+{
+    "file_name": "Trane TI - Park 84 Building 1 Suite 1 - Clean.pdf_page2.png",
+    "annotations": [
+        {
+            "text": "ENL. OFFICE\nREF CEILING PLAN",
+            "bbox": [
+                63.0,
+                135.0,
+                230.0,
+                170.0
+            ],
+            "confidence": 0.990234375
+        },
+        {
+            "text": "A2.3",
+            "bbox": [
+                105.0,
+                203.0,
+                171.0,
+                234.0
+            ],
+            "confidence": 0.97802734375
+        }
+    ]
+}

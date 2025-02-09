@@ -1,0 +1,105 @@
+{
+    "file_name": "2024.0397 - Aqua-Tots - Full Set - 10.17.24.pdf_page22.png",
+    "annotations": [
+        {
+            "text": "SHOPPING CENTER",
+            "bbox": [
+                64.0,
+                10.0,
+                203.0,
+                26.0
+            ],
+            "confidence": 0.97314453125
+        },
+        {
+            "text": "RYGHT @ 2024 BRITT, PETERS & ASSOCIATES, INC RESERVES COPYRIGHT & C",
+            "bbox": [
+                221.0,
+                20.0,
+                231.0,
+                238.0
+            ],
+            "confidence": 0.92333984375
+        },
+        {
+            "text": "2133 UPTON DRIVE SUITE 100",
+            "bbox": [
+                56.0,
+                42.0,
+                210.0,
+                53.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "VIRGINIA BEACH, VIRGINIA",
+            "bbox": [
+                59.0,
+                59.0,
+                207.0,
+                70.0
+            ],
+            "confidence": 0.98779296875
+        },
+        {
+            "text": "23454",
+            "bbox": [
+                116.0,
+                78.0,
+                150.0,
+                88.0
+            ],
+            "confidence": 0.982421875
+        },
+        {
+            "text": "PROJECT NO: 2024.0397",
+            "bbox": [
+                57.0,
+                110.0,
+                165.0,
+                119.0
+            ],
+            "confidence": 0.9814453125
+        },
+        {
+            "text": "DATE: 09.27.2024",
+            "bbox": [
+                57.0,
+                126.0,
+                132.0,
+                134.0
+            ],
+            "confidence": 0.9619140625
+        },
+        {
+            "text": "FRAMING SECTIONS",
+            "bbox": [
+                82.0,
+                207.0,
+                182.0,
+                215.0
+            ],
+            "confidence": 0.97265625
+        },
+        {
+            "text": "CHECKED: BF",
+            "bbox": [
+                58.0,
+                245.0,
+                117.0,
+                254.0
+            ],
+            "confidence": 0.97412109375
+        },
+        {
+            "text": "DRAWN: PB",
+            "bbox": [
+                129.0,
+                245.0,
+                181.0,
+                254.0
+            ],
+            "confidence": 0.94287109375
+        }
+    ]
+}

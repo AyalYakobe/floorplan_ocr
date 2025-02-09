@@ -1,0 +1,45 @@
+{
+    "file_name": "Othership - Mech drawings.pdf_page14.png",
+    "annotations": [
+        {
+            "text": "IICAL CONTROLS",
+            "bbox": [
+                0.0,
+                35.0,
+                110.0,
+                50.0
+            ],
+            "confidence": 0.95361328125
+        },
+        {
+            "text": "501.00",
+            "bbox": [
+                0.0,
+                172.0,
+                95.0,
+                210.0
+            ],
+            "confidence": 0.921875
+        },
+        {
+            "text": "W JOB #  M00889237-11",
+            "bbox": [
+                0.0,
+                220.0,
+                143.0,
+                237.0
+            ],
+            "confidence": 0.94580078125
+        },
+        {
+            "text": "14 OF 16",
+            "bbox": [
+                11.0,
+                243.0,
+                76.0,
+                255.0
+            ],
+            "confidence": 0.92431640625
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "file_name": "24-067 Village School Commons - Building E Mechanical 2024-09-11 Pricing Set.pdf_page2.png",
+    "annotations": [
+        {
+            "text": "DRAWING TITLE",
+            "bbox": [
+                42.0,
+                41.0,
+                90.0,
+                47.0
+            ],
+            "confidence": 0.99072265625
+        },
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                39.0,
+                64.0,
+                123.0,
+                75.0
+            ],
+            "confidence": 0.97705078125
+        },
+        {
+            "text": "SPECIFICATIONS",
+            "bbox": [
+                40.0,
+                78.0,
+                138.0,
+                89.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "(NOT FOR CONSTRUCTION )",
+            "bbox": [
+                40.0,
+                142.0,
+                173.0,
+                152.0
+            ],
+            "confidence": 0.99609375
+        },
+        {
+            "text": "SCALE",
+            "bbox": [
+                42.0,
+                162.0,
+                61.0,
+                168.0
+            ],
+            "confidence": 0.98486328125
+        },
+        {
+            "text": "DRAWN BY",
+            "bbox": [
+                123.0,
+                162.0,
+                157.0,
+                167.0
+            ],
+            "confidence": 0.8818359375
+        },
+        {
+            "text": "AS SHOWN",
+            "bbox": [
+                42.0,
+                175.0,
+                98.0,
+                184.0
+            ],
+            "confidence": 0.970703125
+        },
+        {
+            "text": "EL",
+            "bbox": [
+                123.0,
+                175.0,
+                135.0,
+                184.0
+            ],
+            "confidence": 0.875
+        },
+        {
+            "text": "SHEET NO",
+            "bbox": [
+                123.0,
+                196.0,
+                154.0,
+                204.0
+            ],
+            "confidence": 0.98486328125
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                42.0,
+                197.0,
+                59.0,
+                204.0
+            ],
+            "confidence": 0.96630859375
+        },
+        {
+            "text": "07/25/2024",
+            "bbox": [
+                40.0,
+                209.0,
+                111.0,
+                221.0
+            ],
+            "confidence": 0.98291015625
+        },
+        {
+            "text": "M002",
+            "bbox": [
+                122.0,
+                225.0,
+                192.0,
+                244.0
+            ],
+            "confidence": 0.9521484375
+        },
+        {
+            "text": "PROJECT NUMBER",
+            "bbox": [
+                41.0,
+                232.0,
+                97.0,
+                238.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "2023015",
+            "bbox": [
+                47.0,
+                245.0,
+                98.0,
+                257.0
+            ],
+            "confidence": 0.99560546875
+        }
+    ]
+}

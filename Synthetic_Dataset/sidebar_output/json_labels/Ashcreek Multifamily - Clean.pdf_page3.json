@@ -1,0 +1,75 @@
+{
+    "file_name": "Ashcreek Multifamily - Clean.pdf_page3.png",
+    "annotations": [
+        {
+            "text": "THIS DRAWING SET IS INTENDED",
+            "bbox": [
+                60.0,
+                9.0,
+                203.0,
+                17.0
+            ],
+            "confidence": 0.99951171875
+        },
+        {
+            "text": "TO BE PRINTED IN COLOR",
+            "bbox": [
+                75.0,
+                21.0,
+                190.0,
+                29.0
+            ],
+            "confidence": 0.99658203125
+        },
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                102.0,
+                43.0,
+                162.0,
+                52.0
+            ],
+            "confidence": 0.9931640625
+        },
+        {
+            "text": "UNIT & PARKING",
+            "bbox": [
+                54.0,
+                109.0,
+                210.0,
+                127.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "ANALYSIS",
+            "bbox": [
+                86.0,
+                133.0,
+                177.0,
+                151.0
+            ],
+            "confidence": 0.97802734375
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                96.0,
+                214.0,
+                168.0,
+                222.0
+            ],
+            "confidence": 0.98779296875
+        },
+        {
+            "text": "G002",
+            "bbox": [
+                95.0,
+                233.0,
+                169.0,
+                256.0
+            ],
+            "confidence": 0.962890625
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "file_name": "2024-11-20 Laurens County ESF CD Drawing Set.pdf_page1.png",
+    "annotations": [
+        {
+            "text": "E: CONSTRUCTION DOCUMENTS",
+            "bbox": [
+                0.0,
+                0.0,
+                207.0,
+                15.0
+            ],
+            "confidence": 0.98876953125
+        },
+        {
+            "text": ":",
+            "bbox": [
+                0.0,
+                20.0,
+                5.0,
+                33.0
+            ],
+            "confidence": 0.77490234375
+        },
+        {
+            "text": "11/20/2024",
+            "bbox": [
+                144.0,
+                21.0,
+                207.0,
+                33.0
+            ],
+            "confidence": 0.98974609375
+        },
+        {
+            "text": "ECT NO:",
+            "bbox": [
+                0.0,
+                39.0,
+                53.0,
+                51.0
+            ],
+            "confidence": 0.9365234375
+        },
+        {
+            "text": "21029.2",
+            "bbox": [
+                160.0,
+                39.0,
+                208.0,
+                51.0
+            ],
+            "confidence": 0.97900390625
+        },
+        {
+            "text": "VN BY:",
+            "bbox": [
+                0.0,
+                57.0,
+                40.0,
+                69.0
+            ],
+            "confidence": 0.92724609375
+        },
+        {
+            "text": "LAM",
+            "bbox": [
+                179.0,
+                59.0,
+                208.0,
+                70.0
+            ],
+            "confidence": 0.96875
+        },
+        {
+            "text": "CKED BY:",
+            "bbox": [
+                0.0,
+                75.0,
+                53.0,
+                87.0
+            ],
+            "confidence": 0.9775390625
+        },
+        {
+            "text": "MLW",
+            "bbox": [
+                176.0,
+                76.0,
+                208.0,
+                87.0
+            ],
+            "confidence": 0.80712890625
+        },
+        {
+            "text": "OR PLAN - SOUTH -",
+            "bbox": [
+                0.0,
+                100.0,
+                183.0,
+                117.0
+            ],
+            "confidence": 0.955078125
+        }
+    ]
+}

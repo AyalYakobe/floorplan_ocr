@@ -1,0 +1,115 @@
+{
+    "file_name": "Lam Building G - M Sheets Permit Set - 12.20.22.pdf_page1.png",
+    "annotations": [
+        {
+            "text": "Sheet Title:",
+            "bbox": [
+                69.0,
+                57.0,
+                135.0,
+                68.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                69.0,
+                71.0,
+                162.0,
+                82.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "LEGEND,",
+            "bbox": [
+                69.0,
+                87.0,
+                132.0,
+                99.0
+            ],
+            "confidence": 0.97998046875
+        },
+        {
+            "text": "ABBREVIATIONS, &",
+            "bbox": [
+                69.0,
+                102.0,
+                202.0,
+                114.0
+            ],
+            "confidence": 0.99658203125
+        },
+        {
+            "text": "GENERAL NOTES",
+            "bbox": [
+                70.0,
+                118.0,
+                190.0,
+                129.0
+            ],
+            "confidence": 0.9990234375
+        },
+        {
+            "text": "IED (*)",
+            "bbox": [
+                0.0,
+                163.0,
+                32.0,
+                173.0
+            ],
+            "confidence": 0.95751953125
+        },
+        {
+            "text": "Sheet Number:",
+            "bbox": [
+                69.0,
+                177.0,
+                156.0,
+                188.0
+            ],
+            "confidence": 0.99658203125
+        },
+        {
+            "text": "M0.01",
+            "bbox": [
+                105.0,
+                212.0,
+                175.0,
+                232.0
+            ],
+            "confidence": 0.9169921875
+        },
+        {
+            "text": "SYMBOLS.",
+            "bbox": [
+                0.0,
+                240.0,
+                56.0,
+                250.0
+            ],
+            "confidence": 0.88330078125
+        },
+        {
+            "text": "CC22450B",
+            "bbox": [
+                131.0,
+                245.0,
+                195.0,
+                255.0
+            ],
+            "confidence": 0.9775390625
+        },
+        {
+            "text": "Proj No:",
+            "bbox": [
+                69.0,
+                246.0,
+                128.0,
+                257.0
+            ],
+            "confidence": 0.9501953125
+        }
+    ]
+}

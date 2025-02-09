@@ -1,0 +1,55 @@
+{
+    "file_name": "ACHD Meeker Headquarters (Phase 1) - Clean.pdf_page1.png",
+    "annotations": [
+        {
+            "text": "TITLE SHEET",
+            "bbox": [
+                65.0,
+                19.0,
+                187.0,
+                43.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "SHEET",
+            "bbox": [
+                55.0,
+                98.0,
+                89.0,
+                107.0
+            ],
+            "confidence": 0.9970703125
+        },
+        {
+            "text": "GOO",
+            "bbox": [
+                84.0,
+                162.0,
+                155.0,
+                190.0
+            ],
+            "confidence": 0.82568359375
+        },
+        {
+            "text": "ORIGINAL SHEET SIZE",
+            "bbox": [
+                61.0,
+                229.0,
+                192.0,
+                238.0
+            ],
+            "confidence": 0.99951171875
+        },
+        {
+            "text": "30\" x 42\"",
+            "bbox": [
+                102.0,
+                239.0,
+                150.0,
+                249.0
+            ],
+            "confidence": 0.97216796875
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "file_name": "Othership - Mech drawings.pdf_page3.png",
+    "annotations": [
+        {
+            "text": "RST FLOOR AND MEZZANINE",
+            "bbox": [
+                0.0,
+                35.0,
+                184.0,
+                50.0
+            ],
+            "confidence": 0.9970703125
+        },
+        {
+            "text": "VERALL",
+            "bbox": [
+                0.0,
+                55.0,
+                54.0,
+                70.0
+            ],
+            "confidence": 0.93310546875
+        },
+        {
+            "text": "'-0\"",
+            "bbox": [
+                0.0,
+                134.0,
+                22.0,
+                148.0
+            ],
+            "confidence": 0.85302734375
+        },
+        {
+            "text": "02.00",
+            "bbox": [
+                0.0,
+                174.0,
+                95.0,
+                210.0
+            ],
+            "confidence": 0.8916015625
+        },
+        {
+            "text": "W JOB # M00889237-11",
+            "bbox": [
+                0.0,
+                221.0,
+                143.0,
+                236.0
+            ],
+            "confidence": 0.95947265625
+        },
+        {
+            "text": "OF 16",
+            "bbox": [
+                40.0,
+                243.0,
+                76.0,
+                255.0
+            ],
+            "confidence": 0.9619140625
+        }
+    ]
+}

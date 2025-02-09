@@ -1,0 +1,75 @@
+{
+    "file_name": "2023-11-03 1305 Stewart SC 100_ DD - HVAC -.pdf_page4.png",
+    "annotations": [
+        {
+            "text": "\u0cb0",
+            "bbox": [
+                0.0,
+                0.0,
+                7.0,
+                7.0
+            ],
+            "confidence": 0.7607421875
+        },
+        {
+            "text": "D. BUDD",
+            "bbox": [
+                101.0,
+                0.0,
+                143.0,
+                8.0
+            ],
+            "confidence": 0.943359375
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                114.0,
+                15.0,
+                143.0,
+                25.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "ENTRAL PLANT",
+            "bbox": [
+                0.0,
+                55.0,
+                145.0,
+                72.0
+            ],
+            "confidence": 0.99560546875
+        },
+        {
+            "text": "IPING DIAGRAM",
+            "bbox": [
+                0.0,
+                78.0,
+                145.0,
+                95.0
+            ],
+            "confidence": 0.9873046875
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                64.0,
+                125.0,
+                143.0,
+                135.0
+            ],
+            "confidence": 0.99951171875
+        },
+        {
+            "text": "M-020",
+            "bbox": [
+                38.0,
+                166.0,
+                145.0,
+                191.0
+            ],
+            "confidence": 0.9560546875
+        }
+    ]
+}

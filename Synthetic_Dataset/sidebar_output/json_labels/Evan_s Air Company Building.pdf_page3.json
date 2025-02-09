@@ -1,0 +1,125 @@
+{
+    "file_name": "Evan_s Air Company Building.pdf_page3.png",
+    "annotations": [
+        {
+            "text": "ECT ARCHITECT:",
+            "bbox": [
+                0.0,
+                0.0,
+                67.0,
+                7.0
+            ],
+            "confidence": 0.99609375
+        },
+        {
+            "text": "EM",
+            "bbox": [
+                152.0,
+                0.0,
+                166.0,
+                7.0
+            ],
+            "confidence": 0.96923828125
+        },
+        {
+            "text": "VN BY:",
+            "bbox": [
+                0.0,
+                12.0,
+                25.0,
+                21.0
+            ],
+            "confidence": 0.8984375
+        },
+        {
+            "text": "GAE",
+            "bbox": [
+                152.0,
+                12.0,
+                170.0,
+                20.0
+            ],
+            "confidence": 0.9677734375
+        },
+        {
+            "text": "T TITLE:",
+            "bbox": [
+                0.0,
+                34.0,
+                33.0,
+                44.0
+            ],
+            "confidence": 0.92919921875
+        },
+        {
+            "text": "ECHANICAL",
+            "bbox": [
+                0.0,
+                51.0,
+                119.0,
+                74.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "OTES, DETAILS",
+            "bbox": [
+                0.0,
+                78.0,
+                154.0,
+                107.0
+            ],
+            "confidence": 0.99169921875
+        },
+        {
+            "text": "ND SCHEDULES",
+            "bbox": [
+                0.0,
+                110.0,
+                162.0,
+                133.0
+            ],
+            "confidence": 0.99072265625
+        },
+        {
+            "text": "T NO.",
+            "bbox": [
+                0.0,
+                152.0,
+                23.0,
+                162.0
+            ],
+            "confidence": 0.79345703125
+        },
+        {
+            "text": "PROJ. NO.",
+            "bbox": [
+                147.0,
+                153.0,
+                188.0,
+                162.0
+            ],
+            "confidence": 0.97265625
+        },
+        {
+            "text": "024401.00",
+            "bbox": [
+                148.0,
+                167.0,
+                188.0,
+                175.0
+            ],
+            "confidence": 0.9970703125
+        },
+        {
+            "text": "1101",
+            "bbox": [
+                0.0,
+                193.0,
+                82.0,
+                228.0
+            ],
+            "confidence": 0.8193359375
+        }
+    ]
+}

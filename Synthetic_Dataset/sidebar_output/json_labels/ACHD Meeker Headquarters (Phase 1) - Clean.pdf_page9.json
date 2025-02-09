@@ -1,0 +1,75 @@
+{
+    "file_name": "ACHD Meeker Headquarters (Phase 1) - Clean.pdf_page9.png",
+    "annotations": [
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                63.0,
+                5.0,
+                189.0,
+                26.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "PLAN LEVEL 2 -",
+            "bbox": [
+                54.0,
+                35.0,
+                199.0,
+                55.0
+            ],
+            "confidence": 0.9931640625
+        },
+        {
+            "text": "QUADRANT 3",
+            "bbox": [
+                64.0,
+                64.0,
+                188.0,
+                83.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "SHEET",
+            "bbox": [
+                55.0,
+                98.0,
+                88.0,
+                106.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "M121",
+            "bbox": [
+                69.0,
+                158.0,
+                180.0,
+                196.0
+            ],
+            "confidence": 0.93212890625
+        },
+        {
+            "text": "ORIGINAL SHEET SIZE",
+            "bbox": [
+                61.0,
+                229.0,
+                192.0,
+                237.0
+            ],
+            "confidence": 0.9990234375
+        },
+        {
+            "text": "30\" x 42\"",
+            "bbox": [
+                102.0,
+                240.0,
+                150.0,
+                248.0
+            ],
+            "confidence": 0.97412109375
+        }
+    ]
+}

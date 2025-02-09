@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "RLDABI",
+            "text": "TXH0-QH",
             "position": [
                 10,
                 10
@@ -10,7 +10,7 @@
         }
     ],
     "font": "Microsoft Sans Serif.ttf",
-    "rotation": 0,
+    "rotation": 90,
     "image_path": "synthetic_000008.png",
     "white_background": true
 }

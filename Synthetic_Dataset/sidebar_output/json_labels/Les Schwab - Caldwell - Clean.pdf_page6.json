@@ -1,0 +1,55 @@
+{
+    "file_name": "Les Schwab - Caldwell - Clean.pdf_page6.png",
+    "annotations": [
+        {
+            "text": "DRAWN BY | IKL",
+            "bbox": [
+                68.0,
+                0.0,
+                143.0,
+                10.0
+            ],
+            "confidence": 0.98291015625
+        },
+        {
+            "text": "REVISIONS",
+            "bbox": [
+                67.0,
+                12.0,
+                121.0,
+                21.0
+            ],
+            "confidence": 0.95556640625
+        },
+        {
+            "text": "RACKING PLATFORM",
+            "bbox": [
+                67.0,
+                171.0,
+                200.0,
+                182.0
+            ],
+            "confidence": 0.99755859375
+        },
+        {
+            "text": "LEVEL HVAC PLAN",
+            "bbox": [
+                67.0,
+                185.0,
+                184.0,
+                196.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "1102",
+            "bbox": [
+                92.0,
+                222.0,
+                188.0,
+                254.0
+            ],
+            "confidence": 0.91650390625
+        }
+    ]
+}

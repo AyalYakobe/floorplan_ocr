@@ -1,0 +1,115 @@
+{
+    "file_name": "Takeoff_ HOM District Phase 1A.pdf_page3.png",
+    "annotations": [
+        {
+            "text": "MAY 23",
+            "bbox": [
+                0.0,
+                9.0,
+                39.0,
+                20.0
+            ],
+            "confidence": 0.9580078125
+        },
+        {
+            "text": "50% DESIGN DEVELOPMENT",
+            "bbox": [
+                52.0,
+                10.0,
+                184.0,
+                19.0
+            ],
+            "confidence": 0.99951171875
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                0.0,
+                37.0,
+                33.0,
+                46.0
+            ],
+            "confidence": 0.978515625
+        },
+        {
+            "text": "ISSUE",
+            "bbox": [
+                117.0,
+                37.0,
+                147.0,
+                45.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                0.0,
+                88.0,
+                21.0,
+                96.0
+            ],
+            "confidence": 0.9423828125
+        },
+        {
+            "text": "ARAGE LEVEL B1",
+            "bbox": [
+                0.0,
+                106.0,
+                201.0,
+                129.0
+            ],
+            "confidence": 0.9921875
+        },
+        {
+            "text": "FLOOR PLAN -",
+            "bbox": [
+                0.0,
+                135.0,
+                176.0,
+                155.0
+            ],
+            "confidence": 0.99462890625
+        },
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                4.0,
+                163.0,
+                170.0,
+                183.0
+            ],
+            "confidence": 0.99658203125
+        },
+        {
+            "text": "DRAWING NUMBER",
+            "bbox": [
+                56.0,
+                233.0,
+                121.0,
+                240.0
+            ],
+            "confidence": 0.9921875
+        },
+        {
+            "text": "M3.00B1-2",
+            "bbox": [
+                61.0,
+                242.0,
+                182.0,
+                260.0
+            ],
+            "confidence": 0.98779296875
+        },
+        {
+            "text": "07",
+            "bbox": [
+                0.0,
+                247.0,
+                14.0,
+                258.0
+            ],
+            "confidence": 0.9130859375
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "file_name": "dwgs_1_157380.pdf_page1.png",
+    "annotations": [
+        {
+            "text": "WN BY: Author",
+            "bbox": [
+                0.0,
+                59.0,
+                80.0,
+                71.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "CKED BY: Checker",
+            "bbox": [
+                0.0,
+                82.0,
+                102.0,
+                94.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "& SIGNATURE",
+            "bbox": [
+                0.0,
+                107.0,
+                91.0,
+                119.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                116.0,
+                107.0,
+                219.0,
+                119.0
+            ],
+            "confidence": 0.99462890625
+        },
+        {
+            "text": "M-001",
+            "bbox": [
+                134.0,
+                148.0,
+                220.0,
+                172.0
+            ],
+            "confidence": 0.93408203125
+        },
+        {
+            "text": "DOB NOW:",
+            "bbox": [
+                105.0,
+                194.0,
+                148.0,
+                204.0
+            ],
+            "confidence": 0.93994140625
+        },
+        {
+            "text": "DRAWING NUMBER",
+            "bbox": [
+                109.0,
+                223.0,
+                232.0,
+                235.0
+            ],
+            "confidence": 0.99658203125
+        }
+    ]
+}

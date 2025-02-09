@@ -1,0 +1,65 @@
+{
+    "file_name": "Othership - Mech drawings.pdf_page4.png",
+    "annotations": [
+        {
+            "text": "ECOND FLOOR ROOF PLAN -",
+            "bbox": [
+                0.0,
+                35.0,
+                179.0,
+                51.0
+            ],
+            "confidence": 0.99609375
+        },
+        {
+            "text": "L",
+            "bbox": [
+                0.0,
+                56.0,
+                7.0,
+                69.0
+            ],
+            "confidence": 0.79638671875
+        },
+        {
+            "text": "'-0\"",
+            "bbox": [
+                0.0,
+                134.0,
+                22.0,
+                148.0
+            ],
+            "confidence": 0.85400390625
+        },
+        {
+            "text": "03.00",
+            "bbox": [
+                0.0,
+                173.0,
+                95.0,
+                210.0
+            ],
+            "confidence": 0.8046875
+        },
+        {
+            "text": "W JOB # M00889237-11",
+            "bbox": [
+                0.0,
+                221.0,
+                143.0,
+                236.0
+            ],
+            "confidence": 0.95849609375
+        },
+        {
+            "text": "__ OF_16",
+            "bbox": [
+                24.0,
+                241.0,
+                76.0,
+                257.0
+            ],
+            "confidence": 0.833984375
+        }
+    ]
+}

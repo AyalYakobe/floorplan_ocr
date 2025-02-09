@@ -1,0 +1,55 @@
+{
+    "file_name": "The Quarters - Clean.pdf_page5.png",
+    "annotations": [
+        {
+            "text": "S. HOPES WEL\nBOISE, ID 837:",
+            "bbox": [
+                163.0,
+                0.0,
+                201.0,
+                75.0
+            ],
+            "confidence": 0.97998046875
+        },
+        {
+            "text": "SHEET NAME",
+            "bbox": [
+                62.0,
+                93.0,
+                115.0,
+                102.0
+            ],
+            "confidence": 0.9697265625
+        },
+        {
+            "text": "HVAC PLAN - 3RD",
+            "bbox": [
+                78.0,
+                121.0,
+                193.0,
+                136.0
+            ],
+            "confidence": 0.986328125
+        },
+        {
+            "text": "FLOOR",
+            "bbox": [
+                113.0,
+                139.0,
+                160.0,
+                153.0
+            ],
+            "confidence": 0.9755859375
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                62.0,
+                183.0,
+                127.0,
+                193.0
+            ],
+            "confidence": 0.98095703125
+        }
+    ]
+}

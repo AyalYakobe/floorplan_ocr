@@ -1,0 +1,45 @@
+{
+    "file_name": "HOLIDAY_INN_EXPRESS_M Drawings.pdf_page12.png",
+    "annotations": [
+        {
+            "text": "MECHANICAL DETAII",
+            "bbox": [
+                102.0,
+                0.0,
+                126.0,
+                186.0
+            ],
+            "confidence": 0.9833984375
+        },
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                87.0,
+                134.0,
+                101.0,
+                196.0
+            ],
+            "confidence": 0.951171875
+        },
+        {
+            "text": "SHEET NUMBER:",
+            "bbox": [
+                89.0,
+                202.0,
+                171.0,
+                213.0
+            ],
+            "confidence": 0.99267578125
+        },
+        {
+            "text": "M-302",
+            "bbox": [
+                107.0,
+                222.0,
+                196.0,
+                249.0
+            ],
+            "confidence": 0.94970703125
+        }
+    ]
+}

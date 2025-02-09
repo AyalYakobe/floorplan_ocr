@@ -1,0 +1,65 @@
+{
+    "file_name": "ACHD Meeker Headquarters (Phase 1) - Clean.pdf_page4.png",
+    "annotations": [
+        {
+            "text": "SECOND FLOOR",
+            "bbox": [
+                50.0,
+                5.0,
+                205.0,
+                27.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "REFLECTED",
+            "bbox": [
+                69.0,
+                34.0,
+                184.0,
+                56.0
+            ],
+            "confidence": 0.97607421875
+        },
+        {
+            "text": "CEILING PLAN",
+            "bbox": [
+                59.0,
+                63.0,
+                194.0,
+                83.0
+            ],
+            "confidence": 0.9921875
+        },
+        {
+            "text": "SHEET",
+            "bbox": [
+                55.0,
+                98.0,
+                89.0,
+                106.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "ORIGINAL SHEET SIZE",
+            "bbox": [
+                61.0,
+                229.0,
+                192.0,
+                237.0
+            ],
+            "confidence": 0.99951171875
+        },
+        {
+            "text": "30\" x 42\"",
+            "bbox": [
+                102.0,
+                240.0,
+                150.0,
+                248.0
+            ],
+            "confidence": 0.9658203125
+        }
+    ]
+}

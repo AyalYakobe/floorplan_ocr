@@ -1,0 +1,25 @@
+{
+    "file_name": "EL POOL 90CD_DRAWINGS Mech.pdf_page1.png",
+    "annotations": [
+        {
+            "text": "90% CD SET",
+            "bbox": [
+                52.0,
+                118.0,
+                197.0,
+                146.0
+            ],
+            "confidence": 0.9765625
+        },
+        {
+            "text": "M101",
+            "bbox": [
+                63.0,
+                188.0,
+                180.0,
+                228.0
+            ],
+            "confidence": 0.8974609375
+        }
+    ]
+}

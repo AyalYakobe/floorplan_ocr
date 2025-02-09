@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "96X-2G-X",
+            "text": "A4677",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Arial Bold.ttf",
-    "rotation": 90,
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000010.png",
     "white_background": true
 }

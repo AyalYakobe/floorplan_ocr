@@ -1,0 +1,55 @@
+{
+    "file_name": "Ashcreek Multifamily - Clean.pdf_page24.png",
+    "annotations": [
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                104.0,
+                44.0,
+                163.0,
+                53.0
+            ],
+            "confidence": 0.99755859375
+        },
+        {
+            "text": "Mechanical &",
+            "bbox": [
+                70.0,
+                110.0,
+                197.0,
+                128.0
+            ],
+            "confidence": 0.97900390625
+        },
+        {
+            "text": "Plumbing Details",
+            "bbox": [
+                55.0,
+                135.0,
+                212.0,
+                153.0
+            ],
+            "confidence": 0.9970703125
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                97.0,
+                214.0,
+                171.0,
+                224.0
+            ],
+            "confidence": 0.990234375
+        },
+        {
+            "text": "M603",
+            "bbox": [
+                94.0,
+                234.0,
+                171.0,
+                261.0
+            ],
+            "confidence": 0.88720703125
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "file_name": "Les Schwab - Caldwell - Clean.pdf_page4.png",
+    "annotations": [
+        {
+            "text": "DRAWN BY | IKL",
+            "bbox": [
+                68.0,
+                0.0,
+                143.0,
+                10.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "REVISIONS",
+            "bbox": [
+                68.0,
+                12.0,
+                121.0,
+                21.0
+            ],
+            "confidence": 0.9736328125
+        },
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                67.0,
+                157.0,
+                152.0,
+                168.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "SCHEDULES &",
+            "bbox": [
+                68.0,
+                171.0,
+                159.0,
+                182.0
+            ],
+            "confidence": 0.99169921875
+        },
+        {
+            "text": "LEGENDS",
+            "bbox": [
+                67.0,
+                185.0,
+                130.0,
+                197.0
+            ],
+            "confidence": 0.98291015625
+        },
+        {
+            "text": "M001",
+            "bbox": [
+                67.0,
+                222.0,
+                186.0,
+                255.0
+            ],
+            "confidence": 0.88671875
+        }
+    ]
+}

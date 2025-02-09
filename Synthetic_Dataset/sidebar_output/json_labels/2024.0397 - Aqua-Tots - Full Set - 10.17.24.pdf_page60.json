@@ -1,0 +1,105 @@
+{
+    "file_name": "2024.0397 - Aqua-Tots - Full Set - 10.17.24.pdf_page60.png",
+    "annotations": [
+        {
+            "text": "SHOPPING CENTER",
+            "bbox": [
+                62.0,
+                7.0,
+                201.0,
+                25.0
+            ],
+            "confidence": 0.9677734375
+        },
+        {
+            "text": "PYRIGHT \u00a9 2024 INTERPLAN LLC RESERVES COPYRIGHT & OTHER RIGHTS RESTR",
+            "bbox": [
+                218.0,
+                13.0,
+                230.0,
+                243.0
+            ],
+            "confidence": 0.98876953125
+        },
+        {
+            "text": "2133 UPTON DRIVE SUITE 100",
+            "bbox": [
+                55.0,
+                40.0,
+                208.0,
+                52.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "VIRGINIA BEACH, VIRGINIA",
+            "bbox": [
+                58.0,
+                58.0,
+                205.0,
+                68.0
+            ],
+            "confidence": 0.98193359375
+        },
+        {
+            "text": "23454",
+            "bbox": [
+                115.0,
+                76.0,
+                148.0,
+                86.0
+            ],
+            "confidence": 0.9892578125
+        },
+        {
+            "text": "PROJECT NO: 2024.0397",
+            "bbox": [
+                56.0,
+                109.0,
+                164.0,
+                117.0
+            ],
+            "confidence": 0.97998046875
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                56.0,
+                123.0,
+                82.0,
+                132.0
+            ],
+            "confidence": 0.9892578125
+        },
+        {
+            "text": "POOL DETAILS",
+            "bbox": [
+                96.0,
+                159.0,
+                167.0,
+                169.0
+            ],
+            "confidence": 0.9931640625
+        },
+        {
+            "text": "CHECKED: IP",
+            "bbox": [
+                57.0,
+                244.0,
+                111.0,
+                252.0
+            ],
+            "confidence": 0.9892578125
+        },
+        {
+            "text": "DRAWN: NA",
+            "bbox": [
+                128.0,
+                244.0,
+                179.0,
+                252.0
+            ],
+            "confidence": 0.98779296875
+        }
+    ]
+}

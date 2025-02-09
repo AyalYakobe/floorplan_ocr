@@ -1,0 +1,45 @@
+{
+    "file_name": "HOLIDAY_INN_EXPRESS_M Drawings.pdf_page8.png",
+    "annotations": [
+        {
+            "text": "ROOF PLAN -\nMECHANICAL",
+            "bbox": [
+                101.0,
+                66.0,
+                148.0,
+                187.0
+            ],
+            "confidence": 0.97314453125
+        },
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                86.0,
+                134.0,
+                102.0,
+                196.0
+            ],
+            "confidence": 0.97705078125
+        },
+        {
+            "text": "SHEET NUMBER:",
+            "bbox": [
+                89.0,
+                202.0,
+                171.0,
+                213.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "M-104",
+            "bbox": [
+                102.0,
+                222.0,
+                198.0,
+                249.0
+            ],
+            "confidence": 0.93505859375
+        }
+    ]
+}

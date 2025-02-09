@@ -1,0 +1,75 @@
+{
+    "file_name": "2023-11-03 1305 Stewart SC 100_ DD - HVAC -.pdf_page63.png",
+    "annotations": [
+        {
+            "text": "\u0cb0",
+            "bbox": [
+                0.0,
+                0.0,
+                7.0,
+                7.0
+            ],
+            "confidence": 0.76171875
+        },
+        {
+            "text": "D. BUDD",
+            "bbox": [
+                101.0,
+                0.0,
+                143.0,
+                8.0
+            ],
+            "confidence": 0.9599609375
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                115.0,
+                15.0,
+                143.0,
+                25.0
+            ],
+            "confidence": 0.990234375
+        },
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                17.0,
+                55.0,
+                144.0,
+                73.0
+            ],
+            "confidence": 0.99755859375
+        },
+        {
+            "text": "DETAILS",
+            "bbox": [
+                62.0,
+                78.0,
+                145.0,
+                96.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                64.0,
+                125.0,
+                143.0,
+                135.0
+            ],
+            "confidence": 0.9990234375
+        },
+        {
+            "text": "M-501",
+            "bbox": [
+                38.0,
+                164.0,
+                143.0,
+                192.0
+            ],
+            "confidence": 0.95166015625
+        }
+    ]
+}

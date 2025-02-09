@@ -1,15 +1,15 @@
 {
     "texts": [
         {
-            "text": "57720-E",
+            "text": "E-V-I",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Andale Mono.ttf",
+    "font": "Arial Narrow.ttf",
     "rotation": 0,
     "image_path": "synthetic_000004.png",
     "white_background": true

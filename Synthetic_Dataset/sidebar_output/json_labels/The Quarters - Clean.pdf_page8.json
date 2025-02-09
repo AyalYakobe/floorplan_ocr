@@ -1,0 +1,55 @@
+{
+    "file_name": "The Quarters - Clean.pdf_page8.png",
+    "annotations": [
+        {
+            "text": "S. HOPES WEL\nBOISE, ID 837",
+            "bbox": [
+                164.0,
+                0.0,
+                201.0,
+                75.0
+            ],
+            "confidence": 0.99169921875
+        },
+        {
+            "text": "SHEET NAME",
+            "bbox": [
+                62.0,
+                93.0,
+                115.0,
+                102.0
+            ],
+            "confidence": 0.978515625
+        },
+        {
+            "text": "WASTE PLAN -",
+            "bbox": [
+                89.0,
+                121.0,
+                183.0,
+                136.0
+            ],
+            "confidence": 0.99609375
+        },
+        {
+            "text": "UNDERGROUND",
+            "bbox": [
+                82.0,
+                139.0,
+                190.0,
+                153.0
+            ],
+            "confidence": 0.982421875
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                62.0,
+                183.0,
+                127.0,
+                193.0
+            ],
+            "confidence": 0.99072265625
+        }
+    ]
+}

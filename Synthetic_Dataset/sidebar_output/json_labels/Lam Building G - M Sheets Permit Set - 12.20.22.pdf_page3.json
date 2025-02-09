@@ -1,0 +1,95 @@
+{
+    "file_name": "Lam Building G - M Sheets Permit Set - 12.20.22.pdf_page3.png",
+    "annotations": [
+        {
+            "text": "Sheet Title:",
+            "bbox": [
+                69.0,
+                57.0,
+                135.0,
+                68.0
+            ],
+            "confidence": 0.99560546875
+        },
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                69.0,
+                71.0,
+                163.0,
+                83.0
+            ],
+            "confidence": 0.955078125
+        },
+        {
+            "text": "SECOND LEVEL",
+            "bbox": [
+                69.0,
+                86.0,
+                179.0,
+                98.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "PLAN",
+            "bbox": [
+                69.0,
+                102.0,
+                108.0,
+                113.0
+            ],
+            "confidence": 0.974609375
+        },
+        {
+            "text": "Sheet Number:",
+            "bbox": [
+                69.0,
+                177.0,
+                156.0,
+                188.0
+            ],
+            "confidence": 0.99658203125
+        },
+        {
+            "text": "NORTH",
+            "bbox": [
+                16.0,
+                203.0,
+                29.0,
+                232.0
+            ],
+            "confidence": 0.96044921875
+        },
+        {
+            "text": "M1.21",
+            "bbox": [
+                104.0,
+                210.0,
+                174.0,
+                233.0
+            ],
+            "confidence": 0.93896484375
+        },
+        {
+            "text": "CC22450B",
+            "bbox": [
+                131.0,
+                244.0,
+                195.0,
+                256.0
+            ],
+            "confidence": 0.982421875
+        },
+        {
+            "text": "Proj No:",
+            "bbox": [
+                69.0,
+                246.0,
+                118.0,
+                257.0
+            ],
+            "confidence": 0.94677734375
+        }
+    ]
+}

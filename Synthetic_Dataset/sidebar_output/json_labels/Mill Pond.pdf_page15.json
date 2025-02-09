@@ -1,0 +1,95 @@
+{
+    "file_name": "Mill Pond.pdf_page15.png",
+    "annotations": [
+        {
+            "text": "odesk Docs://Mill Pond - Norwallk/B2R23057_Mill Por",
+            "bbox": [
+                218.0,
+                0.0,
+                236.0,
+                241.0
+            ],
+            "confidence": 0.9912109375
+        },
+        {
+            "text": "B2R23057",
+            "bbox": [
+                91.0,
+                73.0,
+                141.0,
+                84.0
+            ],
+            "confidence": 0.9873046875
+        },
+        {
+            "text": "JOB NO:",
+            "bbox": [
+                22.0,
+                75.0,
+                58.0,
+                84.0
+            ],
+            "confidence": 0.89501953125
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                22.0,
+                102.0,
+                49.0,
+                111.0
+            ],
+            "confidence": 0.99560546875
+        },
+        {
+            "text": "04/19/2024",
+            "bbox": [
+                90.0,
+                102.0,
+                144.0,
+                112.0
+            ],
+            "confidence": 0.978515625
+        },
+        {
+            "text": "SCALE:",
+            "bbox": [
+                22.0,
+                128.0,
+                54.0,
+                138.0
+            ],
+            "confidence": 0.99609375
+        },
+        {
+            "text": "NO SCALE",
+            "bbox": [
+                89.0,
+                129.0,
+                144.0,
+                140.0
+            ],
+            "confidence": 0.9970703125
+        },
+        {
+            "text": "DRAWN BY:",
+            "bbox": [
+                22.0,
+                155.0,
+                72.0,
+                164.0
+            ],
+            "confidence": 0.98779296875
+        },
+        {
+            "text": "CC/PR/ES/CR",
+            "bbox": [
+                82.0,
+                155.0,
+                151.0,
+                165.0
+            ],
+            "confidence": 0.9853515625
+        }
+    ]
+}

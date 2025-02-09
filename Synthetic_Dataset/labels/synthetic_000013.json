@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "PT",
+            "text": "LXV-YLMLAJO",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
         }
     ],
-    "font": "Impact.ttf",
-    "rotation": 90,
+    "font": "Arial Narrow.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000013.png",
     "white_background": false
 }

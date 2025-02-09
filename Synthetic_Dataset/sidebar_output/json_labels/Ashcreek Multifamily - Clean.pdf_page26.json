@@ -1,0 +1,85 @@
+{
+    "file_name": "Ashcreek Multifamily - Clean.pdf_page26.png",
+    "annotations": [
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                104.0,
+                44.0,
+                164.0,
+                53.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "UL",
+            "bbox": [
+                119.0,
+                72.0,
+                146.0,
+                89.0
+            ],
+            "confidence": 0.93994140625
+        },
+        {
+            "text": "LISTINGS/FIRE",
+            "bbox": [
+                67.0,
+                97.0,
+                200.0,
+                115.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "RATED",
+            "bbox": [
+                102.0,
+                123.0,
+                165.0,
+                141.0
+            ],
+            "confidence": 0.9453125
+        },
+        {
+            "text": "ASSEMBLY",
+            "bbox": [
+                85.0,
+                148.0,
+                182.0,
+                165.0
+            ],
+            "confidence": 0.98779296875
+        },
+        {
+            "text": "DRAWINGS",
+            "bbox": [
+                84.0,
+                173.0,
+                183.0,
+                190.0
+            ],
+            "confidence": 0.9931640625
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                97.0,
+                214.0,
+                171.0,
+                224.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "M605",
+            "bbox": [
+                93.0,
+                234.0,
+                171.0,
+                262.0
+            ],
+            "confidence": 0.86669921875
+        }
+    ]
+}

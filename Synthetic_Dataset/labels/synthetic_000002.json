@@ -1,15 +1,31 @@
 {
     "texts": [
         {
-            "text": "EPGNTJ-M2PQ",
+            "text": "8PS9KV",
             "position": [
                 10,
                 10
             ],
             "underlined": true
+        },
+        {
+            "text": "3B0K6HWMD3",
+            "position": [
+                10,
+                94
+            ],
+            "underlined": false
+        },
+        {
+            "text": "I9GL357X-E1",
+            "position": [
+                10,
+                178
+            ],
+            "underlined": false
         }
     ],
-    "font": "Microsoft Sans Serif.ttf",
+    "font": "Andale Mono.ttf",
     "rotation": 90,
     "image_path": "synthetic_000002.png",
     "white_background": true

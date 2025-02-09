@@ -1,0 +1,45 @@
+{
+    "file_name": "HOLIDAY_INN_EXPRESS_M Drawings.pdf_page6.png",
+    "annotations": [
+        {
+            "text": "SECOND & THIRD FL\nMECHANICAL PLAN",
+            "bbox": [
+                101.0,
+                0.0,
+                148.0,
+                187.0
+            ],
+            "confidence": 0.99267578125
+        },
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                87.0,
+                134.0,
+                101.0,
+                196.0
+            ],
+            "confidence": 0.9482421875
+        },
+        {
+            "text": "SHEET NUMBER:",
+            "bbox": [
+                89.0,
+                202.0,
+                171.0,
+                214.0
+            ],
+            "confidence": 0.9853515625
+        },
+        {
+            "text": "M-102",
+            "bbox": [
+                102.0,
+                223.0,
+                197.0,
+                249.0
+            ],
+            "confidence": 0.9453125
+        }
+    ]
+}

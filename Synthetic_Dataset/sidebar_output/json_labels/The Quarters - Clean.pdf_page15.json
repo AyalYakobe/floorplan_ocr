@@ -1,0 +1,55 @@
+{
+    "file_name": "The Quarters - Clean.pdf_page15.png",
+    "annotations": [
+        {
+            "text": "S. HOPES WEL\nBOISE, ID 837",
+            "bbox": [
+                164.0,
+                1.0,
+                201.0,
+                75.0
+            ],
+            "confidence": 0.98876953125
+        },
+        {
+            "text": "SHEET NAME",
+            "bbox": [
+                62.0,
+                93.0,
+                115.0,
+                103.0
+            ],
+            "confidence": 0.97705078125
+        },
+        {
+            "text": "PLUMBING PLAN -",
+            "bbox": [
+                76.0,
+                121.0,
+                195.0,
+                136.0
+            ],
+            "confidence": 0.984375
+        },
+        {
+            "text": "2ND FLOOR",
+            "bbox": [
+                97.0,
+                139.0,
+                176.0,
+                153.0
+            ],
+            "confidence": 0.99462890625
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                62.0,
+                183.0,
+                127.0,
+                193.0
+            ],
+            "confidence": 0.982421875
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "file_name": "Othership - Mech drawings.pdf_page2.png",
+    "annotations": [
+        {
+            "text": "ELLAR PLAN - OVERALL",
+            "bbox": [
+                0.0,
+                34.0,
+                147.0,
+                51.0
+            ],
+            "confidence": 0.99755859375
+        },
+        {
+            "text": "'-0\"",
+            "bbox": [
+                0.0,
+                134.0,
+                22.0,
+                148.0
+            ],
+            "confidence": 0.84619140625
+        },
+        {
+            "text": "01.00",
+            "bbox": [
+                0.0,
+                174.0,
+                95.0,
+                209.0
+            ],
+            "confidence": 0.8857421875
+        },
+        {
+            "text": "W JOB #  M00889237-11",
+            "bbox": [
+                0.0,
+                220.0,
+                143.0,
+                237.0
+            ],
+            "confidence": 0.947265625
+        },
+        {
+            "text": "2 OF 16",
+            "bbox": [
+                11.0,
+                243.0,
+                76.0,
+                255.0
+            ],
+            "confidence": 0.9140625
+        }
+    ]
+}

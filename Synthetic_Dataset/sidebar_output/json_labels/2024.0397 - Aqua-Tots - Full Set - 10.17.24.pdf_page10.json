@@ -1,0 +1,95 @@
+{
+    "file_name": "2024.0397 - Aqua-Tots - Full Set - 10.17.24.pdf_page10.png",
+    "annotations": [
+        {
+            "text": "SHOPPING CENTER",
+            "bbox": [
+                62.0,
+                7.0,
+                201.0,
+                25.0
+            ],
+            "confidence": 0.9677734375
+        },
+        {
+            "text": "YRIGHT \u00a9 2024 INTERPLAN LLC RESERVES COPYRIGHT & OTHER RIGHTS RESTR",
+            "bbox": [
+                218.0,
+                13.0,
+                230.0,
+                240.0
+            ],
+            "confidence": 0.98681640625
+        },
+        {
+            "text": "2133 UPTON DRIVE SUITE 100",
+            "bbox": [
+                55.0,
+                40.0,
+                208.0,
+                51.0
+            ],
+            "confidence": 0.9931640625
+        },
+        {
+            "text": "VIRGINIA BEACH, VIRGINIA",
+            "bbox": [
+                58.0,
+                58.0,
+                206.0,
+                68.0
+            ],
+            "confidence": 0.98681640625
+        },
+        {
+            "text": "23454",
+            "bbox": [
+                115.0,
+                76.0,
+                148.0,
+                86.0
+            ],
+            "confidence": 0.98974609375
+        },
+        {
+            "text": "PROJECT NO: 2024.0397",
+            "bbox": [
+                56.0,
+                109.0,
+                164.0,
+                117.0
+            ],
+            "confidence": 0.9794921875
+        },
+        {
+            "text": "DATE: 08.29.24",
+            "bbox": [
+                56.0,
+                123.0,
+                121.0,
+                132.0
+            ],
+            "confidence": 0.98486328125
+        },
+        {
+            "text": "REFLECTED CEIUNG PLAN",
+            "bbox": [
+                81.0,
+                207.0,
+                185.0,
+                215.0
+            ],
+            "confidence": 0.93701171875
+        },
+        {
+            "text": "CHECKED: AM DRAWN: FV",
+            "bbox": [
+                57.0,
+                244.0,
+                181.0,
+                252.0
+            ],
+            "confidence": 0.97998046875
+        }
+    ]
+}

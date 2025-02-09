@@ -1,0 +1,55 @@
+{
+    "file_name": "Ashcreek Multifamily - Clean.pdf_page16.png",
+    "annotations": [
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                103.0,
+                43.0,
+                164.0,
+                53.0
+            ],
+            "confidence": 0.9990234375
+        },
+        {
+            "text": "8-Plex Roof",
+            "bbox": [
+                78.0,
+                109.0,
+                189.0,
+                129.0
+            ],
+            "confidence": 0.99072265625
+        },
+        {
+            "text": "Plans",
+            "bbox": [
+                108.0,
+                134.0,
+                159.0,
+                153.0
+            ],
+            "confidence": 0.9619140625
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                97.0,
+                214.0,
+                171.0,
+                224.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "M301A",
+            "bbox": [
+                83.0,
+                234.0,
+                183.0,
+                262.0
+            ],
+            "confidence": 0.9287109375
+        }
+    ]
+}

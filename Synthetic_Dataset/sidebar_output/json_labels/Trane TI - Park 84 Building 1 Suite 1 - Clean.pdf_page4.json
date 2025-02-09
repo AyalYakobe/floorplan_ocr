@@ -1,0 +1,35 @@
+{
+    "file_name": "Trane TI - Park 84 Building 1 Suite 1 - Clean.pdf_page4.png",
+    "annotations": [
+        {
+            "text": "MECHANICAL DETAILS",
+            "bbox": [
+                29.0,
+                143.0,
+                216.0,
+                158.0
+            ],
+            "confidence": 0.99267578125
+        },
+        {
+            "text": "AND SCHEDULES Copy 1",
+            "bbox": [
+                19.0,
+                160.0,
+                223.0,
+                176.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "M0.2",
+            "bbox": [
+                83.0,
+                210.0,
+                159.0,
+                241.0
+            ],
+            "confidence": 0.92138671875
+        }
+    ]
+}

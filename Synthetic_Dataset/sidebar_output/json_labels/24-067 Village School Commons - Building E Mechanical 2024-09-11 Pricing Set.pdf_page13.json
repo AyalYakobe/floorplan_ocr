@@ -1,0 +1,155 @@
+{
+    "file_name": "24-067 Village School Commons - Building E Mechanical 2024-09-11 Pricing Set.pdf_page13.png",
+    "annotations": [
+        {
+            "text": "DRAWING TITLE",
+            "bbox": [
+                42.0,
+                41.0,
+                90.0,
+                47.0
+            ],
+            "confidence": 0.9912109375
+        },
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                40.0,
+                64.0,
+                123.0,
+                74.0
+            ],
+            "confidence": 0.9970703125
+        },
+        {
+            "text": "VRF PIPING AND WIRING",
+            "bbox": [
+                40.0,
+                78.0,
+                189.0,
+                90.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "DIAGRAMS",
+            "bbox": [
+                40.0,
+                93.0,
+                108.0,
+                104.0
+            ],
+            "confidence": 0.98779296875
+        },
+        {
+            "text": "(NOT FOR CONSTRUCTION )",
+            "bbox": [
+                40.0,
+                143.0,
+                173.0,
+                152.0
+            ],
+            "confidence": 0.9912109375
+        },
+        {
+            "text": "SCALE",
+            "bbox": [
+                42.0,
+                162.0,
+                61.0,
+                168.0
+            ],
+            "confidence": 0.98876953125
+        },
+        {
+            "text": "DRAWN RY",
+            "bbox": [
+                123.0,
+                162.0,
+                157.0,
+                167.0
+            ],
+            "confidence": 0.85107421875
+        },
+        {
+            "text": "AS SHOWN",
+            "bbox": [
+                42.0,
+                175.0,
+                97.0,
+                184.0
+            ],
+            "confidence": 0.97216796875
+        },
+        {
+            "text": "EL",
+            "bbox": [
+                123.0,
+                175.0,
+                135.0,
+                184.0
+            ],
+            "confidence": 0.8671875
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                41.0,
+                197.0,
+                58.0,
+                203.0
+            ],
+            "confidence": 0.97509765625
+        },
+        {
+            "text": "SHEET NO",
+            "bbox": [
+                123.0,
+                197.0,
+                154.0,
+                203.0
+            ],
+            "confidence": 0.990234375
+        },
+        {
+            "text": "07/25/2024",
+            "bbox": [
+                40.0,
+                210.0,
+                111.0,
+                221.0
+            ],
+            "confidence": 0.98095703125
+        },
+        {
+            "text": "M403",
+            "bbox": [
+                122.0,
+                225.0,
+                192.0,
+                244.0
+            ],
+            "confidence": 0.9677734375
+        },
+        {
+            "text": "PROJECT NUMBER",
+            "bbox": [
+                41.0,
+                232.0,
+                97.0,
+                238.0
+            ],
+            "confidence": 0.9912109375
+        },
+        {
+            "text": "2023015",
+            "bbox": [
+                47.0,
+                246.0,
+                99.0,
+                257.0
+            ],
+            "confidence": 0.990234375
+        }
+    ]
+}

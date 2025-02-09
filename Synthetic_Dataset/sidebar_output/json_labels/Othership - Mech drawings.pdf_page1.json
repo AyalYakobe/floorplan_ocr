@@ -1,0 +1,45 @@
+{
+    "file_name": "Othership - Mech drawings.pdf_page1.png",
+    "annotations": [
+        {
+            "text": "IICAL GENERAL NOTES AND",
+            "bbox": [
+                0.0,
+                35.0,
+                178.0,
+                50.0
+            ],
+            "confidence": 0.94677734375
+        },
+        {
+            "text": "00.00",
+            "bbox": [
+                0.0,
+                174.0,
+                95.0,
+                209.0
+            ],
+            "confidence": 0.78955078125
+        },
+        {
+            "text": "W JOB # M00889237-11",
+            "bbox": [
+                0.0,
+                221.0,
+                143.0,
+                236.0
+            ],
+            "confidence": 0.9580078125
+        },
+        {
+            "text": "__ OF_16",
+            "bbox": [
+                24.0,
+                242.0,
+                76.0,
+                256.0
+            ],
+            "confidence": 0.8154296875
+        }
+    ]
+}

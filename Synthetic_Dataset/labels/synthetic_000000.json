@@ -1,12 +1,36 @@
 {
     "texts": [
         {
-            "text": "HTDV-K",
+            "text": "I07-5I",
             "position": [
                 10,
                 10
             ],
             "underlined": false
+        },
+        {
+            "text": "RXAE64ICPV",
+            "position": [
+                10,
+                90
+            ],
+            "underlined": false
+        },
+        {
+            "text": "J61",
+            "position": [
+                10,
+                170
+            ],
+            "underlined": false
+        },
+        {
+            "text": "9CPPDC",
+            "position": [
+                10,
+                250
+            ],
+            "underlined": true
         }
     ],
     "font": "Microsoft Sans Serif.ttf",

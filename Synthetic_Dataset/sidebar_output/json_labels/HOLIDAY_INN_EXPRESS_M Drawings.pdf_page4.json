@@ -1,0 +1,45 @@
+{
+    "file_name": "HOLIDAY_INN_EXPRESS_M Drawings.pdf_page4.png",
+    "annotations": [
+        {
+            "text": "MECHANICAL UNITS\nSCHEDULES",
+            "bbox": [
+                101.0,
+                0.0,
+                148.0,
+                187.0
+            ],
+            "confidence": 0.982421875
+        },
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                87.0,
+                134.0,
+                101.0,
+                196.0
+            ],
+            "confidence": 0.9560546875
+        },
+        {
+            "text": "SHEET NUMBER:",
+            "bbox": [
+                89.0,
+                202.0,
+                171.0,
+                213.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "M-004",
+            "bbox": [
+                102.0,
+                224.0,
+                198.0,
+                249.0
+            ],
+            "confidence": 0.95654296875
+        }
+    ]
+}

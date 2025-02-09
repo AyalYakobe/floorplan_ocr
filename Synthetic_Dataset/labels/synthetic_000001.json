@@ -1,24 +1,24 @@
 {
     "texts": [
         {
-            "text": "3IP-FUU-02RD",
+            "text": "1-FLO5-GQ1E1",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
         },
         {
-            "text": "SJ",
+            "text": "M2-X",
             "position": [
                 10,
-                76
+                97
             ],
             "underlined": true
         }
     ],
-    "font": "DIN Condensed Bold.ttf",
-    "rotation": 0,
+    "font": "Arial.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000001.png",
     "white_background": false
 }

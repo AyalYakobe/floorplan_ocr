@@ -1,0 +1,105 @@
+{
+    "file_name": "2024.0397 - Aqua-Tots - Full Set - 10.17.24.pdf_page41.png",
+    "annotations": [
+        {
+            "text": "SHOPPING CENTER",
+            "bbox": [
+                62.0,
+                8.0,
+                201.0,
+                25.0
+            ],
+            "confidence": 0.9716796875
+        },
+        {
+            "text": "YRIGHT \u00a9 2024 INTERPLAN LLC RESERVES COPYRIGHT & OTHER RIGHTS RESTR",
+            "bbox": [
+                218.0,
+                13.0,
+                230.0,
+                240.0
+            ],
+            "confidence": 0.9873046875
+        },
+        {
+            "text": "2133 UPTON DRIVE SUITE 100",
+            "bbox": [
+                55.0,
+                41.0,
+                208.0,
+                51.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "VIRGINIA BEACH, VIRGINIA",
+            "bbox": [
+                58.0,
+                58.0,
+                205.0,
+                68.0
+            ],
+            "confidence": 0.97900390625
+        },
+        {
+            "text": "23454",
+            "bbox": [
+                115.0,
+                76.0,
+                148.0,
+                86.0
+            ],
+            "confidence": 0.98974609375
+        },
+        {
+            "text": "PROJECT NO: 2024.0397",
+            "bbox": [
+                56.0,
+                109.0,
+                164.0,
+                117.0
+            ],
+            "confidence": 0.97802734375
+        },
+        {
+            "text": "DATE: 08.29 24",
+            "bbox": [
+                56.0,
+                124.0,
+                126.0,
+                132.0
+            ],
+            "confidence": 0.97802734375
+        },
+        {
+            "text": "GAS PLUMBING PLAN",
+            "bbox": [
+                83.0,
+                205.0,
+                181.0,
+                213.0
+            ],
+            "confidence": 0.9873046875
+        },
+        {
+            "text": "CHECKED: DAK DRAWN: ROH",
+            "bbox": [
+                57.0,
+                244.0,
+                192.0,
+                252.0
+            ],
+            "confidence": 0.9716796875
+        },
+        {
+            "text": "DELSIN - 10/15/2024 8:40:11 PM",
+            "bbox": [
+                62.0,
+                268.0,
+                208.0,
+                276.0
+            ],
+            "confidence": 0.9921875
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "file_name": "Les Schwab - Caldwell - Clean.pdf_page1.png",
+    "annotations": [
+        {
+            "text": "DRAWN BY | NC/DM",
+            "bbox": [
+                68.0,
+                0.0,
+                160.0,
+                11.0
+            ],
+            "confidence": 0.98486328125
+        },
+        {
+            "text": "REVISIONS",
+            "bbox": [
+                68.0,
+                12.0,
+                123.0,
+                21.0
+            ],
+            "confidence": 0.95654296875
+        },
+        {
+            "text": "10.07.2024 AHJ COMMENTS",
+            "bbox": [
+                87.0,
+                22.0,
+                190.0,
+                31.0
+            ],
+            "confidence": 0.9736328125
+        },
+        {
+            "text": "COVER SHEET",
+            "bbox": [
+                67.0,
+                183.0,
+                160.0,
+                197.0
+            ],
+            "confidence": 0.9951171875
+        }
+    ]
+}

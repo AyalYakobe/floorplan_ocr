@@ -1,0 +1,125 @@
+{
+    "file_name": "Takeoff_ HOM District Phase 1A.pdf_page23.png",
+    "annotations": [
+        {
+            "text": "MAY 23",
+            "bbox": [
+                0.0,
+                10.0,
+                39.0,
+                20.0
+            ],
+            "confidence": 0.96630859375
+        },
+        {
+            "text": "50% DESIGN DEVELOPMENT",
+            "bbox": [
+                52.0,
+                11.0,
+                184.0,
+                19.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                0.0,
+                37.0,
+                33.0,
+                46.0
+            ],
+            "confidence": 0.97900390625
+        },
+        {
+            "text": "ISSUE",
+            "bbox": [
+                117.0,
+                37.0,
+                147.0,
+                45.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                0.0,
+                88.0,
+                21.0,
+                95.0
+            ],
+            "confidence": 0.95458984375
+        },
+        {
+            "text": "OVERALL FLOOR",
+            "bbox": [
+                0.0,
+                108.0,
+                212.0,
+                128.0
+            ],
+            "confidence": 0.99755859375
+        },
+        {
+            "text": "PLAN - LEVEL",
+            "bbox": [
+                14.0,
+                135.0,
+                181.0,
+                155.0
+            ],
+            "confidence": 0.98876953125
+        },
+        {
+            "text": "ROOF -",
+            "bbox": [
+                45.0,
+                163.0,
+                133.0,
+                183.0
+            ],
+            "confidence": 0.96826171875
+        },
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                4.0,
+                191.0,
+                171.0,
+                211.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "DRAWING NUMBER",
+            "bbox": [
+                56.0,
+                233.0,
+                120.0,
+                240.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "M3.210",
+            "bbox": [
+                61.0,
+                243.0,
+                142.0,
+                261.0
+            ],
+            "confidence": 0.9814453125
+        },
+        {
+            "text": "07",
+            "bbox": [
+                0.0,
+                248.0,
+                14.0,
+                258.0
+            ],
+            "confidence": 0.9150390625
+        }
+    ]
+}

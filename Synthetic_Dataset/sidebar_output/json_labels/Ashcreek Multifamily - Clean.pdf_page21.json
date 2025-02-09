@@ -1,0 +1,65 @@
+{
+    "file_name": "Ashcreek Multifamily - Clean.pdf_page21.png",
+    "annotations": [
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                104.0,
+                44.0,
+                163.0,
+                52.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "Enlarged Flats",
+            "bbox": [
+                66.0,
+                96.0,
+                201.0,
+                115.0
+            ],
+            "confidence": 0.9931640625
+        },
+        {
+            "text": "Units -",
+            "bbox": [
+                102.0,
+                123.0,
+                166.0,
+                141.0
+            ],
+            "confidence": 0.96484375
+        },
+        {
+            "text": "Mechanical Plan",
+            "bbox": [
+                57.0,
+                146.0,
+                210.0,
+                168.0
+            ],
+            "confidence": 0.990234375
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                97.0,
+                214.0,
+                171.0,
+                224.0
+            ],
+            "confidence": 0.9892578125
+        },
+        {
+            "text": "M403",
+            "bbox": [
+                94.0,
+                234.0,
+                171.0,
+                262.0
+            ],
+            "confidence": 0.94482421875
+        }
+    ]
+}

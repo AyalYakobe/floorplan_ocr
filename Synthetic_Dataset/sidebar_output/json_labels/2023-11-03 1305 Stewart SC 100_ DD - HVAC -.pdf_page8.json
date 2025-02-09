@@ -1,0 +1,75 @@
+{
+    "file_name": "2023-11-03 1305 Stewart SC 100_ DD - HVAC -.pdf_page8.png",
+    "annotations": [
+        {
+            "text": "\u0cb0",
+            "bbox": [
+                0.0,
+                0.0,
+                8.0,
+                7.0
+            ],
+            "confidence": 0.8193359375
+        },
+        {
+            "text": "D. BUDD",
+            "bbox": [
+                101.0,
+                0.0,
+                143.0,
+                8.0
+            ],
+            "confidence": 0.95703125
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                114.0,
+                15.0,
+                143.0,
+                25.0
+            ],
+            "confidence": 0.99462890625
+        },
+        {
+            "text": "ESSURIZATION",
+            "bbox": [
+                0.0,
+                54.0,
+                145.0,
+                73.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "DIAGRAMS",
+            "bbox": [
+                41.0,
+                78.0,
+                145.0,
+                94.0
+            ],
+            "confidence": 0.9931640625
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                64.0,
+                126.0,
+                143.0,
+                135.0
+            ],
+            "confidence": 0.99951171875
+        },
+        {
+            "text": "M-025",
+            "bbox": [
+                38.0,
+                165.0,
+                145.0,
+                191.0
+            ],
+            "confidence": 0.96435546875
+        }
+    ]
+}

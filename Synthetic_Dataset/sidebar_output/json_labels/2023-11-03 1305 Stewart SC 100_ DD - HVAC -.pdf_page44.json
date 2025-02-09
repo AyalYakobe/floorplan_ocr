@@ -1,0 +1,75 @@
+{
+    "file_name": "2023-11-03 1305 Stewart SC 100_ DD - HVAC -.pdf_page44.png",
+    "annotations": [
+        {
+            "text": "\u0cb0",
+            "bbox": [
+                0.0,
+                0.0,
+                7.0,
+                7.0
+            ],
+            "confidence": 0.76171875
+        },
+        {
+            "text": "D. BUDD",
+            "bbox": [
+                101.0,
+                0.0,
+                143.0,
+                8.0
+            ],
+            "confidence": 0.9541015625
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                115.0,
+                15.0,
+                143.0,
+                25.0
+            ],
+            "confidence": 0.98974609375
+        },
+        {
+            "text": "EVEL P1 PIPING",
+            "bbox": [
+                0.0,
+                53.0,
+                146.0,
+                74.0
+            ],
+            "confidence": 0.99267578125
+        },
+        {
+            "text": "PLAN",
+            "bbox": [
+                92.0,
+                78.0,
+                145.0,
+                95.0
+            ],
+            "confidence": 0.94775390625
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                64.0,
+                125.0,
+                143.0,
+                135.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "MP110",
+            "bbox": [
+                26.0,
+                165.0,
+                145.0,
+                191.0
+            ],
+            "confidence": 0.9404296875
+        }
+    ]
+}

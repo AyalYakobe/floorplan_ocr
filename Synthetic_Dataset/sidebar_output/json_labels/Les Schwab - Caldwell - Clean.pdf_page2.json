@@ -1,0 +1,55 @@
+{
+    "file_name": "Les Schwab - Caldwell - Clean.pdf_page2.png",
+    "annotations": [
+        {
+            "text": "DRAWN BY | NC/DM",
+            "bbox": [
+                68.0,
+                0.0,
+                160.0,
+                11.0
+            ],
+            "confidence": 0.99755859375
+        },
+        {
+            "text": "REVISIONS",
+            "bbox": [
+                67.0,
+                12.0,
+                121.0,
+                21.0
+            ],
+            "confidence": 0.986328125
+        },
+        {
+            "text": "GROUND FLOOR",
+            "bbox": [
+                68.0,
+                156.0,
+                173.0,
+                168.0
+            ],
+            "confidence": 0.98681640625
+        },
+        {
+            "text": "REFLECTED CEILING",
+            "bbox": [
+                67.0,
+                170.0,
+                198.0,
+                182.0
+            ],
+            "confidence": 0.9990234375
+        },
+        {
+            "text": "PLAN",
+            "bbox": [
+                67.0,
+                184.0,
+                103.0,
+                196.0
+            ],
+            "confidence": 0.94775390625
+        }
+    ]
+}

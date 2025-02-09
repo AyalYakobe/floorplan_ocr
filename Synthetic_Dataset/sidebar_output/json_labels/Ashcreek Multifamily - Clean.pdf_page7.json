@@ -1,0 +1,95 @@
+{
+    "file_name": "Ashcreek Multifamily - Clean.pdf_page7.png",
+    "annotations": [
+        {
+            "text": "THIS DRAWING SET IS INTENDED",
+            "bbox": [
+                60.0,
+                9.0,
+                203.0,
+                17.0
+            ],
+            "confidence": 0.9990234375
+        },
+        {
+            "text": "TO BE PRINTED IN COLOR",
+            "bbox": [
+                74.0,
+                21.0,
+                189.0,
+                29.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "TIONAL",
+            "bbox": [
+                0.0,
+                32.0,
+                33.0,
+                40.0
+            ],
+            "confidence": 0.98291015625
+        },
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                102.0,
+                43.0,
+                162.0,
+                52.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "REFLECTED",
+            "bbox": [
+                77.0,
+                97.0,
+                186.0,
+                114.0
+            ],
+            "confidence": 0.97412109375
+        },
+        {
+            "text": "CEILING PLAN -",
+            "bbox": [
+                60.0,
+                121.0,
+                202.0,
+                138.0
+            ],
+            "confidence": 0.99755859375
+        },
+        {
+            "text": "LEVEL 1",
+            "bbox": [
+                93.0,
+                146.0,
+                169.0,
+                163.0
+            ],
+            "confidence": 0.95556640625
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                96.0,
+                214.0,
+                167.0,
+                222.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "A151-8",
+            "bbox": [
+                81.0,
+                233.0,
+                183.0,
+                257.0
+            ],
+            "confidence": 0.9443359375
+        }
+    ]
+}

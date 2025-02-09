@@ -1,0 +1,115 @@
+{
+    "file_name": "2024.0397 - Aqua-Tots - Full Set - 10.17.24.pdf_page63.png",
+    "annotations": [
+        {
+            "text": "SHOPPING CENTER",
+            "bbox": [
+                63.0,
+                8.0,
+                202.0,
+                24.0
+            ],
+            "confidence": 0.96923828125
+        },
+        {
+            "text": "PYRIGHT @ 2024 INTERPLAN LLC RESERVES COPYRIGHT & OTHER RIGHTS RESTR",
+            "bbox": [
+                220.0,
+                13.0,
+                230.0,
+                243.0
+            ],
+            "confidence": 0.9658203125
+        },
+        {
+            "text": "2133 UPTON DRIVE SUITE 100",
+            "bbox": [
+                55.0,
+                40.0,
+                208.0,
+                51.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "VIRGINIA BEACH, VIRGINIA",
+            "bbox": [
+                58.0,
+                58.0,
+                206.0,
+                68.0
+            ],
+            "confidence": 0.98583984375
+        },
+        {
+            "text": "23454",
+            "bbox": [
+                115.0,
+                75.0,
+                149.0,
+                86.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "PROJECT NO: 2024.0397",
+            "bbox": [
+                56.0,
+                109.0,
+                164.0,
+                117.0
+            ],
+            "confidence": 0.9833984375
+        },
+        {
+            "text": "DATE:",
+            "bbox": [
+                56.0,
+                124.0,
+                82.0,
+                132.0
+            ],
+            "confidence": 0.96240234375
+        },
+        {
+            "text": "ELECTRICAL AND",
+            "bbox": [
+                90.0,
+                143.0,
+                174.0,
+                155.0
+            ],
+            "confidence": 0.97265625
+        },
+        {
+            "text": "PLUMBING DETAILS",
+            "bbox": [
+                84.0,
+                159.0,
+                180.0,
+                169.0
+            ],
+            "confidence": 0.97607421875
+        },
+        {
+            "text": "CHECKED: IP",
+            "bbox": [
+                57.0,
+                244.0,
+                111.0,
+                252.0
+            ],
+            "confidence": 0.97802734375
+        },
+        {
+            "text": "DRAWN: NA",
+            "bbox": [
+                128.0,
+                244.0,
+                179.0,
+                252.0
+            ],
+            "confidence": 0.97802734375
+        }
+    ]
+}

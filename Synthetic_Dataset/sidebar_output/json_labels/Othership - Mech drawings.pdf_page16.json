@@ -1,0 +1,55 @@
+{
+    "file_name": "Othership - Mech drawings.pdf_page16.png",
+    "annotations": [
+        {
+            "text": "G HVAC SECOND FLOOR",
+            "bbox": [
+                0.0,
+                35.0,
+                157.0,
+                51.0
+            ],
+            "confidence": 0.9970703125
+        },
+        {
+            "text": "AN",
+            "bbox": [
+                0.0,
+                56.0,
+                24.0,
+                69.0
+            ],
+            "confidence": 0.79345703125
+        },
+        {
+            "text": "'-0\"",
+            "bbox": [
+                0.0,
+                134.0,
+                22.0,
+                148.0
+            ],
+            "confidence": 0.84228515625
+        },
+        {
+            "text": "601.00",
+            "bbox": [
+                0.0,
+                173.0,
+                95.0,
+                210.0
+            ],
+            "confidence": 0.90771484375
+        },
+        {
+            "text": "W JOB # M00889237-11",
+            "bbox": [
+                0.0,
+                221.0,
+                143.0,
+                236.0
+            ],
+            "confidence": 0.962890625
+        }
+    ]
+}

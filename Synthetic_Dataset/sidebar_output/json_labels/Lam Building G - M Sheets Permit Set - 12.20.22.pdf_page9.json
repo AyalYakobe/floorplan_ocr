@@ -1,0 +1,75 @@
+{
+    "file_name": "Lam Building G - M Sheets Permit Set - 12.20.22.pdf_page9.png",
+    "annotations": [
+        {
+            "text": "REV",
+            "bbox": [
+                72.0,
+                21.0,
+                91.0,
+                45.0
+            ],
+            "confidence": 0.89794921875
+        },
+        {
+            "text": "Sheet Title:",
+            "bbox": [
+                69.0,
+                57.0,
+                135.0,
+                68.0
+            ],
+            "confidence": 0.99267578125
+        },
+        {
+            "text": "MECHANICAL P&ID",
+            "bbox": [
+                69.0,
+                70.0,
+                200.0,
+                83.0
+            ],
+            "confidence": 0.9970703125
+        },
+        {
+            "text": "Sheet Number:",
+            "bbox": [
+                69.0,
+                177.0,
+                156.0,
+                188.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "M6.02",
+            "bbox": [
+                104.0,
+                210.0,
+                176.0,
+                233.0
+            ],
+            "confidence": 0.9482421875
+        },
+        {
+            "text": "CC22450B",
+            "bbox": [
+                132.0,
+                244.0,
+                195.0,
+                256.0
+            ],
+            "confidence": 0.97607421875
+        },
+        {
+            "text": "Proj No:",
+            "bbox": [
+                69.0,
+                246.0,
+                118.0,
+                257.0
+            ],
+            "confidence": 0.94677734375
+        }
+    ]
+}

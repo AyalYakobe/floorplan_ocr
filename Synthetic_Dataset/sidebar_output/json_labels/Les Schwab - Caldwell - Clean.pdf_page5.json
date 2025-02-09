@@ -1,0 +1,55 @@
+{
+    "file_name": "Les Schwab - Caldwell - Clean.pdf_page5.png",
+    "annotations": [
+        {
+            "text": "DRAWN BY | IKL",
+            "bbox": [
+                68.0,
+                0.0,
+                143.0,
+                11.0
+            ],
+            "confidence": 0.970703125
+        },
+        {
+            "text": "REVISIONS",
+            "bbox": [
+                68.0,
+                12.0,
+                121.0,
+                21.0
+            ],
+            "confidence": 0.9716796875
+        },
+        {
+            "text": "GROUND FLOOR HVAC",
+            "bbox": [
+                68.0,
+                170.0,
+                210.0,
+                183.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "PLANS",
+            "bbox": [
+                67.0,
+                184.0,
+                111.0,
+                196.0
+            ],
+            "confidence": 0.990234375
+        },
+        {
+            "text": "1101",
+            "bbox": [
+                86.0,
+                222.0,
+                185.0,
+                252.0
+            ],
+            "confidence": 0.78662109375
+        }
+    ]
+}

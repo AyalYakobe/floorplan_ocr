@@ -1,0 +1,55 @@
+{
+    "file_name": "Les Schwab - Caldwell - Clean.pdf_page7.png",
+    "annotations": [
+        {
+            "text": "DRAWN BY | IKL",
+            "bbox": [
+                68.0,
+                0.0,
+                144.0,
+                11.0
+            ],
+            "confidence": 0.98681640625
+        },
+        {
+            "text": "REVISIONS",
+            "bbox": [
+                68.0,
+                12.0,
+                121.0,
+                21.0
+            ],
+            "confidence": 0.96875
+        },
+        {
+            "text": "ROOF MECHANICAL",
+            "bbox": [
+                67.0,
+                171.0,
+                192.0,
+                182.0
+            ],
+            "confidence": 0.9990234375
+        },
+        {
+            "text": "PLAN",
+            "bbox": [
+                67.0,
+                184.0,
+                103.0,
+                196.0
+            ],
+            "confidence": 0.97119140625
+        },
+        {
+            "text": "M103",
+            "bbox": [
+                78.0,
+                217.0,
+                187.0,
+                256.0
+            ],
+            "confidence": 0.92626953125
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "file_name": "2023-11-03 1305 Stewart SC 100_ DD - HVAC -.pdf_page41.png",
+    "annotations": [
+        {
+            "text": "\u0cb0",
+            "bbox": [
+                0.0,
+                0.0,
+                7.0,
+                7.0
+            ],
+            "confidence": 0.7607421875
+        },
+        {
+            "text": "D. BUDD",
+            "bbox": [
+                101.0,
+                0.0,
+                143.0,
+                8.0
+            ],
+            "confidence": 0.94482421875
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                115.0,
+                15.0,
+                143.0,
+                25.0
+            ],
+            "confidence": 0.990234375
+        },
+        {
+            "text": "EVEL 17 UPPER",
+            "bbox": [
+                0.0,
+                54.0,
+                146.0,
+                73.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "OF HVAC PLAN",
+            "bbox": [
+                0.0,
+                78.0,
+                144.0,
+                95.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                64.0,
+                125.0,
+                143.0,
+                135.0
+            ],
+            "confidence": 0.99951171875
+        },
+        {
+            "text": "MH127",
+            "bbox": [
+                24.0,
+                164.0,
+                140.0,
+                192.0
+            ],
+            "confidence": 0.953125
+        }
+    ]
+}

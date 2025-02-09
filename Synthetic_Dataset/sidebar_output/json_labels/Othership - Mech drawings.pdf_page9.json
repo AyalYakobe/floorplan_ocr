@@ -1,0 +1,45 @@
+{
+    "file_name": "Othership - Mech drawings.pdf_page9.png",
+    "annotations": [
+        {
+            "text": "IICAL SCHEDULES",
+            "bbox": [
+                0.0,
+                34.0,
+                117.0,
+                51.0
+            ],
+            "confidence": 0.89306640625
+        },
+        {
+            "text": "01.00",
+            "bbox": [
+                0.0,
+                174.0,
+                95.0,
+                208.0
+            ],
+            "confidence": 0.8994140625
+        },
+        {
+            "text": "W JOB #  M00889237-11",
+            "bbox": [
+                0.0,
+                220.0,
+                143.0,
+                237.0
+            ],
+            "confidence": 0.9453125
+        },
+        {
+            "text": "9 OF 16",
+            "bbox": [
+                13.0,
+                243.0,
+                76.0,
+                255.0
+            ],
+            "confidence": 0.94873046875
+        }
+    ]
+}

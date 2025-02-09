@@ -1,0 +1,65 @@
+{
+    "file_name": "HOLIDAY_INN_EXPRESS_M Drawings.pdf_page9.png",
+    "annotations": [
+        {
+            "text": "ENLARGED PLAN OF\nPOOL- HVAC &\nMECHANICAL PIPING\nMECHANICAL PIPING\nSCHEDULES",
+            "bbox": [
+                100.0,
+                0.0,
+                193.0,
+                188.0
+            ],
+            "confidence": 0.97900390625
+        },
+        {
+            "text": "COIL",
+            "bbox": [
+                0.0,
+                92.0,
+                26.0,
+                103.0
+            ],
+            "confidence": 0.79541015625
+        },
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                87.0,
+                134.0,
+                101.0,
+                196.0
+            ],
+            "confidence": 0.939453125
+        },
+        {
+            "text": "HANGER",
+            "bbox": [
+                0.0,
+                150.0,
+                47.0,
+                159.0
+            ],
+            "confidence": 0.8955078125
+        },
+        {
+            "text": "SHEET NUMBER:",
+            "bbox": [
+                89.0,
+                203.0,
+                171.0,
+                213.0
+            ],
+            "confidence": 0.98583984375
+        },
+        {
+            "text": "M-201",
+            "bbox": [
+                102.0,
+                222.0,
+                195.0,
+                250.0
+            ],
+            "confidence": 0.8974609375
+        }
+    ]
+}

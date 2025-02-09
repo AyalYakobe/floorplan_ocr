@@ -1,0 +1,55 @@
+{
+    "file_name": "Snake River Elementary School Conversion - Clean.pdf_page2.png",
+    "annotations": [
+        {
+            "text": "REFLECTED",
+            "bbox": [
+                69.0,
+                11.0,
+                192.0,
+                33.0
+            ],
+            "confidence": 0.9931640625
+        },
+        {
+            "text": "CEILING",
+            "bbox": [
+                86.0,
+                41.0,
+                176.0,
+                62.0
+            ],
+            "confidence": 0.98974609375
+        },
+        {
+            "text": "PLANS",
+            "bbox": [
+                93.0,
+                69.0,
+                166.0,
+                90.0
+            ],
+            "confidence": 0.974609375
+        },
+        {
+            "text": "SHEET",
+            "bbox": [
+                109.0,
+                131.0,
+                152.0,
+                143.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "A3.51",
+            "bbox": [
+                85.0,
+                161.0,
+                179.0,
+                193.0
+            ],
+            "confidence": 0.94970703125
+        }
+    ]
+}

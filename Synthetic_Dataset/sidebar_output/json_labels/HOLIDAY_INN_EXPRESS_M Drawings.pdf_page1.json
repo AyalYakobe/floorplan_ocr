@@ -1,0 +1,45 @@
+{
+    "file_name": "HOLIDAY_INN_EXPRESS_M Drawings.pdf_page1.png",
+    "annotations": [
+        {
+            "text": "MECHANICAL NOTES\nSCHEDULES AND\nLEGENDS",
+            "bbox": [
+                99.0,
+                0.0,
+                170.0,
+                188.0
+            ],
+            "confidence": 0.9921875
+        },
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                87.0,
+                134.0,
+                101.0,
+                196.0
+            ],
+            "confidence": 0.95166015625
+        },
+        {
+            "text": "SHEET NUMBER:",
+            "bbox": [
+                89.0,
+                202.0,
+                171.0,
+                213.0
+            ],
+            "confidence": 0.98681640625
+        },
+        {
+            "text": "M-001",
+            "bbox": [
+                102.0,
+                224.0,
+                196.0,
+                250.0
+            ],
+            "confidence": 0.87744140625
+        }
+    ]
+}

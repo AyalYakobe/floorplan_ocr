@@ -1,0 +1,65 @@
+{
+    "file_name": "Othership - Mech drawings.pdf_page7.png",
+    "annotations": [
+        {
+            "text": "FIRST FLOOR AND",
+            "bbox": [
+                0.0,
+                36.0,
+                114.0,
+                51.0
+            ],
+            "confidence": 0.94482421875
+        },
+        {
+            "text": "INE PLAN - OVERALL",
+            "bbox": [
+                0.0,
+                55.0,
+                133.0,
+                70.0
+            ],
+            "confidence": 0.98388671875
+        },
+        {
+            "text": "'-0\"",
+            "bbox": [
+                0.0,
+                135.0,
+                22.0,
+                148.0
+            ],
+            "confidence": 0.8828125
+        },
+        {
+            "text": "02.00",
+            "bbox": [
+                0.0,
+                176.0,
+                94.0,
+                208.0
+            ],
+            "confidence": 0.87890625
+        },
+        {
+            "text": "W JOB # M00889237-11",
+            "bbox": [
+                0.0,
+                222.0,
+                143.0,
+                236.0
+            ],
+            "confidence": 0.96826171875
+        },
+        {
+            "text": "7 OF 16",
+            "bbox": [
+                14.0,
+                243.0,
+                76.0,
+                255.0
+            ],
+            "confidence": 0.904296875
+        }
+    ]
+}

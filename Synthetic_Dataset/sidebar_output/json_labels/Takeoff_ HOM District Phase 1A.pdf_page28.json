@@ -1,0 +1,115 @@
+{
+    "file_name": "Takeoff_ HOM District Phase 1A.pdf_page28.png",
+    "annotations": [
+        {
+            "text": "MAY 23",
+            "bbox": [
+                0.0,
+                10.0,
+                39.0,
+                20.0
+            ],
+            "confidence": 0.96337890625
+        },
+        {
+            "text": "50% DESIGN DEVELOPMENT",
+            "bbox": [
+                52.0,
+                11.0,
+                184.0,
+                19.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                0.0,
+                37.0,
+                33.0,
+                46.0
+            ],
+            "confidence": 0.97998046875
+        },
+        {
+            "text": "ISSUE",
+            "bbox": [
+                117.0,
+                37.0,
+                147.0,
+                45.0
+            ],
+            "confidence": 0.998046875
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                0.0,
+                88.0,
+                21.0,
+                96.0
+            ],
+            "confidence": 0.94384765625
+        },
+        {
+            "text": "MECHANICAL",
+            "bbox": [
+                4.0,
+                108.0,
+                171.0,
+                128.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "IRFLOW RISER -",
+            "bbox": [
+                0.0,
+                135.0,
+                193.0,
+                155.0
+            ],
+            "confidence": 0.99267578125
+        },
+        {
+            "text": "TOWER R2",
+            "bbox": [
+                24.0,
+                163.0,
+                154.0,
+                184.0
+            ],
+            "confidence": 0.96923828125
+        },
+        {
+            "text": "DRAWING NUMBER",
+            "bbox": [
+                56.0,
+                233.0,
+                120.0,
+                241.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "M5.202",
+            "bbox": [
+                61.0,
+                242.0,
+                144.0,
+                261.0
+            ],
+            "confidence": 0.96923828125
+        },
+        {
+            "text": "07",
+            "bbox": [
+                0.0,
+                248.0,
+                14.0,
+                258.0
+            ],
+            "confidence": 0.91259765625
+        }
+    ]
+}

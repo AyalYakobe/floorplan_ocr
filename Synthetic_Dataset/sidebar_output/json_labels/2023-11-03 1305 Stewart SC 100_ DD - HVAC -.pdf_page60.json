@@ -1,0 +1,75 @@
+{
+    "file_name": "2023-11-03 1305 Stewart SC 100_ DD - HVAC -.pdf_page60.png",
+    "annotations": [
+        {
+            "text": "\u0cb0",
+            "bbox": [
+                0.0,
+                0.0,
+                8.0,
+                7.0
+            ],
+            "confidence": 0.8173828125
+        },
+        {
+            "text": "D. BUDD",
+            "bbox": [
+                101.0,
+                0.0,
+                143.0,
+                8.0
+            ],
+            "confidence": 0.9482421875
+        },
+        {
+            "text": "TITLE",
+            "bbox": [
+                114.0,
+                15.0,
+                143.0,
+                25.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "EVEL 16 - ROOF",
+            "bbox": [
+                0.0,
+                54.0,
+                144.0,
+                73.0
+            ],
+            "confidence": 0.99169921875
+        },
+        {
+            "text": "PIPING PLAN",
+            "bbox": [
+                22.0,
+                77.0,
+                145.0,
+                94.0
+            ],
+            "confidence": 0.99169921875
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                64.0,
+                126.0,
+                143.0,
+                135.0
+            ],
+            "confidence": 0.99951171875
+        },
+        {
+            "text": "MP126",
+            "bbox": [
+                26.0,
+                165.0,
+                146.0,
+                192.0
+            ],
+            "confidence": 0.9375
+        }
+    ]
+}

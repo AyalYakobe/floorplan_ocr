@@ -1,0 +1,75 @@
+{
+    "file_name": "ACHD Meeker Headquarters (Phase 1) - Clean.pdf_page12.png",
+    "annotations": [
+        {
+            "text": "HVAC PLAN",
+            "bbox": [
+                71.0,
+                0.0,
+                180.0,
+                12.0
+            ],
+            "confidence": 0.9638671875
+        },
+        {
+            "text": "LEVEL 2 -",
+            "bbox": [
+                80.0,
+                21.0,
+                171.0,
+                41.0
+            ],
+            "confidence": 0.9921875
+        },
+        {
+            "text": "QUADRANT 3",
+            "bbox": [
+                64.0,
+                48.0,
+                188.0,
+                69.0
+            ],
+            "confidence": 0.986328125
+        },
+        {
+            "text": "SHEET",
+            "bbox": [
+                55.0,
+                98.0,
+                88.0,
+                106.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "M221",
+            "bbox": [
+                70.0,
+                161.0,
+                176.0,
+                195.0
+            ],
+            "confidence": 0.96044921875
+        },
+        {
+            "text": "ORIGINAL SHEET SIZE",
+            "bbox": [
+                61.0,
+                229.0,
+                192.0,
+                237.0
+            ],
+            "confidence": 0.99951171875
+        },
+        {
+            "text": "30\" x 42\"",
+            "bbox": [
+                102.0,
+                240.0,
+                150.0,
+                249.0
+            ],
+            "confidence": 0.97607421875
+        }
+    ]
+}

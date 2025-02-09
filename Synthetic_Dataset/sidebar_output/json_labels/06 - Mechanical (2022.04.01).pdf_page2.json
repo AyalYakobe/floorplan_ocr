@@ -1,0 +1,115 @@
+{
+    "file_name": "06 - Mechanical (2022.04.01).pdf_page2.png",
+    "annotations": [
+        {
+            "text": "@2018 SK&I Architectural Design Group, LL",
+            "bbox": [
+                25.0,
+                0.0,
+                184.0,
+                6.0
+            ],
+            "confidence": 0.96875
+        },
+        {
+            "text": "THIS PROJECT IS PROTECTED BY COPYRIGHT",
+            "bbox": [
+                25.0,
+                9.0,
+                206.0,
+                17.0
+            ],
+            "confidence": 0.99853515625
+        },
+        {
+            "text": "LAW AND INTERNATIONAL TREATIES",
+            "bbox": [
+                25.0,
+                20.0,
+                169.0,
+                28.0
+            ],
+            "confidence": 0.97998046875
+        },
+        {
+            "text": "DRAWING TITLE",
+            "bbox": [
+                25.0,
+                49.0,
+                89.0,
+                58.0
+            ],
+            "confidence": 0.99560546875
+        },
+        {
+            "text": "GARAGE DETAILS",
+            "bbox": [
+                25.0,
+                68.0,
+                183.0,
+                89.0
+            ],
+            "confidence": 0.99609375
+        },
+        {
+            "text": "6",
+            "bbox": [
+                6.0,
+                93.0,
+                12.0,
+                101.0
+            ],
+            "confidence": 0.81689453125
+        },
+        {
+            "text": "DATE",
+            "bbox": [
+                25.0,
+                154.0,
+                48.0,
+                162.0
+            ],
+            "confidence": 0.99462890625
+        },
+        {
+            "text": "02 04 2022",
+            "bbox": [
+                171.0,
+                154.0,
+                207.0,
+                162.0
+            ],
+            "confidence": 0.865234375
+        },
+        {
+            "text": "SCALE",
+            "bbox": [
+                25.0,
+                181.0,
+                53.0,
+                189.0
+            ],
+            "confidence": 0.99755859375
+        },
+        {
+            "text": "1/2\" = 1\" 0\"",
+            "bbox": [
+                172.0,
+                181.0,
+                206.0,
+                189.0
+            ],
+            "confidence": 0.78857421875
+        },
+        {
+            "text": "MP001",
+            "bbox": [
+                39.0,
+                221.0,
+                156.0,
+                255.0
+            ],
+            "confidence": 0.8427734375
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "file_name": "2024.0397 - Aqua-Tots - Full Set - 10.17.24.pdf_page49.png",
+    "annotations": [
+        {
+            "text": "SHOPPING CENTER",
+            "bbox": [
+                62.0,
+                8.0,
+                201.0,
+                24.0
+            ],
+            "confidence": 0.9736328125
+        },
+        {
+            "text": "\"YRIGHT @ 2024 INTERPLAN LLC RESERVES COPYRIGHT & OTHER RYGHTS RESTR",
+            "bbox": [
+                220.0,
+                13.0,
+                230.0,
+                242.0
+            ],
+            "confidence": 0.94091796875
+        },
+        {
+            "text": "2133 UPTON DRIVE SUITE 100",
+            "bbox": [
+                55.0,
+                40.0,
+                208.0,
+                51.0
+            ],
+            "confidence": 0.99365234375
+        },
+        {
+            "text": "VIRGINIA BEACH, VIRGINIA",
+            "bbox": [
+                58.0,
+                58.0,
+                205.0,
+                68.0
+            ],
+            "confidence": 0.97998046875
+        },
+        {
+            "text": "23454",
+            "bbox": [
+                115.0,
+                76.0,
+                148.0,
+                86.0
+            ],
+            "confidence": 0.98974609375
+        },
+        {
+            "text": "PROJECT NO: 2024.0397",
+            "bbox": [
+                56.0,
+                109.0,
+                164.0,
+                117.0
+            ],
+            "confidence": 0.97802734375
+        },
+        {
+            "text": "DATE: 08.29.24",
+            "bbox": [
+                56.0,
+                123.0,
+                122.0,
+                133.0
+            ],
+            "confidence": 0.98681640625
+        },
+        {
+            "text": "ELECTRICAL PLAN - POWER",
+            "bbox": [
+                76.0,
+                205.0,
+                187.0,
+                213.0
+            ],
+            "confidence": 0.97900390625
+        },
+        {
+            "text": "DMS",
+            "bbox": [
+                105.0,
+                231.0,
+                126.0,
+                239.0
+            ],
+            "confidence": 0.87255859375
+        },
+        {
+            "text": "CHECKED: /GR DRAWN: VLD",
+            "bbox": [
+                57.0,
+                243.0,
+                187.0,
+                252.0
+            ],
+            "confidence": 0.9697265625
+        },
+        {
+            "text": "DELSIN - 10/15/2024 8:40:12 PM",
+            "bbox": [
+                62.0,
+                268.0,
+                208.0,
+                276.0
+            ],
+            "confidence": 0.9931640625
+        }
+    ]
+}

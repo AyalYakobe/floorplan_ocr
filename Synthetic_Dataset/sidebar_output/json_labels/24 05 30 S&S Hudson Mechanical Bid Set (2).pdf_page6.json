@@ -1,0 +1,45 @@
+{
+    "file_name": "24 05 30 S&S Hudson Mechanical Bid Set (2).pdf_page6.png",
+    "annotations": [
+        {
+            "text": "Sanya Phatcharakitti, License #109039",
+            "bbox": [
+                34.0,
+                126.0,
+                168.0,
+                138.0
+            ],
+            "confidence": 0.984375
+        },
+        {
+            "text": "Expiration Date: 10/30/2026",
+            "bbox": [
+                52.0,
+                140.0,
+                149.0,
+                150.0
+            ],
+            "confidence": 0.9990234375
+        },
+        {
+            "text": "B BAR CODE:",
+            "bbox": [
+                0.0,
+                176.0,
+                44.0,
+                182.0
+            ],
+            "confidence": 0.9072265625
+        },
+        {
+            "text": "M01055466-I1",
+            "bbox": [
+                27.0,
+                205.0,
+                180.0,
+                228.0
+            ],
+            "confidence": 0.9365234375
+        }
+    ]
+}

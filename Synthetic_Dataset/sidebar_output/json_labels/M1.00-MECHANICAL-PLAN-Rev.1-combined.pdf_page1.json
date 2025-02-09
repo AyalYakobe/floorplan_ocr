@@ -1,0 +1,95 @@
+{
+    "file_name": "M1.00-MECHANICAL-PLAN-Rev.1-combined.pdf_page1.png",
+    "annotations": [
+        {
+            "text": "HE ARCHITECT ASSUMER NO RESPONSBELITY OR LIABLITY",
+            "bbox": [
+                44.0,
+                90.0,
+                194.0,
+                95.0
+            ],
+            "confidence": 0.955078125
+        },
+        {
+            "text": "FOR THE USE OF THESE PLANS FOR ANY PROJECT OTHER",
+            "bbox": [
+                43.0,
+                97.0,
+                188.0,
+                102.0
+            ],
+            "confidence": 0.98779296875
+        },
+        {
+            "text": "SPECIFICALLY AUTHORIZED BY THEM AND SIGNED AN",
+            "bbox": [
+                55.0,
+                105.0,
+                192.0,
+                110.0
+            ],
+            "confidence": 0.9765625
+        },
+        {
+            "text": "ED FOR SUCH SPECIFIC LOCATION IN THE STATE SHOWN",
+            "bbox": [
+                56.0,
+                112.0,
+                198.0,
+                118.0
+            ],
+            "confidence": 0.98779296875
+        },
+        {
+            "text": "IN THE SEAL. THIS FUILDING LISE IS CALLY APPLICARLE IN",
+            "bbox": [
+                44.0,
+                120.0,
+                187.0,
+                125.0
+            ],
+            "confidence": 0.94091796875
+        },
+        {
+            "text": "FAR MEETING THE STATED DESIGN CRITERS",
+            "bbox": [
+                49.0,
+                127.0,
+                162.0,
+                132.0
+            ],
+            "confidence": 0.865234375
+        },
+        {
+            "text": "4049-24-004",
+            "bbox": [
+                64.0,
+                149.0,
+                174.0,
+                166.0
+            ],
+            "confidence": 0.9716796875
+        },
+        {
+            "text": "SHEET",
+            "bbox": [
+                101.0,
+                182.0,
+                144.0,
+                194.0
+            ],
+            "confidence": 0.9951171875
+        },
+        {
+            "text": "M1.00",
+            "bbox": [
+                78.0,
+                221.0,
+                168.0,
+                248.0
+            ],
+            "confidence": 0.95166015625
+        }
+    ]
+}

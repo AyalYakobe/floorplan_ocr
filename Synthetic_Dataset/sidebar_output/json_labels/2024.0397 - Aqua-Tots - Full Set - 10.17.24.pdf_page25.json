@@ -1,0 +1,105 @@
+{
+    "file_name": "2024.0397 - Aqua-Tots - Full Set - 10.17.24.pdf_page25.png",
+    "annotations": [
+        {
+            "text": "SHOPPING CENTER",
+            "bbox": [
+                62.0,
+                8.0,
+                201.0,
+                25.0
+            ],
+            "confidence": 0.9697265625
+        },
+        {
+            "text": "RIGHT \u00a9 2024 INTERPLAN LLC RESERVES COPYRIGHT & OTHER RIGHTS RESTR",
+            "bbox": [
+                218.0,
+                13.0,
+                230.0,
+                237.0
+            ],
+            "confidence": 0.98193359375
+        },
+        {
+            "text": "2133 UPTON DRIVE SUITE 100",
+            "bbox": [
+                55.0,
+                41.0,
+                208.0,
+                51.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "VIRGINIA BEACH, VIRGINIA",
+            "bbox": [
+                58.0,
+                58.0,
+                205.0,
+                68.0
+            ],
+            "confidence": 0.98046875
+        },
+        {
+            "text": "23454",
+            "bbox": [
+                115.0,
+                76.0,
+                148.0,
+                86.0
+            ],
+            "confidence": 0.99072265625
+        },
+        {
+            "text": "PROJECT NO: 2024.0397",
+            "bbox": [
+                56.0,
+                109.0,
+                164.0,
+                117.0
+            ],
+            "confidence": 0.9814453125
+        },
+        {
+            "text": "DATE: 08.29.24",
+            "bbox": [
+                56.0,
+                123.0,
+                122.0,
+                132.0
+            ],
+            "confidence": 0.97900390625
+        },
+        {
+            "text": "MECHANICAL ROOF PLAN",
+            "bbox": [
+                77.0,
+                205.0,
+                186.0,
+                213.0
+            ],
+            "confidence": 0.9736328125
+        },
+        {
+            "text": "CHECKED: DAK DRAWN: AE",
+            "bbox": [
+                57.0,
+                244.0,
+                182.0,
+                252.0
+            ],
+            "confidence": 0.986328125
+        },
+        {
+            "text": "DELSIN - 10/15/2024 8:40:09 PM",
+            "bbox": [
+                62.0,
+                268.0,
+                208.0,
+                276.0
+            ],
+            "confidence": 0.9892578125
+        }
+    ]
+}

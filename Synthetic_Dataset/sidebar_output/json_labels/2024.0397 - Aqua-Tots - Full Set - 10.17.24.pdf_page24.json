@@ -1,0 +1,205 @@
+{
+    "file_name": "2024.0397 - Aqua-Tots - Full Set - 10.17.24.pdf_page24.png",
+    "annotations": [
+        {
+            "text": "SHOPPING CENTER",
+            "bbox": [
+                62.0,
+                9.0,
+                201.0,
+                24.0
+            ],
+            "confidence": 0.9833984375
+        },
+        {
+            "text": "RIGHT \u00a9 2024 INTERPLAN LLC RESERVES COPYRIGHT & OTHER RIGHTS RESTR",
+            "bbox": [
+                218.0,
+                13.0,
+                230.0,
+                236.0
+            ],
+            "confidence": 0.97412109375
+        },
+        {
+            "text": "ANICAL",
+            "bbox": [
+                0.0,
+                33.0,
+                26.0,
+                41.0
+            ],
+            "confidence": 0.98583984375
+        },
+        {
+            "text": "2133 UPTON DRIVE SUITE 100",
+            "bbox": [
+                55.0,
+                41.0,
+                208.0,
+                51.0
+            ],
+            "confidence": 0.99462890625
+        },
+        {
+            "text": "VIRGINIA BEACH, VIRGINIA",
+            "bbox": [
+                58.0,
+                58.0,
+                205.0,
+                68.0
+            ],
+            "confidence": 0.982421875
+        },
+        {
+            "text": "ND",
+            "bbox": [
+                0.0,
+                66.0,
+                11.0,
+                75.0
+            ],
+            "confidence": 0.88330078125
+        },
+        {
+            "text": "23454",
+            "bbox": [
+                115.0,
+                76.0,
+                148.0,
+                86.0
+            ],
+            "confidence": 0.9921875
+        },
+        {
+            "text": "PROJECT NO: 2024.0397",
+            "bbox": [
+                56.0,
+                109.0,
+                164.0,
+                117.0
+            ],
+            "confidence": 0.98388671875
+        },
+        {
+            "text": "STATE OR",
+            "bbox": [
+                0.0,
+                111.0,
+                38.0,
+                120.0
+            ],
+            "confidence": 0.95654296875
+        },
+        {
+            "text": "OINT A",
+            "bbox": [
+                0.0,
+                123.0,
+                29.0,
+                130.0
+            ],
+            "confidence": 0.79345703125
+        },
+        {
+            "text": "DATE: 08.29.24",
+            "bbox": [
+                56.0,
+                124.0,
+                122.0,
+                132.0
+            ],
+            "confidence": 0.9794921875
+        },
+        {
+            "text": "SHARP",
+            "bbox": [
+                0.0,
+                145.0,
+                34.0,
+                153.0
+            ],
+            "confidence": 0.91845703125
+        },
+        {
+            "text": "DUITS.",
+            "bbox": [
+                0.0,
+                156.0,
+                27.0,
+                165.0
+            ],
+            "confidence": 0.830078125
+        },
+        {
+            "text": "FLEX",
+            "bbox": [
+                0.0,
+                168.0,
+                23.0,
+                176.0
+            ],
+            "confidence": 0.943359375
+        },
+        {
+            "text": "S THAT",
+            "bbox": [
+                0.0,
+                179.0,
+                30.0,
+                188.0
+            ],
+            "confidence": 0.94482421875
+        },
+        {
+            "text": "MECHANICAL FLOOR PLAN",
+            "bbox": [
+                75.0,
+                205.0,
+                188.0,
+                213.0
+            ],
+            "confidence": 0.9833984375
+        },
+        {
+            "text": "IETER OF",
+            "bbox": [
+                0.0,
+                213.0,
+                36.0,
+                221.0
+            ],
+            "confidence": 0.8896484375
+        },
+        {
+            "text": "HE",
+            "bbox": [
+                0.0,
+                225.0,
+                12.0,
+                232.0
+            ],
+            "confidence": 0.8232421875
+        },
+        {
+            "text": "CHECKED: DAK DRAWN: AE",
+            "bbox": [
+                56.0,
+                244.0,
+                182.0,
+                252.0
+            ],
+            "confidence": 0.98583984375
+        },
+        {
+            "text": "DELSIN - 10/15/2024 8:40:08 PM",
+            "bbox": [
+                62.0,
+                268.0,
+                208.0,
+                276.0
+            ],
+            "confidence": 0.9921875
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "file_name": "2024.0397 - Aqua-Tots - Full Set - 10.17.24.pdf_page36.png",
+    "annotations": [
+        {
+            "text": "SHOPPING CENTER",
+            "bbox": [
+                62.0,
+                8.0,
+                201.0,
+                25.0
+            ],
+            "confidence": 0.9716796875
+        },
+        {
+            "text": "RIGHT \u00a9 2024 INTERPLAN LLC RESERVES COPYRIGHT & OTHER RIGHTS RESTR",
+            "bbox": [
+                218.0,
+                13.0,
+                230.0,
+                236.0
+            ],
+            "confidence": 0.97802734375
+        },
+        {
+            "text": "2133 UPTON DRIVE SUITE 100",
+            "bbox": [
+                55.0,
+                41.0,
+                208.0,
+                51.0
+            ],
+            "confidence": 0.994140625
+        },
+        {
+            "text": "VIRGINIA BEACH, VIRGINIA",
+            "bbox": [
+                58.0,
+                58.0,
+                205.0,
+                68.0
+            ],
+            "confidence": 0.97900390625
+        },
+        {
+            "text": "23454",
+            "bbox": [
+                115.0,
+                76.0,
+                148.0,
+                86.0
+            ],
+            "confidence": 0.9912109375
+        },
+        {
+            "text": "PROJECT NO: 2024.0397",
+            "bbox": [
+                56.0,
+                109.0,
+                164.0,
+                117.0
+            ],
+            "confidence": 0.98291015625
+        },
+        {
+            "text": "DATE: 08.29.24",
+            "bbox": [
+                56.0,
+                123.0,
+                122.0,
+                132.0
+            ],
+            "confidence": 0.98046875
+        },
+        {
+            "text": "ENERGY COMPUANCE",
+            "bbox": [
+                85.0,
+                205.0,
+                178.0,
+                213.0
+            ],
+            "confidence": 0.97021484375
+        },
+        {
+            "text": "FORMS",
+            "bbox": [
+                116.0,
+                217.0,
+                147.0,
+                225.0
+            ],
+            "confidence": 0.9638671875
+        },
+        {
+            "text": "CHECKED: DAK DRAWN: AE",
+            "bbox": [
+                57.0,
+                244.0,
+                182.0,
+                252.0
+            ],
+            "confidence": 0.98681640625
+        },
+        {
+            "text": "DELSIN - 10/15/2024 8:40:10 PM",
+            "bbox": [
+                62.0,
+                268.0,
+                208.0,
+                276.0
+            ],
+            "confidence": 0.9931640625
+        }
+    ]
+}

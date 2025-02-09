@@ -1,0 +1,55 @@
+{
+    "file_name": "Ashcreek Multifamily - Clean.pdf_page18.png",
+    "annotations": [
+        {
+            "text": "SHEET TITLE",
+            "bbox": [
+                103.0,
+                43.0,
+                164.0,
+                53.0
+            ],
+            "confidence": 0.9970703125
+        },
+        {
+            "text": "Rowhouses Roof",
+            "bbox": [
+                57.0,
+                110.0,
+                211.0,
+                128.0
+            ],
+            "confidence": 0.99072265625
+        },
+        {
+            "text": "Plan",
+            "bbox": [
+                112.0,
+                134.0,
+                155.0,
+                153.0
+            ],
+            "confidence": 0.93603515625
+        },
+        {
+            "text": "SHEET NUMBER",
+            "bbox": [
+                97.0,
+                214.0,
+                171.0,
+                224.0
+            ],
+            "confidence": 0.99755859375
+        },
+        {
+            "text": "M301",
+            "bbox": [
+                94.0,
+                234.0,
+                170.0,
+                262.0
+            ],
+            "confidence": 0.892578125
+        }
+    ]
+}
