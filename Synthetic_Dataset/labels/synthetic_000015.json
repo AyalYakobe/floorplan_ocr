@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "6-KE",
+            "text": "T91M-AB",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "Arial.ttf",
-    "rotation": 90,
+    "font": "DIN Alternate Bold.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000015.png",
     "white_background": false
 }

@@ -1,15 +1,31 @@
 {
     "texts": [
         {
-            "text": "2-0L-2",
+            "text": "K",
             "position": [
                 10,
                 10
             ],
             "underlined": true
+        },
+        {
+            "text": "5",
+            "position": [
+                10,
+                85
+            ],
+            "underlined": false
+        },
+        {
+            "text": "FZWVER1UIE",
+            "position": [
+                10,
+                161
+            ],
+            "underlined": false
         }
     ],
-    "font": "Courier New.ttf",
+    "font": "Arial.ttf",
     "rotation": 0,
     "image_path": "synthetic_000011.png",
     "white_background": false

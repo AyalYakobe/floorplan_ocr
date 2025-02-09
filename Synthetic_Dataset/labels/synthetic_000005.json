@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "VBIFJC",
+            "text": "9UD-MWV",
             "position": [
                 10,
                 10
@@ -9,7 +9,7 @@
             "underlined": false
         }
     ],
-    "font": "Impact.ttf",
+    "font": "Arial Bold.ttf",
     "rotation": 90,
     "image_path": "synthetic_000005.png",
     "white_background": false

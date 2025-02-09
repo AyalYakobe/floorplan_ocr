@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "6-1-26",
+            "text": "D",
             "position": [
                 10,
                 10
@@ -9,16 +9,24 @@
             "underlined": false
         },
         {
-            "text": "7ZF",
+            "text": "OZQ",
             "position": [
                 10,
-                68
+                77
             ],
-            "underlined": false
+            "underlined": true
+        },
+        {
+            "text": "F8OE",
+            "position": [
+                10,
+                145
+            ],
+            "underlined": true
         }
     ],
     "font": "DIN Condensed Bold.ttf",
-    "rotation": 0,
+    "rotation": 90,
     "image_path": "synthetic_000018.png",
     "white_background": true
 }

@@ -1,280 +1,302 @@
 Image,Ground Truth,OCR Output,CER,WER
-Synthetic_Dataset/final_images/synthetic_000057.png,T-K9BT9RQY,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000000.png,HTDV-K,HTDV,0.19999999999999996,1.0
-Synthetic_Dataset/final_images/synthetic_000016.png,AAX325ZCST 7OEJ-8QJTT 0 H,JJ},0.8571428571428572,1.0
-Synthetic_Dataset/final_images/synthetic_000041.png,Q 9WSXZVB-V-KD ZS9A-0O Q4-8-P2C84,"——
-————o
-OWSYX7VRLV-KD |
-IWSXZUBLV-KD:
-AA) —]
-£57A-UU ft}
-—— -
-rf
-—
-—
-_—— | ——_}-
-SS",0.7435897435897436,1.0
-Synthetic_Dataset/final_images/synthetic_000082.png,LTEMP55D7,"1 =
-[_—|
-Ls
-S|
-—_—_, =",0.935483870967742,1.0
+Synthetic_Dataset/final_images/synthetic_000057.png,T-K9BT9RQY,ean,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000000.png,4 A-O-8,"4a
+‘A-0-8",0.375,1.0
+Synthetic_Dataset/final_images/synthetic_000016.png,1,Il,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000041.png,Q 9WSXZVB-V-KD ZS9A-0O Q4-8-P2C84,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000082.png,LTEMP55D7,a,1.0,1.0
 Synthetic_Dataset/final_images/synthetic_000094.png,VYJDBM F-VZT8L6WC-Z,"VYJDBM
-DPHVW7TQT EG",0.631578947368421,0.6
-Synthetic_Dataset/final_images/synthetic_000036.png,X-QV-ETY3C,"{
-2
-4)",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000061.png,9I1WEL,x,1.0,1.0
+DHVW7TQT GA",0.6216216216216216,0.6
+Synthetic_Dataset/final_images/synthetic_000036.png,X-QV-ETY3C,"ect
+—_
+a",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000061.png,9I1WEL,"Joo
+Ki |
+sl
+s
+4
+""",1.0,1.0
 Synthetic_Dataset/final_images/synthetic_000098.png,IM-TI5-B0,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000077.png,CDGVS-FJX 4W,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000020.png,6,=),1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000021.png,BCC1XEZ867 AW BPN3F,"BCC1KEZ867
-AW",0.3125,0.6
-Synthetic_Dataset/final_images/synthetic_000099.png,2JWTK,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000077.png,CDGVS-FJX 4W,"mm
+ims
+ie &
+im §",0.9285714285714286,1.0
+Synthetic_Dataset/final_images/synthetic_000020.png,6,|,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000021.png,BCC1XEZ867 AW BPN3F,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000099.png,2JWTK,"2JWTK
+r—",0.23076923076923073,0.33333333333333337
 Synthetic_Dataset/final_images/synthetic_000076.png,YFKI-RR7,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000060.png,E8,£8,0.5,1.0
-Synthetic_Dataset/final_images/synthetic_000037.png,0LW7-A-EXD4F,al |,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000095.png,P,a,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000083.png,O PJXPV5 G-DKAW-UZ,"8
-wo =
-<
-as
-xc
-Oalc",0.9459459459459459,1.0
-Synthetic_Dataset/final_images/synthetic_000040.png,ZJER5YOPFV D02A6MI,"LERSYOPFY
-nnoneMi",0.6,1.0
-Synthetic_Dataset/final_images/synthetic_000017.png,NFZL-P-GK,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000001.png,3IP-FUU-02RD SJ,/,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000056.png,2S-Z-4 W,"_28-2-4
-Ley, Le) |",0.6153846153846154,1.0
-Synthetic_Dataset/final_images/synthetic_000030.png,S0HE1I,"i
-| Lu
+Synthetic_Dataset/final_images/synthetic_000060.png,E8,"=tums
+4 4
+=e ee
 
-an
-1 Oo",0.9047619047619048,1.0
-Synthetic_Dataset/final_images/synthetic_000088.png,F-Y07-9WHB,o,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000067.png,K N-D-B OB7IYBJC06 R,"oO.
-O
-ae
-faa)
-on >
-a5
-<Z Ol",0.8723404255319149,1.0
-Synthetic_Dataset/final_images/synthetic_000071.png,Q3BLPB,"faa)
-fal
-pas
-faa)
-™",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000026.png,15P99OSCX-0 GSIZ5ZCT 1,"HI a
-Lt
-= —-—>
-HU",0.9487179487179487,1.0
-Synthetic_Dataset/final_images/synthetic_000051.png,4JRX-W-7I,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000006.png,1SA24-PD,"a
-il",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000010.png,96X-2G-X,"7 \T NS 4
-I , :
-PC PVP KK
-y
-N",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000047.png,GLLR,ane,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000084.png,GEUK96,=,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000092.png,A,"pane an
-iti
-He babodh <tbeh abe
-irtstth
-Heeb be",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000093.png,6F-0,ay,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000085.png,TQEZ5H,i,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000046.png,P2LEIH4-7,"SK
-Se
-Se
-See
-Se
-Sp Fe
-SESS
-Se
-a pete",0.9555555555555556,1.0
-Synthetic_Dataset/final_images/synthetic_000011.png,KO,‘KO|,0.33333333333333337,1.0
-Synthetic_Dataset/final_images/synthetic_000007.png,OU452SF6M,"on
-j 11",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000050.png,S9,eS,0.5,1.0
-Synthetic_Dataset/final_images/synthetic_000027.png,6 GSNFLJ E11UEYP3,"otararirotrot
-ararcarinourers
-Macnarannn ss
-RXR KER
-RRR RX KRY
-PKR RNY
-PK RKXKKRKK
-RRR
-Wrneninne,",0.9473684210526316,1.0
-Synthetic_Dataset/final_images/synthetic_000070.png,BNB KT5-4UMO4P4 H-A-6U,iz,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000089.png,BIGCDF-M,"RIGEI
-—",0.7333333333333334,1.0
-Synthetic_Dataset/final_images/synthetic_000066.png,T2-F,e,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000031.png,KTBK,M7),1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000024.png,01GD8PKZF,"Le
+4 Ay
+=6 is
+
+=e I",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000037.png,0LW7-A-EXD4F,"*
+
+7 i
+~~. i,
+
+i
+
+i
+
+i",0.9411764705882353,1.0
+Synthetic_Dataset/final_images/synthetic_000095.png,P,O.,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000083.png,O PJXPV5 G-DKAW-UZ,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000040.png,ZJER5YOPFV D02A6MI,"HIN YANN VV WIN NEY)
+DERSYOPFU |
+bi",0.7358490566037736,1.0
+Synthetic_Dataset/final_images/synthetic_000017.png,6U97-6G-6R7V 3A-N3D AC-Y-TUR1,">
+KR
+[4
+ols
+1 la
+Yo i
+wodk
+aa)
+KRzo
+at
+3 ee
+wo <",0.8961038961038961,1.0
+Synthetic_Dataset/final_images/synthetic_000001.png,HT9D,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000056.png,2S-Z-4 W,"i
+1
+i}",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000030.png,S0HE1I,T,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000088.png,F-Y07-9WHB,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000067.png,K N-D-B OB7IYBJC06 R,il,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000071.png,Q3BLPB,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000026.png,15P99OSCX-0 GSIZ5ZCT 1,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000051.png,4JRX-W-7I,"oo!
+fr RX-
+of",0.7272727272727273,1.0
+Synthetic_Dataset/final_images/synthetic_000006.png,3H,c,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000010.png,MRT33SCU3 71 TI PK30,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000047.png,GLLR,GuR,0.4285714285714286,1.0
+Synthetic_Dataset/final_images/synthetic_000084.png,GEUK96,rd,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000092.png,A,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000093.png,6F-0,G,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000085.png,TQEZ5H,"7
+Lf)
 N
-<
-ae
-OO",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000073.png,3BKN-3C-7,|,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000065.png,AAM9HTPS,ial,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000032.png,1M-LS,"\
-RNS \\Y Ni) \h ul
-\t ni \\ \ YANN AYANY |
-\\\ \\ \ \
+Lu
+r%",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000046.png,P2LEIH4-7,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000011.png,K 5 FZWVER1UIE,"7 | —
+ly, |
+Za",0.7857142857142857,1.0
+Synthetic_Dataset/final_images/synthetic_000007.png,PTL-8-AI9T,|,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000050.png,S9,I),1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000027.png,6 GSNFLJ E11UEYP3,"Ap.
+ome
+aS |
+NL} Nes
+{Seal
+re TM:
+nS ll ;
+ye | aa
+710. | ee ||",0.8987341772151899,1.0
+Synthetic_Dataset/final_images/synthetic_000070.png,BNB KT5-4UMO4P4 H-A-6U,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000089.png,BIGCDF-M,n,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000066.png,T2-F,"Hin
+TLL ELL",0.8666666666666667,1.0
+Synthetic_Dataset/final_images/synthetic_000031.png,KTBK,"|
 
-\ A me ANY
-\ lo
-ANY ‘ \\\ K\ NH
+\\\\
+A
+WY TLNAN
+AW
+\Y\\\ \\\\ A
+YN AY
+\\\ \\\\ ANY
+\\ \\ AAW
+\\\ A WW :
+\\\ NYY \ WW
+CE
+\\\\ \ AY
+\ ANN WAY
 
-\ AN \ AY \
+\\\ AY \\\\
+AA
 
-K\\\\ \\K
+‘\\"" AY \ YY Wh
+AY WY
+WY \\\\\
+ANA
 
-\\\K\",0.983739837398374,1.0
-Synthetic_Dataset/final_images/synthetic_000049.png,3QK2M GE1X3NY-RH-L 11R49,"x=
-1b
-ais
-<X|— 9
-Olu.
-iso)",0.92,1.0
-Synthetic_Dataset/final_images/synthetic_000008.png,RLDABI,,1.0,1.0
+WW
+\h\",0.9885057471264368,1.0
+Synthetic_Dataset/final_images/synthetic_000024.png,01GD8PKZF,"LL
+N
+<<
+o—
+og",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000073.png,3BKN-3C-7,ws,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000065.png,AAM9HTPS,BAMSHTPS?,0.2941176470588235,1.0
+Synthetic_Dataset/final_images/synthetic_000032.png,1M-LS,"aa |
+7H Bae",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000049.png,3QK2M GE1X3NY-RH-L 11R49,"0
+one ""
+— «=",0.8888888888888888,1.0
+Synthetic_Dataset/final_images/synthetic_000008.png,QEX66 N-T94FP-Z4,"| |
+QEX66
+M-TOArD_7",0.6,0.6666666666666667
 Synthetic_Dataset/final_images/synthetic_000028.png,CX,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000090.png,2C0EYG5,2COEN,0.5,1.0
-Synthetic_Dataset/final_images/synthetic_000069.png,Q1DJZBAO6A,"<
-“oO
-<a
-Taal",0.9130434782608696,1.0
+Synthetic_Dataset/final_images/synthetic_000090.png,2C0EYG5,2COE),0.5,1.0
+Synthetic_Dataset/final_images/synthetic_000069.png,Q1DJZBAO6A,a,1.0,1.0
 Synthetic_Dataset/final_images/synthetic_000086.png,E-2O0KR,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000045.png,4,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000012.png,228N3OVU1 Z8PF 4,"_—
+Synthetic_Dataset/final_images/synthetic_000045.png,4,if,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000012.png,7F AUVI05R4,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000004.png,J7A-CYG,J7A-CYG),0.06666666666666665,1.0
+Synthetic_Dataset/final_images/synthetic_000053.png,D2-99P8-JF,"LL.
+I
+co
+Qu.
+o~
+BB",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000052.png,AX,(a,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000005.png,9UD-MWV,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000013.png,0-61,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000044.png,2R6YYIFLG Z-1W-Z K-AJ4P1J,"pe
+| |
+|",0.9393939393939394,1.0
+Synthetic_Dataset/final_images/synthetic_000068.png,GQ,"| ;
+640:",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000087.png,ISSVYG M-HM RB5QR-Q5,is,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000091.png,RW4-9-9P,RW4-9.,0.2857142857142857,1.0
+Synthetic_Dataset/final_images/synthetic_000029.png,ZQP-B,"Ca
+[al
+oO
+S",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000009.png,O2625WB0,"22 anyon
+iam I-=
+| les
+| BTL",0.8333333333333334,1.0
+Synthetic_Dataset/final_images/synthetic_000048.png,Z,"pa ==
+__\ Ui
+— RTA
+“A
+Zai—",0.9259259259259259,1.0
+Synthetic_Dataset/final_images/synthetic_000033.png,TTZ,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000064.png,YR9EH1,"L
 
-~
+ce
+=
+4",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000072.png,ZYNS-3Q,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000025.png,M9WVZ6DJ,"{———-4
 
->
-
-[e)
-Su
-Seo
-NN",0.9487179487179487,1.0
-Synthetic_Dataset/final_images/synthetic_000004.png,57720-E,Lt,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000053.png,D2-99P8-JF,ni,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000052.png,AX,tea,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000005.png,0225,| a,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000013.png,PT,.,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000044.png,2R6YYIFLG Z-1W-Z K-AJ4P1J,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000068.png,GQ,[cq],1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000087.png,ISSVYG M-HM RB5QR-Q5,"AAAAAAAADDADDDDD DADA DADA DAD
+2° HT
+_—_—_
+Ia
+—
+Ess SEED nnaEU nanan nanAENNY
+Acs nunraneit ERTL TEE
+—_—
+I
+fuuuarl EE
+—
+—|
+Peggeeguegyequenyeuueanqneennty",0.9856115107913669,1.0
+Synthetic_Dataset/final_images/synthetic_000079.png,X7GJ1,"AAAAAAAAAAAAARAAAAAAAAAAAAA A
 9000000000000000000000000000
 NO000DO0OdDDOOdODOOOODDOOODOE
 10000000000000000000000000000
-N00000O00dDDOOdODOOdODDOOODOE
-a
-HOdNdNddOdOdODANAOdOdNdNOOO)
+YAM: HEY
+90000000O0CTTO0000000000
+—",0.9874213836477987,1.0
+Synthetic_Dataset/final_images/synthetic_000096.png,LR,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000080.png,G,ra,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000038.png,2BVT5VYINN,"_  *:
+—_—_— =
+= =]
 
-NOdKHNONHAHdNOOdHdNONOOONHD",0.982532751091703,1.0
-Synthetic_Dataset/final_images/synthetic_000091.png,RW4-9-9P,RW4-9.,0.2857142857142857,1.0
-Synthetic_Dataset/final_images/synthetic_000029.png,ZQP-B,"7 I
+=",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000043.png,N-QJJ0-BW 9V U4E8-3FKR5,"iy
+<1)
+tikes",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000014.png,6VP8VS,‘eupaus,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000002.png,GT-M7,"I>
+-M7 3
+mais
+s
+i",0.7272727272727273,1.0
+Synthetic_Dataset/final_images/synthetic_000055.png,T-GKDZJ-UM F 9 3X3H3QP4-VG,ia,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000022.png,BQ-LRW68WA 5R6V-T6HH H-8-FKTV9,"$
 
-“||
-|| O
-my) I",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000009.png,BD,"4 |
-=
-*
-|",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000048.png,Z,1,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000033.png,TTZ,"XK
-BR.
-Ps",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000064.png,YR9EH1,"re
-a |",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000072.png,ZYNS-3Q,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000025.png,M9WVZ6DJ,"=
-IRIN IN IN",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000079.png,X7GJ1,Seve,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000096.png,LR,"fom
-a URES ESE
-a_i
-re
-I TESST
-rrr
-EE
-—
-OTT",0.9545454545454546,1.0
-Synthetic_Dataset/final_images/synthetic_000080.png,G,YF,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000038.png,2BVT5VYINN,"=
-=
-re
->
-Sy",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000043.png,N-QJJ0-BW 9V U4E8-3FKR5,||,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000014.png,W8 HH-SX53RQ7 BS8W-P-Q 0VVN-4T,"so =
-ad
-oF
-a
-Orn i",0.9166666666666666,1.0
-Synthetic_Dataset/final_images/synthetic_000002.png,EPGNTJ-M2PQ,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000055.png,T-GKDZJ-UM F 9 3X3H3QP4-VG,"ONE Oren
-RN RR
-ON
-OK KKK KKK KKK KKK KK KY",0.8823529411764706,1.0
-Synthetic_Dataset/final_images/synthetic_000022.png,BQ-LRW68WA 5R6V-T6HH H-8-FKTV9,"Sx.
-zi
-wis
-az
-fe} °
-m3",0.9615384615384616,1.0
-Synthetic_Dataset/final_images/synthetic_000075.png,2Z89,| IE q aya,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000063.png,P3OFPB,[P30FPB|,0.2857142857142857,1.0
-Synthetic_Dataset/final_images/synthetic_000034.png,M1-G83KK9V,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000018.png,LH6YDS6,"|
-
-|
-
-am 4
-| Va
-| |<",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000059.png,NSY-N-Q,"9
-+
->
-W",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000058.png,G1L8PQ8WB,| “GILapnawe”,0.8181818181818181,1.0
-Synthetic_Dataset/final_images/synthetic_000019.png,6PEWVG5,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000035.png,A-H8C-N,"ng
-Cc
-c",0.8571428571428572,1.0
-Synthetic_Dataset/final_images/synthetic_000062.png,GAYNOQU KW2-U K8RL,"2
-
+© L¢
 8
+wrs
+aZt
+fe} °
+m3",0.8928571428571429,1.0
+Synthetic_Dataset/final_images/synthetic_000075.png,2Z89,"=
+es
+2XZB 9",0.6,1.0
+Synthetic_Dataset/final_images/synthetic_000063.png,P3OFPB,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000034.png,M1-G83KK9V,"—————_—S——S
+———-
 
-Ea:
-Cc",0.8666666666666667,1.0
-Synthetic_Dataset/final_images/synthetic_000074.png,VB6-C262,"Ihe
-V.B6-C
-—|
-=",0.5652173913043479,1.0
-Synthetic_Dataset/final_images/synthetic_000023.png,F-YM6RX6-WWP,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000054.png,7Y,ia,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000003.png,X5W4Z-XM,\e,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000015.png,W5 YFA1BMIA0N T6RI-P-J 9E,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000042.png,E,"3
-le
-i",1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000039.png,2K0N-NQGM-3,2KON-|,0.5294117647058824,1.0
-Synthetic_Dataset/final_images/synthetic_000081.png,LRF5LZ-H30I,"—|
-_
-
-3
-|
-— |
-We)",0.9285714285714286,1.0
-Synthetic_Dataset/final_images/synthetic_000078.png,I QNGNPPE4U 76B OYJFHD,,1.0,1.0
-Synthetic_Dataset/final_images/synthetic_000097.png,WH5VVLO 0-L9V O-1SBI Q3,"[o)
+q ==To
 =
-~ a
-LO ON
-252
-Sao",0.782608695652174,1.0
+a
+
+q ==
+= ;
+= <",0.9615384615384616,1.0
+Synthetic_Dataset/final_images/synthetic_000018.png,D OZQ F8OE,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000059.png,NSY-N-Q,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000058.png,G1L8PQ8WB,=,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000019.png,I56,cl,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000035.png,A-H8C-N,"=
+=
+- =~",0.8666666666666667,1.0
+Synthetic_Dataset/final_images/synthetic_000062.png,GAYNOQU KW2-U K8RL,"=)
+€
+Ea:",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000074.png,VB6-C262,"Hy
+VB6-C",0.375,1.0
+Synthetic_Dataset/final_images/synthetic_000023.png,F-YM6RX6-WWP,"a
+ill
+t#-——---—-+g--
+
+5
+p------ 4 -
+g
+4 =
+: a
+ff
+,r---------7m™M,",0.948051948051948,1.0
+Synthetic_Dataset/final_images/synthetic_000054.png,7Y,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000003.png,HTB GT-Y-P 8CVVCBAM,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000015.png,T91M-AB,,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000042.png,E,"a
+ji
+Xi
+|g",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000039.png,2K0N-NQGM-3,"a
+i
+A)",1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000081.png,LRF5LZ-H30I,= AT a,1.0,1.0
+Synthetic_Dataset/final_images/synthetic_000078.png,I QNGNPPE4U 76B OYJFHD,"=)
+
+sw
+
+ea]
+
+fal
+
+iat
+
+Z
+
+1S) 3
+
+Z| Oo)
+Holm",0.8787878787878788,1.0
+Synthetic_Dataset/final_images/synthetic_000097.png,WH5VVLO 0-L9V O-1SBI Q3,"=
+a
+/",1.0,1.0

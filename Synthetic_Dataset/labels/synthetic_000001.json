@@ -1,24 +1,16 @@
 {
     "texts": [
         {
-            "text": "1-FLO5-GQ1E1",
+            "text": "HT9D",
             "position": [
                 10,
                 10
             ],
             "underlined": true
-        },
-        {
-            "text": "M2-X",
-            "position": [
-                10,
-                97
-            ],
-            "underlined": true
         }
     ],
-    "font": "Arial.ttf",
-    "rotation": 90,
+    "font": "Andale Mono.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000001.png",
     "white_background": false
 }

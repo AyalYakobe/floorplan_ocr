@@ -1,16 +1,24 @@
 {
     "texts": [
         {
-            "text": "TXH0-QH",
+            "text": "QEX66",
             "position": [
                 10,
                 10
             ],
+            "underlined": true
+        },
+        {
+            "text": "N-T94FP-Z4",
+            "position": [
+                10,
+                100
+            ],
             "underlined": false
         }
     ],
-    "font": "Microsoft Sans Serif.ttf",
-    "rotation": 90,
+    "font": "Andale Mono.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000008.png",
     "white_background": true
 }

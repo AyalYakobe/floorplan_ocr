@@ -8,7 +8,7 @@ NUM_SAMPLES = 20
 
 
 if __name__ == '__main__':
-    is_sidebar_details = True
+    is_sidebar_details = False
 
     if is_sidebar_details:
         # ------ Only Step -------

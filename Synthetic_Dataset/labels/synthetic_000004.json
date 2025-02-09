@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "E-V-I",
+            "text": "J7A-CYG",
             "position": [
                 10,
                 10
@@ -9,7 +9,7 @@
             "underlined": false
         }
     ],
-    "font": "Arial Narrow.ttf",
+    "font": "DIN Condensed Bold.ttf",
     "rotation": 0,
     "image_path": "synthetic_000004.png",
     "white_background": true

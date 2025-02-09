@@ -1,15 +1,31 @@
 {
     "texts": [
         {
-            "text": "8WN7TJP73V",
+            "text": "6U97-6G-6R7V",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
+        },
+        {
+            "text": "3A-N3D",
+            "position": [
+                10,
+                82
+            ],
+            "underlined": false
+        },
+        {
+            "text": "AC-Y-TUR1",
+            "position": [
+                10,
+                154
+            ],
+            "underlined": false
         }
     ],
-    "font": "Microsoft Sans Serif.ttf",
+    "font": "Andale Mono.ttf",
     "rotation": 90,
     "image_path": "synthetic_000017.png",
     "white_background": false

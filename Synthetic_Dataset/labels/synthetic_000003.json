@@ -1,31 +1,31 @@
 {
     "texts": [
         {
-            "text": "6",
+            "text": "HTB",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
         },
         {
-            "text": "CF0",
+            "text": "GT-Y-P",
             "position": [
                 10,
-                86
+                84
             ],
             "underlined": true
         },
         {
-            "text": "0748F3BES",
+            "text": "8CVVCBAM",
             "position": [
                 10,
-                161
+                159
             ],
-            "underlined": false
+            "underlined": true
         }
     ],
-    "font": "DIN Alternate Bold.ttf",
+    "font": "Impact.ttf",
     "rotation": 0,
     "image_path": "synthetic_000003.png",
     "white_background": false

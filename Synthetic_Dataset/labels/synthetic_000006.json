@@ -1,7 +1,7 @@
 {
     "texts": [
         {
-            "text": "R5-1B",
+            "text": "3H",
             "position": [
                 10,
                 10
@@ -9,7 +9,7 @@
             "underlined": false
         }
     ],
-    "font": "DIN Alternate Bold.ttf",
+    "font": "Andale Mono.ttf",
     "rotation": 90,
     "image_path": "synthetic_000006.png",
     "white_background": true

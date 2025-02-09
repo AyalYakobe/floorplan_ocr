@@ -1,10 +1,18 @@
 {
     "texts": [
         {
-            "text": "JQAM7",
+            "text": "7F",
             "position": [
                 10,
                 10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "AUVI05R4",
+            "position": [
+                10,
+                75
             ],
             "underlined": true
         }
