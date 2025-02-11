@@ -8,7 +8,7 @@ The system is built to support batch processing of images extracted from PDFs, e
 ## Features
 - **Image Processing**: Prepares images for OCR processing by enhancing quality and extracting key features.
 - **Text Generation**: Uses OCR and additional processing techniques to generate textual descriptions from processed images.
-- **Evaluation**: Assesses the accuracy and quality of generated text, both through a simple mechanism and an advanced evaluator.
+- **Evaluation**: Assesses the accuracy and quality of generated text.
 - **Combining Text with Images**: Integrates the extracted text with images to create meaningful and usable outputs.
 - **PDF Processing**: Extracts images from PDF documents and applies OCR analysis to generate annotated JSON outputs.
 - **Modular Design**: The system is structured into distinct modules, making it easy to update, customize, and maintain.
@@ -33,7 +33,6 @@ The system can operate in two modes:
 - **`text_generation.py`**: Implements text extraction and generation algorithms to interpret and process content from images.
 - **`combine_text_w_image.py`**: Merges the extracted text with processed images to generate meaningful annotated outputs.
 - **`simple_evaluation.py`**: Provides a basic method to evaluate the extracted text’s quality and accuracy.
-- **`surya_evaluator.py`**: An advanced evaluation module that performs a more detailed analysis of text-image alignment and quality.
 - **`surya_pdf_processor.py`**: Extracts images from PDF files, applies OCR, and stores the output in JSON format for further processing.
 - **`sidebar_processor.py`**: Handles any special sidebar-related text extraction and processing for enhanced OCR results.
 
@@ -49,7 +48,6 @@ To modify whether to use sidebar training data or the five-step training data, a
 - Extracted and processed images.
 - Generated text output in JSON format.
 - Combined text-image outputs.
-- Evaluation reports on text quality and accuracy.
 
 ## Future Enhancements
 - Support for additional OCR models.
