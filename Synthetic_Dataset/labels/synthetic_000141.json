@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "WJ",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000141.png",
+    "white_background": false
+}

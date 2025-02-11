@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "9I-O",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000105.png",
+    "white_background": false
+}

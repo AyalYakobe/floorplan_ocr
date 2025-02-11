@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "LL2TD2T",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "L",
+            "position": [
+                10,
+                77
+            ],
+            "underlined": true
+        },
+        {
+            "text": "YN-G",
+            "position": [
+                10,
+                144
+            ],
+            "underlined": true
+        },
+        {
+            "text": "TY58X2Z",
+            "position": [
+                10,
+                212
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Courier New.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000174.png",
+    "white_background": true
+}

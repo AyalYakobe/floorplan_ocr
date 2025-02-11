@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "H6-Y",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "34750F9T",
+            "position": [
+                10,
+                94
+            ],
+            "underlined": false
+        },
+        {
+            "text": "EFCDUU0J",
+            "position": [
+                10,
+                178
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000150.png",
+    "white_background": true
+}

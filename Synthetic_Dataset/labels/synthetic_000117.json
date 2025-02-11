@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "AKTEIOXGN",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Andale Mono.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000117.png",
+    "white_background": false
+}

@@ -1,40 +1,16 @@
 {
     "texts": [
         {
-            "text": "MRT33SCU3",
+            "text": "OSJ",
             "position": [
                 10,
                 10
             ],
             "underlined": false
-        },
-        {
-            "text": "71",
-            "position": [
-                10,
-                87
-            ],
-            "underlined": false
-        },
-        {
-            "text": "TI",
-            "position": [
-                10,
-                163
-            ],
-            "underlined": true
-        },
-        {
-            "text": "PK30",
-            "position": [
-                10,
-                239
-            ],
-            "underlined": true
         }
     ],
     "font": "Arial.ttf",
-    "rotation": 90,
+    "rotation": 0,
     "image_path": "synthetic_000010.png",
     "white_background": true
 }

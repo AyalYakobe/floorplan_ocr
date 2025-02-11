@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "DY-V6K",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "09XV",
+            "position": [
+                10,
+                70
+            ],
+            "underlined": false
+        },
+        {
+            "text": "26ANQSFE-7",
+            "position": [
+                10,
+                130
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000146.png",
+    "white_background": true
+}

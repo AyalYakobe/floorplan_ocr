@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "0N-GQ-OYX",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "M7-X-3",
+            "position": [
+                10,
+                97
+            ],
+            "underlined": false
+        },
+        {
+            "text": "9GJBJG",
+            "position": [
+                10,
+                179
+            ],
+            "underlined": false
+        },
+        {
+            "text": "K50",
+            "position": [
+                10,
+                261
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000145.png",
+    "white_background": false
+}

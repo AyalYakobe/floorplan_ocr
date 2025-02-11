@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "U6B746",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Andale Mono.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000165.png",
+    "white_background": false
+}

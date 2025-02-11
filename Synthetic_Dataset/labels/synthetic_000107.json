@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "2LJJ-4-L7O",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "GKVP3",
+            "position": [
+                10,
+                78
+            ],
+            "underlined": false
+        },
+        {
+            "text": "UA3T",
+            "position": [
+                10,
+                146
+            ],
+            "underlined": true
+        },
+        {
+            "text": "UOK7X",
+            "position": [
+                10,
+                214
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "DIN Alternate Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000107.png",
+    "white_background": false
+}

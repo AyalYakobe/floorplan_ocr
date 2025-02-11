@@ -1,16 +1,24 @@
 {
     "texts": [
         {
-            "text": "T91M-AB",
+            "text": "M",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
+        },
+        {
+            "text": "6OM7TM2Z2T",
+            "position": [
+                10,
+                90
+            ],
+            "underlined": true
         }
     ],
-    "font": "DIN Alternate Bold.ttf",
-    "rotation": 0,
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000015.png",
     "white_background": false
 }

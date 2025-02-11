@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "G-G-69S",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000180.png",
+    "white_background": true
+}

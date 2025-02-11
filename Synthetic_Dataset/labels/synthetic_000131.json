@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "QSWO-4XB8B9",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "AH8MS-O7-1",
+            "position": [
+                10,
+                77
+            ],
+            "underlined": true
+        },
+        {
+            "text": "I5VC6L",
+            "position": [
+                10,
+                138
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Courier New.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000131.png",
+    "white_background": false
+}

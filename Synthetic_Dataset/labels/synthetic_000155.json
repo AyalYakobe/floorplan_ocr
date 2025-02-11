@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "1O-6Y",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "ZE9",
+            "position": [
+                10,
+                83
+            ],
+            "underlined": false
+        },
+        {
+            "text": "A",
+            "position": [
+                10,
+                156
+            ],
+            "underlined": false
+        },
+        {
+            "text": "Y8L70AOH0",
+            "position": [
+                10,
+                228
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000155.png",
+    "white_background": false
+}

@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "XFEE",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Narrow.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000138.png",
+    "white_background": true
+}

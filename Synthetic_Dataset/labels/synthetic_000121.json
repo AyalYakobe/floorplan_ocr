@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "ESBR-TY-5",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000121.png",
+    "white_background": false
+}

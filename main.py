@@ -2,7 +2,6 @@ from Scripts.combine_text_w_image import TextImageProcessor
 from Scripts.sidebar_processor import SuryaPDFProcessor
 from Scripts.simple_evaluation import OCREvaluator
 from Scripts.initial_image_processing import ImageProcessor
-from Scripts.surya_evaluator import SuryaEvaluator
 from Scripts.text_generation import SyntheticTextGenerator
 NUM_SAMPLES = 20
 
@@ -54,13 +53,3 @@ if __name__ == '__main__':
             output_csv="Results/ocr_evaluation_results.csv"
         )
         simple_evaluator.run_simple_evaluation()
-
-        # ------ Step .5 -------
-        surya_evaluator = SuryaEvaluator(
-            image_dir="Synthetic_Dataset/final_images",
-            label_dir="Synthetic_Dataset/labels",
-            output_coco_path="Synthetic_Dataset/surya_data/coco_annotations.json",
-            baseline_results='Synthetic_Dataset/surya_data/baseline_results.json',
-            fine_tuned_results='Synthetic_Dataset/surya_data/fine_tuned_results.json'
-        )
-        surya_evaluator.run_surya_evaluation()

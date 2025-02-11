@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "O0",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Impact.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000169.png",
+    "white_background": false
+}

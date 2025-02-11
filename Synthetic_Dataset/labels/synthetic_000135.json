@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "XMUPZ",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000135.png",
+    "white_background": false
+}

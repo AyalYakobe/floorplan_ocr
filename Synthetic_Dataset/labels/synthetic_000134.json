@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "G7",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "NK-WWS",
+            "position": [
+                10,
+                88
+            ],
+            "underlined": true
+        },
+        {
+            "text": "87-D8-5",
+            "position": [
+                10,
+                166
+            ],
+            "underlined": true
+        },
+        {
+            "text": "1R",
+            "position": [
+                10,
+                244
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000134.png",
+    "white_background": true
+}

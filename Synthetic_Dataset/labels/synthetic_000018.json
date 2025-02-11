@@ -1,31 +1,23 @@
 {
     "texts": [
         {
-            "text": "D",
+            "text": "VOXH65NBKR",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
-        },
-        {
-            "text": "OZQ",
-            "position": [
-                10,
-                77
-            ],
             "underlined": true
         },
         {
-            "text": "F8OE",
+            "text": "H",
             "position": [
                 10,
-                145
+                93
             ],
             "underlined": true
         }
     ],
-    "font": "DIN Condensed Bold.ttf",
+    "font": "Arial Bold.ttf",
     "rotation": 90,
     "image_path": "synthetic_000018.png",
     "white_background": true

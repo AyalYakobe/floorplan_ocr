@@ -1,12 +1,20 @@
 {
     "texts": [
         {
-            "text": "GT-M7",
+            "text": "S5Z6BQ6W",
             "position": [
                 10,
                 10
             ],
             "underlined": false
+        },
+        {
+            "text": "EYO-L",
+            "position": [
+                10,
+                66
+            ],
+            "underlined": true
         }
     ],
     "font": "DIN Condensed Bold.ttf",

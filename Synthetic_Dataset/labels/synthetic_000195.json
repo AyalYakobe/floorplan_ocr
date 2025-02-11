@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "A3NFTNMHCU",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000195.png",
+    "white_background": false
+}

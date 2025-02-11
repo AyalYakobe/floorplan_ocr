@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "VP14-O-76S",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000128.png",
+    "white_background": true
+}

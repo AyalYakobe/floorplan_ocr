@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "YC",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000173.png",
+    "white_background": false
+}

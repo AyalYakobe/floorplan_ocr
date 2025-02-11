@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "6-9J-TVAGI",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Andale Mono.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000109.png",
+    "white_background": false
+}

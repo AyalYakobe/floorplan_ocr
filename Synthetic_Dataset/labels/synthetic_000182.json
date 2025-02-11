@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "GA3ZECY",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Andale Mono.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000182.png",
+    "white_background": true
+}

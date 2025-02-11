@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "TRMVTPEQYZ",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "5-E-QQ",
+            "position": [
+                10,
+                75
+            ],
+            "underlined": true
+        },
+        {
+            "text": "8F1ZXHRJ9",
+            "position": [
+                10,
+                140
+            ],
+            "underlined": false
+        },
+        {
+            "text": "X1UDF",
+            "position": [
+                10,
+                204
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000190.png",
+    "white_background": true
+}

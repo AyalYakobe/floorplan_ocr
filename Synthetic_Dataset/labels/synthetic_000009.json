@@ -1,16 +1,32 @@
 {
     "texts": [
         {
-            "text": "O2625WB0",
+            "text": "R6V",
             "position": [
                 10,
                 10
             ],
-            "underlined": false
+            "underlined": true
+        },
+        {
+            "text": "0",
+            "position": [
+                10,
+                86
+            ],
+            "underlined": true
+        },
+        {
+            "text": "9-H-J6F",
+            "position": [
+                10,
+                162
+            ],
+            "underlined": true
         }
     ],
-    "font": "Arial Bold.ttf",
-    "rotation": 90,
+    "font": "Andale Mono.ttf",
+    "rotation": 0,
     "image_path": "synthetic_000009.png",
     "white_background": false
 }

@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "HVXARO115",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "Z1-RYA",
+            "position": [
+                10,
+                90
+            ],
+            "underlined": false
+        },
+        {
+            "text": "5-SX6-T",
+            "position": [
+                10,
+                169
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Andale Mono.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000130.png",
+    "white_background": true
+}

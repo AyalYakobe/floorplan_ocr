@@ -1,16 +1,16 @@
 {
     "texts": [
         {
-            "text": "I56",
+            "text": "QN-3-QM",
             "position": [
                 10,
                 10
             ],
-            "underlined": true
+            "underlined": false
         }
     ],
-    "font": "DIN Condensed Bold.ttf",
-    "rotation": 0,
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000019.png",
     "white_background": false
 }

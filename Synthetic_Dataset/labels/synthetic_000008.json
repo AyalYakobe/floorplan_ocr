@@ -1,24 +1,16 @@
 {
     "texts": [
         {
-            "text": "QEX66",
+            "text": "X-O413V-4",
             "position": [
                 10,
                 10
             ],
             "underlined": true
-        },
-        {
-            "text": "N-T94FP-Z4",
-            "position": [
-                10,
-                100
-            ],
-            "underlined": false
         }
     ],
-    "font": "Andale Mono.ttf",
-    "rotation": 0,
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 90,
     "image_path": "synthetic_000008.png",
     "white_background": true
 }

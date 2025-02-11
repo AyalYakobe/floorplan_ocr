@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "KQW0-LIU-D",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000111.png",
+    "white_background": false
+}

@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "BE7A-2W",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Narrow.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000183.png",
+    "white_background": false
+}

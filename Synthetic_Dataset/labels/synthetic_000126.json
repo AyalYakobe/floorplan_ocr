@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "IE70-KG04",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "Z4-43T2B5",
+            "position": [
+                10,
+                87
+            ],
+            "underlined": false
+        },
+        {
+            "text": "F-5-H",
+            "position": [
+                10,
+                164
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Narrow.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000126.png",
+    "white_background": true
+}

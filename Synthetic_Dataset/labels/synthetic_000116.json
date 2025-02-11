@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "DAO6-0OU-DIB",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "I9-I-BFYQL",
+            "position": [
+                10,
+                91
+            ],
+            "underlined": false
+        },
+        {
+            "text": "UUV5E2RL4",
+            "position": [
+                10,
+                181
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Andale Mono.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000116.png",
+    "white_background": true
+}

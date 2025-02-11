@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "7J-YH-B",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "RPUKI7-AWJW",
+            "position": [
+                10,
+                82
+            ],
+            "underlined": false
+        },
+        {
+            "text": "IBPTC-CN",
+            "position": [
+                10,
+                154
+            ],
+            "underlined": false
+        },
+        {
+            "text": "YE",
+            "position": [
+                10,
+                226
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Narrow.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000154.png",
+    "white_background": true
+}

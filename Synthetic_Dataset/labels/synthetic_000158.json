@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "R5RT-PU-CZ",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial Narrow.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000158.png",
+    "white_background": true
+}

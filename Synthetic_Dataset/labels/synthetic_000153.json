@@ -1,0 +1,24 @@
+{
+    "texts": [
+        {
+            "text": "4OI63",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "2-Y5-T",
+            "position": [
+                10,
+                85
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000153.png",
+    "white_background": false
+}

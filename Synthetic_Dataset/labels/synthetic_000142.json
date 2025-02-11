@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "1K-ALT",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "L-OB-55UT5U",
+            "position": [
+                10,
+                89
+            ],
+            "underlined": false
+        },
+        {
+            "text": "YFI2WY",
+            "position": [
+                10,
+                169
+            ],
+            "underlined": true
+        },
+        {
+            "text": "PVKQ-8OEW",
+            "position": [
+                10,
+                248
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Arial Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000142.png",
+    "white_background": true
+}

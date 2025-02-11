@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "XNJF-M-RDGYB",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "W",
+            "position": [
+                10,
+                81
+            ],
+            "underlined": true
+        },
+        {
+            "text": "FIO8A",
+            "position": [
+                10,
+                151
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Microsoft Sans Serif.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000181.png",
+    "white_background": false
+}

@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "PTW",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000137.png",
+    "white_background": false
+}

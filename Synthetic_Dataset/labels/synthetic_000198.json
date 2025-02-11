@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "E",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "Arial.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000198.png",
+    "white_background": true
+}

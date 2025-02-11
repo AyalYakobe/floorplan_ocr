@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "AI",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "T1",
+            "position": [
+                10,
+                92
+            ],
+            "underlined": true
+        },
+        {
+            "text": "FBSV",
+            "position": [
+                10,
+                174
+            ],
+            "underlined": false
+        },
+        {
+            "text": "SA-M2CW2",
+            "position": [
+                10,
+                257
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Impact.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000112.png",
+    "white_background": true
+}

@@ -1,0 +1,16 @@
+{
+    "texts": [
+        {
+            "text": "3-6-G",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000186.png",
+    "white_background": true
+}

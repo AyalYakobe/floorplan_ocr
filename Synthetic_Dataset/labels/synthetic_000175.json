@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "7",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "7",
+            "position": [
+                10,
+                70
+            ],
+            "underlined": true
+        },
+        {
+            "text": "32-ZZENCWY",
+            "position": [
+                10,
+                130
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000175.png",
+    "white_background": false
+}

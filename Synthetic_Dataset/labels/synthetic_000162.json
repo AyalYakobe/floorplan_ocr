@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "6",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "AZX1P8Y5",
+            "position": [
+                10,
+                64
+            ],
+            "underlined": false
+        },
+        {
+            "text": "FL2I5JWQ",
+            "position": [
+                10,
+                118
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000162.png",
+    "white_background": true
+}

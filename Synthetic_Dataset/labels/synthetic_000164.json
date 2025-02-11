@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "4",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": false
+        },
+        {
+            "text": "L",
+            "position": [
+                10,
+                81
+            ],
+            "underlined": true
+        },
+        {
+            "text": "M7C0-88",
+            "position": [
+                10,
+                152
+            ],
+            "underlined": true
+        },
+        {
+            "text": "HFJ3UOM9",
+            "position": [
+                10,
+                223
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "DIN Alternate Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000164.png",
+    "white_background": true
+}

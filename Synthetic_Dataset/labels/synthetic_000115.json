@@ -1,0 +1,40 @@
+{
+    "texts": [
+        {
+            "text": "V",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "NR",
+            "position": [
+                10,
+                68
+            ],
+            "underlined": true
+        },
+        {
+            "text": "VWA76",
+            "position": [
+                10,
+                126
+            ],
+            "underlined": true
+        },
+        {
+            "text": "C",
+            "position": [
+                10,
+                184
+            ],
+            "underlined": true
+        }
+    ],
+    "font": "DIN Condensed Bold.ttf",
+    "rotation": 0,
+    "image_path": "synthetic_000115.png",
+    "white_background": false
+}

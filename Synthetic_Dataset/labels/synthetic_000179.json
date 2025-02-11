@@ -1,0 +1,32 @@
+{
+    "texts": [
+        {
+            "text": "8K",
+            "position": [
+                10,
+                10
+            ],
+            "underlined": true
+        },
+        {
+            "text": "X3YKRL7",
+            "position": [
+                10,
+                92
+            ],
+            "underlined": false
+        },
+        {
+            "text": "X-AH-3",
+            "position": [
+                10,
+                174
+            ],
+            "underlined": false
+        }
+    ],
+    "font": "Andale Mono.ttf",
+    "rotation": 90,
+    "image_path": "synthetic_000179.png",
+    "white_background": false
+}
