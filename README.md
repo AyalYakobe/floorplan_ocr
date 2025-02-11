@@ -33,8 +33,7 @@ The system can operate in two modes:
 - **`text_generation.py`**: Implements text extraction and generation algorithms to interpret and process content from images.
 - **`combine_text_w_image.py`**: Merges the extracted text with processed images to generate meaningful annotated outputs.
 - **`simple_evaluation.py`**: Provides a basic method to evaluate the extracted text’s quality and accuracy.
-- **`surya_pdf_processor.py`**: Extracts images from PDF files, applies OCR, and stores the output in JSON format for further processing.
-- **`sidebar_processor.py`**: Handles any special sidebar-related text extraction and processing for enhanced OCR results.
+- **`sidebar_processor.py`**: Handles any special sidebar-related text extraction and processing for enhanced OCR results. Extracts images from PDF files, applies OCR, and stores the output in JSON format for further processing.
 
 ## Usage
 Run the main script to process images:
